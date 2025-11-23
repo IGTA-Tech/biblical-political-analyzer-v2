@@ -1,0 +1,2795 @@
+======================================================================
+🏗️  BIBLICAL NARRATIVE BUILDER
+======================================================================
+Output file: jewish_biblical_narrative_complete.md
+Total books: 66
+Total chapters: 1,189
+Context frequency: Every 5 chapters
+Estimated time: 3-5 hours for text extraction
+======================================================================
+
+======================================================================
+📜 PERIOD 2/15: Patriarchal Period
+======================================================================
+
+[Book 1/66]
+
+📖 Processing Genesis (50 chapters)...
+   📄 Chapter 1/50...⚠️  API error for Genesis 1: Status 429
+ ⚠️
+   📄 Chapter 2/50...⚠️  API error for Genesis 2: Status 429
+ ⚠️
+   📄 Chapter 3/50...⚠️  API error for Genesis 3: Status 429
+ ⚠️
+   📄 Chapter 4/50...⚠️  API error for Genesis 4: Status 429
+ ⚠️
+   📄 Chapter 5/50...⚠️  API error for Genesis 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/50...⚠️  API error for Genesis 6: Status 429
+ ⚠️
+   📄 Chapter 7/50...⚠️  API error for Genesis 7: Status 429
+ ⚠️
+   📄 Chapter 8/50...⚠️  API error for Genesis 8: Status 429
+ ⚠️
+   📄 Chapter 9/50...⚠️  API error for Genesis 9: Status 429
+ ⚠️
+   📄 Chapter 10/50...⚠️  API error for Genesis 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/50...⚠️  API error for Genesis 11: Status 429
+ ⚠️
+   📄 Chapter 12/50...⚠️  API error for Genesis 12: Status 429
+ ⚠️
+   📄 Chapter 13/50...⚠️  API error for Genesis 13: Status 429
+ ⚠️
+   📄 Chapter 14/50...⚠️  API error for Genesis 14: Status 429
+ ⚠️
+   📄 Chapter 15/50...⚠️  API error for Genesis 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/50...⚠️  API error for Genesis 16: Status 429
+ ⚠️
+   📄 Chapter 17/50... ✓
+   📄 Chapter 18/50... ✓
+   📄 Chapter 19/50... ✓
+   📄 Chapter 20/50... ✓
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/50... ✓
+   📄 Chapter 22/50... ✓
+   📄 Chapter 23/50... ✓
+   📄 Chapter 24/50...⚠️  API error for Genesis 24: Status 429
+ ⚠️
+   📄 Chapter 25/50...⚠️  API error for Genesis 25: Status 429
+ ⚠️
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/50...⚠️  API error for Genesis 26: Status 429
+ ⚠️
+   📄 Chapter 27/50...⚠️  API error for Genesis 27: Status 429
+ ⚠️
+   📄 Chapter 28/50...⚠️  API error for Genesis 28: Status 429
+ ⚠️
+   📄 Chapter 29/50...⚠️  API error for Genesis 29: Status 429
+ ⚠️
+   📄 Chapter 30/50...⚠️  API error for Genesis 30: Status 429
+ ⚠️
+   📊 Context analysis for chapters 26-30 ✓
+   📄 Chapter 31/50...⚠️  API error for Genesis 31: Status 429
+ ⚠️
+   📄 Chapter 32/50...⚠️  API error for Genesis 32: Status 429
+ ⚠️
+   📄 Chapter 33/50...⚠️  API error for Genesis 33: Status 429
+ ⚠️
+   📄 Chapter 34/50...⚠️  API error for Genesis 34: Status 429
+ ⚠️
+   📄 Chapter 35/50...⚠️  API error for Genesis 35: Status 429
+ ⚠️
+   📊 Context analysis for chapters 31-35 ✓
+   📄 Chapter 36/50...⚠️  API error for Genesis 36: Status 429
+ ⚠️
+   📄 Chapter 37/50...⚠️  API error for Genesis 37: Status 429
+ ⚠️
+   📄 Chapter 38/50...⚠️  API error for Genesis 38: Status 429
+ ⚠️
+   📄 Chapter 39/50...⚠️  API error for Genesis 39: Status 429
+ ⚠️
+   📄 Chapter 40/50...⚠️  API error for Genesis 40: Status 429
+ ⚠️
+   📊 Context analysis for chapters 36-40 ✓
+   📄 Chapter 41/50...⚠️  API error for Genesis 41: Status 429
+ ⚠️
+   📄 Chapter 42/50...⚠️  API error for Genesis 42: Status 429
+ ⚠️
+   📄 Chapter 43/50...⚠️  API error for Genesis 43: Status 429
+ ⚠️
+   📄 Chapter 44/50...⚠️  API error for Genesis 44: Status 429
+ ⚠️
+   📄 Chapter 45/50...⚠️  API error for Genesis 45: Status 429
+ ⚠️
+   📊 Context analysis for chapters 41-45 ✓
+   📄 Chapter 46/50...⚠️  API error for Genesis 46: Status 429
+ ⚠️
+   📄 Chapter 47/50... ✓
+   📄 Chapter 48/50... ✓
+   📄 Chapter 49/50... ✓
+   📄 Chapter 50/50... ✓
+   📊 Context analysis for chapters 46-50 ✓
+✅ Genesis complete!
+
+
+======================================================================
+📜 PERIOD 3/15: Exodus and Wilderness
+======================================================================
+
+[Book 2/66]
+
+📖 Processing Exodus (40 chapters)...
+   📄 Chapter 1/40... ✓
+   📄 Chapter 2/40... ✓
+   📄 Chapter 3/40... ✓
+   📄 Chapter 4/40...⚠️  API error for Exodus 4: Status 429
+ ⚠️
+   📄 Chapter 5/40...⚠️  API error for Exodus 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/40...⚠️  API error for Exodus 6: Status 429
+ ⚠️
+   📄 Chapter 7/40...⚠️  API error for Exodus 7: Status 429
+ ⚠️
+   📄 Chapter 8/40...⚠️  API error for Exodus 8: Status 429
+ ⚠️
+   📄 Chapter 9/40...⚠️  API error for Exodus 9: Status 429
+ ⚠️
+   📄 Chapter 10/40...⚠️  API error for Exodus 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/40...⚠️  API error for Exodus 11: Status 429
+ ⚠️
+   📄 Chapter 12/40...⚠️  API error for Exodus 12: Status 429
+ ⚠️
+   📄 Chapter 13/40...⚠️  API error for Exodus 13: Status 429
+ ⚠️
+   📄 Chapter 14/40...⚠️  API error for Exodus 14: Status 429
+ ⚠️
+   📄 Chapter 15/40...⚠️  API error for Exodus 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/40...⚠️  API error for Exodus 16: Status 429
+ ⚠️
+   📄 Chapter 17/40...⚠️  API error for Exodus 17: Status 429
+ ⚠️
+   📄 Chapter 18/40...⚠️  API error for Exodus 18: Status 429
+ ⚠️
+   📄 Chapter 19/40...⚠️  API error for Exodus 19: Status 429
+ ⚠️
+   📄 Chapter 20/40...⚠️  API error for Exodus 20: Status 429
+ ⚠️
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/40...⚠️  API error for Exodus 21: Status 429
+ ⚠️
+   📄 Chapter 22/40...⚠️  API error for Exodus 22: Status 429
+ ⚠️
+   📄 Chapter 23/40...⚠️  API error for Exodus 23: Status 429
+ ⚠️
+   📄 Chapter 24/40...⚠️  API error for Exodus 24: Status 429
+ ⚠️
+   📄 Chapter 25/40...⚠️  API error for Exodus 25: Status 429
+ ⚠️
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/40... ✓
+   📄 Chapter 27/40... ✓
+   📄 Chapter 28/40... ✓
+   📄 Chapter 29/40... ✓
+   📄 Chapter 30/40... ✓
+   📊 Context analysis for chapters 26-30 ✓
+   📄 Chapter 31/40... ✓
+   📄 Chapter 32/40... ✓
+   📄 Chapter 33/40... ✓
+   📄 Chapter 34/40...⚠️  API error for Exodus 34: Status 429
+ ⚠️
+   📄 Chapter 35/40...⚠️  API error for Exodus 35: Status 429
+ ⚠️
+   📊 Context analysis for chapters 31-35 ✓
+   📄 Chapter 36/40...⚠️  API error for Exodus 36: Status 429
+ ⚠️
+   📄 Chapter 37/40...⚠️  API error for Exodus 37: Status 429
+ ⚠️
+   📄 Chapter 38/40...⚠️  API error for Exodus 38: Status 429
+ ⚠️
+   📄 Chapter 39/40...⚠️  API error for Exodus 39: Status 429
+ ⚠️
+   📄 Chapter 40/40...⚠️  API error for Exodus 40: Status 429
+ ⚠️
+   📊 Context analysis for chapters 36-40 ✓
+✅ Exodus complete!
+
+
+[Book 3/66]
+
+📖 Processing Leviticus (27 chapters)...
+   📄 Chapter 1/27...⚠️  API error for Leviticus 1: Status 429
+ ⚠️
+   📄 Chapter 2/27...⚠️  API error for Leviticus 2: Status 429
+ ⚠️
+   📄 Chapter 3/27...⚠️  API error for Leviticus 3: Status 429
+ ⚠️
+   📄 Chapter 4/27...⚠️  API error for Leviticus 4: Status 429
+ ⚠️
+   📄 Chapter 5/27...⚠️  API error for Leviticus 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/27...⚠️  API error for Leviticus 6: Status 429
+ ⚠️
+   📄 Chapter 7/27...⚠️  API error for Leviticus 7: Status 429
+ ⚠️
+   📄 Chapter 8/27...⚠️  API error for Leviticus 8: Status 429
+ ⚠️
+   📄 Chapter 9/27...⚠️  API error for Leviticus 9: Status 429
+ ⚠️
+   📄 Chapter 10/27...⚠️  API error for Leviticus 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/27...⚠️  API error for Leviticus 11: Status 429
+ ⚠️
+   📄 Chapter 12/27...⚠️  API error for Leviticus 12: Status 429
+ ⚠️
+   📄 Chapter 13/27...⚠️  API error for Leviticus 13: Status 429
+ ⚠️
+   📄 Chapter 14/27...⚠️  API error for Leviticus 14: Status 429
+ ⚠️
+   📄 Chapter 15/27...⚠️  API error for Leviticus 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/27... ✓
+   📄 Chapter 17/27... ✓
+   📄 Chapter 18/27... ✓
+   📄 Chapter 19/27... ✓
+   📄 Chapter 20/27... ✓
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/27... ✓
+   📄 Chapter 22/27... ✓
+   📄 Chapter 23/27... ✓
+   📄 Chapter 24/27...⚠️  API error for Leviticus 24: Status 429
+ ⚠️
+   📄 Chapter 25/27...⚠️  API error for Leviticus 25: Status 429
+ ⚠️
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/27...⚠️  API error for Leviticus 26: Status 429
+ ⚠️
+   📄 Chapter 27/27...⚠️  API error for Leviticus 27: Status 429
+ ⚠️
+✅ Leviticus complete!
+
+
+[Book 4/66]
+
+📖 Processing Numbers (36 chapters)...
+   📄 Chapter 1/36...⚠️  API error for Numbers 1: Status 429
+ ⚠️
+   📄 Chapter 2/36...⚠️  API error for Numbers 2: Status 429
+ ⚠️
+   📄 Chapter 3/36...⚠️  API error for Numbers 3: Status 429
+ ⚠️
+   📄 Chapter 4/36...⚠️  API error for Numbers 4: Status 429
+ ⚠️
+   📄 Chapter 5/36...⚠️  API error for Numbers 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/36...⚠️  API error for Numbers 6: Status 429
+ ⚠️
+   📄 Chapter 7/36...⚠️  API error for Numbers 7: Status 429
+ ⚠️
+   📄 Chapter 8/36...⚠️  API error for Numbers 8: Status 429
+ ⚠️
+   📄 Chapter 9/36...⚠️  API error for Numbers 9: Status 429
+ ⚠️
+   📄 Chapter 10/36...⚠️  API error for Numbers 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/36...⚠️  API error for Numbers 11: Status 429
+ ⚠️
+   📄 Chapter 12/36...⚠️  API error for Numbers 12: Status 429
+ ⚠️
+   📄 Chapter 13/36...⚠️  API error for Numbers 13: Status 429
+ ⚠️
+   📄 Chapter 14/36...⚠️  API error for Numbers 14: Status 429
+ ⚠️
+   📄 Chapter 15/36...⚠️  API error for Numbers 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/36...⚠️  API error for Numbers 16: Status 429
+ ⚠️
+   📄 Chapter 17/36...⚠️  API error for Numbers 17: Status 429
+ ⚠️
+   📄 Chapter 18/36...⚠️  API error for Numbers 18: Status 429
+ ⚠️
+   📄 Chapter 19/36... ✓
+   📄 Chapter 20/36... ✓
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/36... ✓
+   📄 Chapter 22/36... ✓
+   📄 Chapter 23/36... ✓
+   📄 Chapter 24/36... ✓
+   📄 Chapter 25/36... ✓
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/36... ✓
+   📄 Chapter 27/36...⚠️  API error for Numbers 27: Status 429
+ ⚠️
+   📄 Chapter 28/36...⚠️  API error for Numbers 28: Status 429
+ ⚠️
+   📄 Chapter 29/36...⚠️  API error for Numbers 29: Status 429
+ ⚠️
+   📄 Chapter 30/36...⚠️  API error for Numbers 30: Status 429
+ ⚠️
+   📊 Context analysis for chapters 26-30 ✓
+   📄 Chapter 31/36...⚠️  API error for Numbers 31: Status 429
+ ⚠️
+   📄 Chapter 32/36...⚠️  API error for Numbers 32: Status 429
+ ⚠️
+   📄 Chapter 33/36...⚠️  API error for Numbers 33: Status 429
+ ⚠️
+   📄 Chapter 34/36...⚠️  API error for Numbers 34: Status 429
+ ⚠️
+   📄 Chapter 35/36...⚠️  API error for Numbers 35: Status 429
+ ⚠️
+   📊 Context analysis for chapters 31-35 ✓
+   📄 Chapter 36/36...⚠️  API error for Numbers 36: Status 429
+ ⚠️
+✅ Numbers complete!
+
+
+[Book 5/66]
+
+📖 Processing Deuteronomy (34 chapters)...
+   📄 Chapter 1/34...⚠️  API error for Deuteronomy 1: Status 429
+ ⚠️
+   📄 Chapter 2/34...⚠️  API error for Deuteronomy 2: Status 429
+ ⚠️
+   📄 Chapter 3/34...⚠️  API error for Deuteronomy 3: Status 429
+ ⚠️
+   📄 Chapter 4/34...⚠️  API error for Deuteronomy 4: Status 429
+ ⚠️
+   📄 Chapter 5/34...⚠️  API error for Deuteronomy 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/34...⚠️  API error for Deuteronomy 6: Status 429
+ ⚠️
+   📄 Chapter 7/34...⚠️  API error for Deuteronomy 7: Status 429
+ ⚠️
+   📄 Chapter 8/34...⚠️  API error for Deuteronomy 8: Status 429
+ ⚠️
+   📄 Chapter 9/34...⚠️  API error for Deuteronomy 9: Status 429
+ ⚠️
+   📄 Chapter 10/34...⚠️  API error for Deuteronomy 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/34...⚠️  API error for Deuteronomy 11: Status 429
+ ⚠️
+   📄 Chapter 12/34...⚠️  API error for Deuteronomy 12: Status 429
+ ⚠️
+   📄 Chapter 13/34... ✓
+   📄 Chapter 14/34... ✓
+   📄 Chapter 15/34... ✓
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/34... ✓
+   📄 Chapter 17/34... ✓
+   📄 Chapter 18/34... ✓
+   📄 Chapter 19/34... ✓
+   📄 Chapter 20/34... ✓
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/34...⚠️  API error for Deuteronomy 21: Status 429
+ ⚠️
+   📄 Chapter 22/34...⚠️  API error for Deuteronomy 22: Status 429
+ ⚠️
+   📄 Chapter 23/34...⚠️  API error for Deuteronomy 23: Status 429
+ ⚠️
+   📄 Chapter 24/34...⚠️  API error for Deuteronomy 24: Status 429
+ ⚠️
+   📄 Chapter 25/34...⚠️  API error for Deuteronomy 25: Status 429
+ ⚠️
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/34...⚠️  API error for Deuteronomy 26: Status 429
+ ⚠️
+   📄 Chapter 27/34...⚠️  API error for Deuteronomy 27: Status 429
+ ⚠️
+   📄 Chapter 28/34...⚠️  API error for Deuteronomy 28: Status 429
+ ⚠️
+   📄 Chapter 29/34...⚠️  API error for Deuteronomy 29: Status 429
+ ⚠️
+   📄 Chapter 30/34...⚠️  API error for Deuteronomy 30: Status 429
+ ⚠️
+   📊 Context analysis for chapters 26-30 ✓
+   📄 Chapter 31/34...⚠️  API error for Deuteronomy 31: Status 429
+ ⚠️
+   📄 Chapter 32/34...⚠️  API error for Deuteronomy 32: Status 429
+ ⚠️
+   📄 Chapter 33/34...⚠️  API error for Deuteronomy 33: Status 429
+ ⚠️
+   📄 Chapter 34/34...⚠️  API error for Deuteronomy 34: Status 429
+ ⚠️
+✅ Deuteronomy complete!
+
+
+======================================================================
+📜 PERIOD 4/15: Conquest and Settlement
+======================================================================
+
+[Book 6/66]
+
+📖 Processing Joshua (24 chapters)...
+   📄 Chapter 1/24...⚠️  API error for Joshua 1: Status 429
+ ⚠️
+   📄 Chapter 2/24...⚠️  API error for Joshua 2: Status 429
+ ⚠️
+   📄 Chapter 3/24...⚠️  API error for Joshua 3: Status 429
+ ⚠️
+   📄 Chapter 4/24...⚠️  API error for Joshua 4: Status 429
+ ⚠️
+   📄 Chapter 5/24...⚠️  API error for Joshua 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/24...⚠️  API error for Joshua 6: Status 429
+ ⚠️
+   📄 Chapter 7/24...⚠️  API error for Joshua 7: Status 429
+ ⚠️
+   📄 Chapter 8/24...⚠️  API error for Joshua 8: Status 429
+ ⚠️
+   📄 Chapter 9/24... ✓
+   📄 Chapter 10/24... ✓
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/24... ✓
+   📄 Chapter 12/24... ✓
+   📄 Chapter 13/24... ✓
+   📄 Chapter 14/24... ✓
+   📄 Chapter 15/24... ✓
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/24... ✓
+   📄 Chapter 17/24...⚠️  API error for Joshua 17: Status 429
+ ⚠️
+   📄 Chapter 18/24...⚠️  API error for Joshua 18: Status 429
+ ⚠️
+   📄 Chapter 19/24...⚠️  API error for Joshua 19: Status 429
+ ⚠️
+   📄 Chapter 20/24...⚠️  API error for Joshua 20: Status 429
+ ⚠️
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/24...⚠️  API error for Joshua 21: Status 429
+ ⚠️
+   📄 Chapter 22/24...⚠️  API error for Joshua 22: Status 429
+ ⚠️
+   📄 Chapter 23/24...⚠️  API error for Joshua 23: Status 429
+ ⚠️
+   📄 Chapter 24/24...⚠️  API error for Joshua 24: Status 429
+ ⚠️
+✅ Joshua complete!
+
+
+[Book 7/66]
+
+📖 Processing Judges (21 chapters)...
+   📄 Chapter 1/21...⚠️  API error for Judges 1: Status 429
+ ⚠️
+   📄 Chapter 2/21...⚠️  API error for Judges 2: Status 429
+ ⚠️
+   📄 Chapter 3/21...⚠️  API error for Judges 3: Status 429
+ ⚠️
+   📄 Chapter 4/21...⚠️  API error for Judges 4: Status 429
+ ⚠️
+   📄 Chapter 5/21...⚠️  API error for Judges 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/21...⚠️  API error for Judges 6: Status 429
+ ⚠️
+   📄 Chapter 7/21...⚠️  API error for Judges 7: Status 429
+ ⚠️
+   📄 Chapter 8/21...⚠️  API error for Judges 8: Status 429
+ ⚠️
+   📄 Chapter 9/21...⚠️  API error for Judges 9: Status 429
+ ⚠️
+   📄 Chapter 10/21...⚠️  API error for Judges 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/21...⚠️  API error for Judges 11: Status 429
+ ⚠️
+   📄 Chapter 12/21...⚠️  API error for Judges 12: Status 429
+ ⚠️
+   📄 Chapter 13/21...⚠️  API error for Judges 13: Status 429
+ ⚠️
+   📄 Chapter 14/21...⚠️  API error for Judges 14: Status 429
+ ⚠️
+   📄 Chapter 15/21... ✓
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/21... ✓
+   📄 Chapter 17/21... ✓
+   📄 Chapter 18/21... ✓
+   📄 Chapter 19/21... ✓
+   📄 Chapter 20/21... ✓
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/21... ✓
+✅ Judges complete!
+
+
+[Book 8/66]
+
+📖 Processing Ruth (4 chapters)...
+   📄 Chapter 1/4...⚠️  API error for Ruth 1: Status 429
+ ⚠️
+   📄 Chapter 2/4...⚠️  API error for Ruth 2: Status 429
+ ⚠️
+   📄 Chapter 3/4...⚠️  API error for Ruth 3: Status 429
+ ⚠️
+   📄 Chapter 4/4...⚠️  API error for Ruth 4: Status 429
+ ⚠️
+✅ Ruth complete!
+
+
+======================================================================
+📜 PERIOD 5/15: United Monarchy
+======================================================================
+
+[Book 9/66]
+
+📖 Processing 1 Samuel (31 chapters)...
+   📄 Chapter 1/31...⚠️  API error for 1 Samuel 1: Status 429
+ ⚠️
+   📄 Chapter 2/31...⚠️  API error for 1 Samuel 2: Status 429
+ ⚠️
+   📄 Chapter 3/31...⚠️  API error for 1 Samuel 3: Status 429
+ ⚠️
+   📄 Chapter 4/31...⚠️  API error for 1 Samuel 4: Status 429
+ ⚠️
+   📄 Chapter 5/31...⚠️  API error for 1 Samuel 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/31...⚠️  API error for 1 Samuel 6: Status 429
+ ⚠️
+   📄 Chapter 7/31...⚠️  API error for 1 Samuel 7: Status 429
+ ⚠️
+   📄 Chapter 8/31...⚠️  API error for 1 Samuel 8: Status 429
+ ⚠️
+   📄 Chapter 9/31...⚠️  API error for 1 Samuel 9: Status 429
+ ⚠️
+   📄 Chapter 10/31...⚠️  API error for 1 Samuel 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/31...⚠️  API error for 1 Samuel 11: Status 429
+ ⚠️
+   📄 Chapter 12/31...⚠️  API error for 1 Samuel 12: Status 429
+ ⚠️
+   📄 Chapter 13/31...⚠️  API error for 1 Samuel 13: Status 429
+ ⚠️
+   📄 Chapter 14/31...⚠️  API error for 1 Samuel 14: Status 429
+ ⚠️
+   📄 Chapter 15/31...⚠️  API error for 1 Samuel 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/31...⚠️  API error for 1 Samuel 16: Status 429
+ ⚠️
+   📄 Chapter 17/31...⚠️  API error for 1 Samuel 17: Status 429
+ ⚠️
+   📄 Chapter 18/31...⚠️  API error for 1 Samuel 18: Status 429
+ ⚠️
+   📄 Chapter 19/31...⚠️  API error for 1 Samuel 19: Status 429
+ ⚠️
+   📄 Chapter 20/31... ✓
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/31... ✓
+   📄 Chapter 22/31... ✓
+   📄 Chapter 23/31... ✓
+   📄 Chapter 24/31... ✓
+   📄 Chapter 25/31... ✓
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/31... ✓
+   📄 Chapter 27/31...⚠️  API error for 1 Samuel 27: Status 429
+ ⚠️
+   📄 Chapter 28/31...⚠️  API error for 1 Samuel 28: Status 429
+ ⚠️
+   📄 Chapter 29/31...⚠️  API error for 1 Samuel 29: Status 429
+ ⚠️
+   📄 Chapter 30/31...⚠️  API error for 1 Samuel 30: Status 429
+ ⚠️
+   📊 Context analysis for chapters 26-30 ✓
+   📄 Chapter 31/31...⚠️  API error for 1 Samuel 31: Status 429
+ ⚠️
+✅ 1 Samuel complete!
+
+
+[Book 10/66]
+
+📖 Processing 2 Samuel (24 chapters)...
+   📄 Chapter 1/24...⚠️  API error for 2 Samuel 1: Status 429
+ ⚠️
+   📄 Chapter 2/24...⚠️  API error for 2 Samuel 2: Status 429
+ ⚠️
+   📄 Chapter 3/24...⚠️  API error for 2 Samuel 3: Status 429
+ ⚠️
+   📄 Chapter 4/24...⚠️  API error for 2 Samuel 4: Status 429
+ ⚠️
+   📄 Chapter 5/24...⚠️  API error for 2 Samuel 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/24...⚠️  API error for 2 Samuel 6: Status 429
+ ⚠️
+   📄 Chapter 7/24...⚠️  API error for 2 Samuel 7: Status 429
+ ⚠️
+   📄 Chapter 8/24...⚠️  API error for 2 Samuel 8: Status 429
+ ⚠️
+   📄 Chapter 9/24...⚠️  API error for 2 Samuel 9: Status 429
+ ⚠️
+   📄 Chapter 10/24...⚠️  API error for 2 Samuel 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/24...⚠️  API error for 2 Samuel 11: Status 429
+ ⚠️
+   📄 Chapter 12/24...⚠️  API error for 2 Samuel 12: Status 429
+ ⚠️
+   📄 Chapter 13/24...⚠️  API error for 2 Samuel 13: Status 429
+ ⚠️
+   📄 Chapter 14/24...⚠️  API error for 2 Samuel 14: Status 429
+ ⚠️
+   📄 Chapter 15/24...⚠️  API error for 2 Samuel 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/24...⚠️  API error for 2 Samuel 16: Status 429
+ ⚠️
+   📄 Chapter 17/24...⚠️  API error for 2 Samuel 17: Status 429
+ ⚠️
+   📄 Chapter 18/24...⚠️  API error for 2 Samuel 18: Status 429
+ ⚠️
+   📄 Chapter 19/24... ✓
+   📄 Chapter 20/24... ✓
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/24... ✓
+   📄 Chapter 22/24... ✓
+   📄 Chapter 23/24... ✓
+   📄 Chapter 24/24... ✓
+✅ 2 Samuel complete!
+
+
+======================================================================
+📜 PERIOD 7/15: Divided Kingdom - Southern Judah
+======================================================================
+
+[Book 11/66]
+
+📖 Processing 1 Kings (22 chapters)...
+   📄 Chapter 1/22... ✓
+   📄 Chapter 2/22...⚠️  API error for 1 Kings 2: Status 429
+ ⚠️
+   📄 Chapter 3/22...⚠️  API error for 1 Kings 3: Status 429
+ ⚠️
+   📄 Chapter 4/22...⚠️  API error for 1 Kings 4: Status 429
+ ⚠️
+   📄 Chapter 5/22...⚠️  API error for 1 Kings 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/22...⚠️  API error for 1 Kings 6: Status 429
+ ⚠️
+   📄 Chapter 7/22...⚠️  API error for 1 Kings 7: Status 429
+ ⚠️
+   📄 Chapter 8/22...⚠️  API error for 1 Kings 8: Status 429
+ ⚠️
+   📄 Chapter 9/22...⚠️  API error for 1 Kings 9: Status 429
+ ⚠️
+   📄 Chapter 10/22...⚠️  API error for 1 Kings 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/22...⚠️  API error for 1 Kings 11: Status 429
+ ⚠️
+   📄 Chapter 12/22...⚠️  API error for 1 Kings 12: Status 429
+ ⚠️
+   📄 Chapter 13/22...⚠️  API error for 1 Kings 13: Status 429
+ ⚠️
+   📄 Chapter 14/22...⚠️  API error for 1 Kings 14: Status 429
+ ⚠️
+   📄 Chapter 15/22...⚠️  API error for 1 Kings 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/22...⚠️  API error for 1 Kings 16: Status 429
+ ⚠️
+   📄 Chapter 17/22...⚠️  API error for 1 Kings 17: Status 429
+ ⚠️
+   📄 Chapter 18/22...⚠️  API error for 1 Kings 18: Status 429
+ ⚠️
+   📄 Chapter 19/22...⚠️  API error for 1 Kings 19: Status 429
+ ⚠️
+   📄 Chapter 20/22...⚠️  API error for 1 Kings 20: Status 429
+ ⚠️
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/22...⚠️  API error for 1 Kings 21: Status 429
+ ⚠️
+   📄 Chapter 22/22...⚠️  API error for 1 Kings 22: Status 429
+ ⚠️
+✅ 1 Kings complete!
+
+
+[Book 12/66]
+
+📖 Processing 2 Kings (25 chapters)...
+   📄 Chapter 1/25...⚠️  API error for 2 Kings 1: Status 429
+ ⚠️
+   📄 Chapter 2/25...⚠️  API error for 2 Kings 2: Status 429
+ ⚠️
+   📄 Chapter 3/25... ✓
+   📄 Chapter 4/25... ✓
+   📄 Chapter 5/25... ✓
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/25... ✓
+   📄 Chapter 7/25... ✓
+   📄 Chapter 8/25... ✓
+   📄 Chapter 9/25... ✓
+   📄 Chapter 10/25...⚠️  API error for 2 Kings 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/25...⚠️  API error for 2 Kings 11: Status 429
+ ⚠️
+   📄 Chapter 12/25...⚠️  API error for 2 Kings 12: Status 429
+ ⚠️
+   📄 Chapter 13/25...⚠️  API error for 2 Kings 13: Status 429
+ ⚠️
+   📄 Chapter 14/25...⚠️  API error for 2 Kings 14: Status 429
+ ⚠️
+   📄 Chapter 15/25...⚠️  API error for 2 Kings 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/25...⚠️  API error for 2 Kings 16: Status 429
+ ⚠️
+   📄 Chapter 17/25...⚠️  API error for 2 Kings 17: Status 429
+ ⚠️
+   📄 Chapter 18/25...⚠️  API error for 2 Kings 18: Status 429
+ ⚠️
+   📄 Chapter 19/25...⚠️  API error for 2 Kings 19: Status 429
+ ⚠️
+   📄 Chapter 20/25...⚠️  API error for 2 Kings 20: Status 429
+ ⚠️
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/25...⚠️  API error for 2 Kings 21: Status 429
+ ⚠️
+   📄 Chapter 22/25...⚠️  API error for 2 Kings 22: Status 429
+ ⚠️
+   📄 Chapter 23/25...⚠️  API error for 2 Kings 23: Status 429
+ ⚠️
+   📄 Chapter 24/25...⚠️  API error for 2 Kings 24: Status 429
+ ⚠️
+   📄 Chapter 25/25...⚠️  API error for 2 Kings 25: Status 429
+ ⚠️
+   📊 Context analysis for chapters 21-25 ✓
+✅ 2 Kings complete!
+
+
+======================================================================
+📜 PERIOD 5/15: United Monarchy
+======================================================================
+
+[Book 13/66]
+
+📖 Processing 1 Chronicles (29 chapters)...
+   📄 Chapter 1/29...⚠️  API error for 1 Chronicles 1: Status 429
+ ⚠️
+   📄 Chapter 2/29...⚠️  API error for 1 Chronicles 2: Status 429
+ ⚠️
+   📄 Chapter 3/29...⚠️  API error for 1 Chronicles 3: Status 429
+ ⚠️
+   📄 Chapter 4/29...⚠️  API error for 1 Chronicles 4: Status 429
+ ⚠️
+   📄 Chapter 5/29...⚠️  API error for 1 Chronicles 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/29...⚠️  API error for 1 Chronicles 6: Status 429
+ ⚠️
+   📄 Chapter 7/29...⚠️  API error for 1 Chronicles 7: Status 429
+ ⚠️
+   📄 Chapter 8/29... ✓
+   📄 Chapter 9/29... ✓
+   📄 Chapter 10/29... ✓
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/29... ✓
+   📄 Chapter 12/29... ✓
+   📄 Chapter 13/29... ✓
+   📄 Chapter 14/29... ✓
+   📄 Chapter 15/29...⚠️  API error for 1 Chronicles 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/29...⚠️  API error for 1 Chronicles 16: Status 429
+ ⚠️
+   📄 Chapter 17/29...⚠️  API error for 1 Chronicles 17: Status 429
+ ⚠️
+   📄 Chapter 18/29...⚠️  API error for 1 Chronicles 18: Status 429
+ ⚠️
+   📄 Chapter 19/29...⚠️  API error for 1 Chronicles 19: Status 429
+ ⚠️
+   📄 Chapter 20/29...⚠️  API error for 1 Chronicles 20: Status 429
+ ⚠️
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/29...⚠️  API error for 1 Chronicles 21: Status 429
+ ⚠️
+   📄 Chapter 22/29...⚠️  API error for 1 Chronicles 22: Status 429
+ ⚠️
+   📄 Chapter 23/29...⚠️  API error for 1 Chronicles 23: Status 429
+ ⚠️
+   📄 Chapter 24/29...⚠️  API error for 1 Chronicles 24: Status 429
+ ⚠️
+   📄 Chapter 25/29...⚠️  API error for 1 Chronicles 25: Status 429
+ ⚠️
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/29...⚠️  API error for 1 Chronicles 26: Status 429
+ ⚠️
+   📄 Chapter 27/29...⚠️  API error for 1 Chronicles 27: Status 429
+ ⚠️
+   📄 Chapter 28/29...⚠️  API error for 1 Chronicles 28: Status 429
+ ⚠️
+   📄 Chapter 29/29...⚠️  API error for 1 Chronicles 29: Status 429
+ ⚠️
+✅ 1 Chronicles complete!
+
+
+======================================================================
+📜 PERIOD 7/15: Divided Kingdom - Southern Judah
+======================================================================
+
+[Book 14/66]
+
+📖 Processing 2 Chronicles (36 chapters)...
+   📄 Chapter 1/36...⚠️  API error for 2 Chronicles 1: Status 429
+ ⚠️
+   📄 Chapter 2/36...⚠️  API error for 2 Chronicles 2: Status 429
+ ⚠️
+   📄 Chapter 3/36...⚠️  API error for 2 Chronicles 3: Status 429
+ ⚠️
+   📄 Chapter 4/36...⚠️  API error for 2 Chronicles 4: Status 429
+ ⚠️
+   📄 Chapter 5/36...⚠️  API error for 2 Chronicles 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/36...⚠️  API error for 2 Chronicles 6: Status 429
+ ⚠️
+   📄 Chapter 7/36...⚠️  API error for 2 Chronicles 7: Status 429
+ ⚠️
+   📄 Chapter 8/36...⚠️  API error for 2 Chronicles 8: Status 429
+ ⚠️
+   📄 Chapter 9/36... ✓
+   📄 Chapter 10/36... ✓
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/36... ✓
+   📄 Chapter 12/36... ✓
+   📄 Chapter 13/36... ✓
+   📄 Chapter 14/36... ✓
+   📄 Chapter 15/36... ✓
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/36... ✓
+   📄 Chapter 17/36...⚠️  API error for 2 Chronicles 17: Status 429
+ ⚠️
+   📄 Chapter 18/36...⚠️  API error for 2 Chronicles 18: Status 429
+ ⚠️
+   📄 Chapter 19/36...⚠️  API error for 2 Chronicles 19: Status 429
+ ⚠️
+   📄 Chapter 20/36...⚠️  API error for 2 Chronicles 20: Status 429
+ ⚠️
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/36...⚠️  API error for 2 Chronicles 21: Status 429
+ ⚠️
+   📄 Chapter 22/36...⚠️  API error for 2 Chronicles 22: Status 429
+ ⚠️
+   📄 Chapter 23/36...⚠️  API error for 2 Chronicles 23: Status 429
+ ⚠️
+   📄 Chapter 24/36...⚠️  API error for 2 Chronicles 24: Status 429
+ ⚠️
+   📄 Chapter 25/36...⚠️  API error for 2 Chronicles 25: Status 429
+ ⚠️
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/36...⚠️  API error for 2 Chronicles 26: Status 429
+ ⚠️
+   📄 Chapter 27/36...⚠️  API error for 2 Chronicles 27: Status 429
+ ⚠️
+   📄 Chapter 28/36...⚠️  API error for 2 Chronicles 28: Status 429
+ ⚠️
+   📄 Chapter 29/36...⚠️  API error for 2 Chronicles 29: Status 429
+ ⚠️
+   📄 Chapter 30/36...⚠️  API error for 2 Chronicles 30: Status 429
+ ⚠️
+   📊 Context analysis for chapters 26-30 ✓
+   📄 Chapter 31/36...⚠️  API error for 2 Chronicles 31: Status 429
+ ⚠️
+   📄 Chapter 32/36...⚠️  API error for 2 Chronicles 32: Status 429
+ ⚠️
+   📄 Chapter 33/36...⚠️  API error for 2 Chronicles 33: Status 429
+ ⚠️
+   📄 Chapter 34/36...⚠️  API error for 2 Chronicles 34: Status 429
+ ⚠️
+   📄 Chapter 35/36...⚠️  API error for 2 Chronicles 35: Status 429
+ ⚠️
+   📊 Context analysis for chapters 31-35 ✓
+   📄 Chapter 36/36...⚠️  API error for 2 Chronicles 36: Status 429
+ ⚠️
+✅ 2 Chronicles complete!
+
+
+======================================================================
+📜 PERIOD 9/15: Persian Period and Return
+======================================================================
+
+[Book 15/66]
+
+📖 Processing Ezra (10 chapters)...
+   📄 Chapter 1/10...⚠️  API error for Ezra 1: Status 429
+ ⚠️
+   📄 Chapter 2/10...⚠️  API error for Ezra 2: Status 429
+ ⚠️
+   📄 Chapter 3/10... ✓
+   📄 Chapter 4/10... ✓
+   📄 Chapter 5/10... ✓
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/10... ✓
+   📄 Chapter 7/10... ✓
+   📄 Chapter 8/10... ✓
+   📄 Chapter 9/10... ✓
+   📄 Chapter 10/10...⚠️  API error for Ezra 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+✅ Ezra complete!
+
+
+[Book 16/66]
+
+📖 Processing Nehemiah (13 chapters)...
+   📄 Chapter 1/13...⚠️  API error for Nehemiah 1: Status 429
+ ⚠️
+   📄 Chapter 2/13...⚠️  API error for Nehemiah 2: Status 429
+ ⚠️
+   📄 Chapter 3/13...⚠️  API error for Nehemiah 3: Status 429
+ ⚠️
+   📄 Chapter 4/13...⚠️  API error for Nehemiah 4: Status 429
+ ⚠️
+   📄 Chapter 5/13...⚠️  API error for Nehemiah 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/13...⚠️  API error for Nehemiah 6: Status 429
+ ⚠️
+   📄 Chapter 7/13...⚠️  API error for Nehemiah 7: Status 429
+ ⚠️
+   📄 Chapter 8/13...⚠️  API error for Nehemiah 8: Status 429
+ ⚠️
+   📄 Chapter 9/13...⚠️  API error for Nehemiah 9: Status 429
+ ⚠️
+   📄 Chapter 10/13...⚠️  API error for Nehemiah 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/13...⚠️  API error for Nehemiah 11: Status 429
+ ⚠️
+   📄 Chapter 12/13...⚠️  API error for Nehemiah 12: Status 429
+ ⚠️
+   📄 Chapter 13/13...⚠️  API error for Nehemiah 13: Status 429
+ ⚠️
+✅ Nehemiah complete!
+
+
+[Book 17/66]
+
+📖 Processing Esther (10 chapters)...
+   📄 Chapter 1/10...⚠️  API error for Esther 1: Status 429
+ ⚠️
+   📄 Chapter 2/10...⚠️  API error for Esther 2: Status 429
+ ⚠️
+   📄 Chapter 3/10...⚠️  API error for Esther 3: Status 429
+ ⚠️
+   📄 Chapter 4/10...⚠️  API error for Esther 4: Status 429
+ ⚠️
+   📄 Chapter 5/10...⚠️  API error for Esther 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/10...⚠️  API error for Esther 6: Status 429
+ ⚠️
+   📄 Chapter 7/10...⚠️  API error for Esther 7: Status 429
+ ⚠️
+   📄 Chapter 8/10...⚠️  API error for Esther 8: Status 429
+ ⚠️
+   📄 Chapter 9/10...⚠️  API error for Esther 9: Status 429
+ ⚠️
+   📄 Chapter 10/10... ✓
+   📊 Context analysis for chapters 6-10 ✓
+✅ Esther complete!
+
+
+======================================================================
+📜 PERIOD 10/15: Wisdom Literature
+======================================================================
+
+[Book 18/66]
+
+📖 Processing Job (42 chapters)...
+   📄 Chapter 1/42... ✓
+   📄 Chapter 2/42... ✓
+   📄 Chapter 3/42... ✓
+   📄 Chapter 4/42... ✓
+   📄 Chapter 5/42... ✓
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/42... ✓
+   📄 Chapter 7/42...⚠️  API error for Job 7: Status 429
+ ⚠️
+   📄 Chapter 8/42...⚠️  API error for Job 8: Status 429
+ ⚠️
+   📄 Chapter 9/42...⚠️  API error for Job 9: Status 429
+ ⚠️
+   📄 Chapter 10/42...⚠️  API error for Job 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/42...⚠️  API error for Job 11: Status 429
+ ⚠️
+   📄 Chapter 12/42...⚠️  API error for Job 12: Status 429
+ ⚠️
+   📄 Chapter 13/42...⚠️  API error for Job 13: Status 429
+ ⚠️
+   📄 Chapter 14/42...⚠️  API error for Job 14: Status 429
+ ⚠️
+   📄 Chapter 15/42...⚠️  API error for Job 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/42...⚠️  API error for Job 16: Status 429
+ ⚠️
+   📄 Chapter 17/42...⚠️  API error for Job 17: Status 429
+ ⚠️
+   📄 Chapter 18/42...⚠️  API error for Job 18: Status 429
+ ⚠️
+   📄 Chapter 19/42...⚠️  API error for Job 19: Status 429
+ ⚠️
+   📄 Chapter 20/42...⚠️  API error for Job 20: Status 429
+ ⚠️
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/42...⚠️  API error for Job 21: Status 429
+ ⚠️
+   📄 Chapter 22/42...⚠️  API error for Job 22: Status 429
+ ⚠️
+   📄 Chapter 23/42...⚠️  API error for Job 23: Status 429
+ ⚠️
+   📄 Chapter 24/42...⚠️  API error for Job 24: Status 429
+ ⚠️
+   📄 Chapter 25/42...⚠️  API error for Job 25: Status 429
+ ⚠️
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/42...⚠️  API error for Job 26: Status 429
+ ⚠️
+   📄 Chapter 27/42...⚠️  API error for Job 27: Status 429
+ ⚠️
+   📄 Chapter 28/42...⚠️  API error for Job 28: Status 429
+ ⚠️
+   📄 Chapter 29/42...⚠️  API error for Job 29: Status 429
+ ⚠️
+   📄 Chapter 30/42... ✓
+   📊 Context analysis for chapters 26-30 ✓
+   📄 Chapter 31/42... ✓
+   📄 Chapter 32/42... ✓
+   📄 Chapter 33/42... ✓
+   📄 Chapter 34/42... ✓
+   📄 Chapter 35/42... ✓
+   📊 Context analysis for chapters 31-35 ✓
+   📄 Chapter 36/42... ✓
+   📄 Chapter 37/42...⚠️  API error for Job 37: Status 429
+ ⚠️
+   📄 Chapter 38/42...⚠️  API error for Job 38: Status 429
+ ⚠️
+   📄 Chapter 39/42...⚠️  API error for Job 39: Status 429
+ ⚠️
+   📄 Chapter 40/42...⚠️  API error for Job 40: Status 429
+ ⚠️
+   📊 Context analysis for chapters 36-40 ✓
+   📄 Chapter 41/42...⚠️  API error for Job 41: Status 429
+ ⚠️
+   📄 Chapter 42/42...⚠️  API error for Job 42: Status 429
+ ⚠️
+✅ Job complete!
+
+
+[Book 19/66]
+
+📖 Processing Psalms (150 chapters)...
+   📄 Chapter 1/150...⚠️  API error for Psalms 1: Status 429
+ ⚠️
+   📄 Chapter 2/150...⚠️  API error for Psalms 2: Status 429
+ ⚠️
+   📄 Chapter 3/150...⚠️  API error for Psalms 3: Status 429
+ ⚠️
+   📄 Chapter 4/150...⚠️  API error for Psalms 4: Status 429
+ ⚠️
+   📄 Chapter 5/150...⚠️  API error for Psalms 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/150...⚠️  API error for Psalms 6: Status 429
+ ⚠️
+   📄 Chapter 7/150...⚠️  API error for Psalms 7: Status 429
+ ⚠️
+   📄 Chapter 8/150...⚠️  API error for Psalms 8: Status 429
+ ⚠️
+   📄 Chapter 9/150...⚠️  API error for Psalms 9: Status 429
+ ⚠️
+   📄 Chapter 10/150...⚠️  API error for Psalms 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/150...⚠️  API error for Psalms 11: Status 429
+ ⚠️
+   📄 Chapter 12/150...⚠️  API error for Psalms 12: Status 429
+ ⚠️
+   📄 Chapter 13/150...⚠️  API error for Psalms 13: Status 429
+ ⚠️
+   📄 Chapter 14/150...⚠️  API error for Psalms 14: Status 429
+ ⚠️
+   📄 Chapter 15/150...⚠️  API error for Psalms 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/150...⚠️  API error for Psalms 16: Status 429
+ ⚠️
+   📄 Chapter 17/150...⚠️  API error for Psalms 17: Status 429
+ ⚠️
+   📄 Chapter 18/150... ✓
+   📄 Chapter 19/150... ✓
+   📄 Chapter 20/150... ✓
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/150... ✓
+   📄 Chapter 22/150... ✓
+   📄 Chapter 23/150... ✓
+   📄 Chapter 24/150... ✓
+   📄 Chapter 25/150...⚠️  API error for Psalms 25: Status 429
+ ⚠️
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/150...⚠️  API error for Psalms 26: Status 429
+ ⚠️
+   📄 Chapter 27/150...⚠️  API error for Psalms 27: Status 429
+ ⚠️
+   📄 Chapter 28/150...⚠️  API error for Psalms 28: Status 429
+ ⚠️
+   📄 Chapter 29/150...⚠️  API error for Psalms 29: Status 429
+ ⚠️
+   📄 Chapter 30/150...⚠️  API error for Psalms 30: Status 429
+ ⚠️
+   📊 Context analysis for chapters 26-30 ✓
+   📄 Chapter 31/150...⚠️  API error for Psalms 31: Status 429
+ ⚠️
+   📄 Chapter 32/150...⚠️  API error for Psalms 32: Status 429
+ ⚠️
+   📄 Chapter 33/150...⚠️  API error for Psalms 33: Status 429
+ ⚠️
+   📄 Chapter 34/150...⚠️  API error for Psalms 34: Status 429
+ ⚠️
+   📄 Chapter 35/150...⚠️  API error for Psalms 35: Status 429
+ ⚠️
+   📊 Context analysis for chapters 31-35 ✓
+   📄 Chapter 36/150...⚠️  API error for Psalms 36: Status 429
+ ⚠️
+   📄 Chapter 37/150...⚠️  API error for Psalms 37: Status 429
+ ⚠️
+   📄 Chapter 38/150...⚠️  API error for Psalms 38: Status 429
+ ⚠️
+   📄 Chapter 39/150...⚠️  API error for Psalms 39: Status 429
+ ⚠️
+   📄 Chapter 40/150...⚠️  API error for Psalms 40: Status 429
+ ⚠️
+   📊 Context analysis for chapters 36-40 ✓
+   📄 Chapter 41/150...⚠️  API error for Psalms 41: Status 429
+ ⚠️
+   📄 Chapter 42/150...⚠️  API error for Psalms 42: Status 429
+ ⚠️
+   📄 Chapter 43/150...⚠️  API error for Psalms 43: Status 429
+ ⚠️
+   📄 Chapter 44/150...⚠️  API error for Psalms 44: Status 429
+ ⚠️
+   📄 Chapter 45/150...⚠️  API error for Psalms 45: Status 429
+ ⚠️
+   📊 Context analysis for chapters 41-45 ✓
+   📄 Chapter 46/150...⚠️  API error for Psalms 46: Status 429
+ ⚠️
+   📄 Chapter 47/150...⚠️  API error for Psalms 47: Status 429
+ ⚠️
+   📄 Chapter 48/150... ✓
+   📄 Chapter 49/150... ✓
+   📄 Chapter 50/150... ✓
+   📊 Context analysis for chapters 46-50 ✓
+   📄 Chapter 51/150... ✓
+   📄 Chapter 52/150... ✓
+   📄 Chapter 53/150... ✓
+   📄 Chapter 54/150... ✓
+   📄 Chapter 55/150...⚠️  API error for Psalms 55: Status 429
+ ⚠️
+   📊 Context analysis for chapters 51-55 ✓
+   📄 Chapter 56/150...⚠️  API error for Psalms 56: Status 429
+ ⚠️
+   📄 Chapter 57/150...⚠️  API error for Psalms 57: Status 429
+ ⚠️
+   📄 Chapter 58/150...⚠️  API error for Psalms 58: Status 429
+ ⚠️
+   📄 Chapter 59/150...⚠️  API error for Psalms 59: Status 429
+ ⚠️
+   📄 Chapter 60/150...⚠️  API error for Psalms 60: Status 429
+ ⚠️
+   📊 Context analysis for chapters 56-60 ✓
+   📄 Chapter 61/150...⚠️  API error for Psalms 61: Status 429
+ ⚠️
+   📄 Chapter 62/150...⚠️  API error for Psalms 62: Status 429
+ ⚠️
+   📄 Chapter 63/150...⚠️  API error for Psalms 63: Status 429
+ ⚠️
+   📄 Chapter 64/150...⚠️  API error for Psalms 64: Status 429
+ ⚠️
+   📄 Chapter 65/150...⚠️  API error for Psalms 65: Status 429
+ ⚠️
+   📊 Context analysis for chapters 61-65 ✓
+   📄 Chapter 66/150...⚠️  API error for Psalms 66: Status 429
+ ⚠️
+   📄 Chapter 67/150...⚠️  API error for Psalms 67: Status 429
+ ⚠️
+   📄 Chapter 68/150...⚠️  API error for Psalms 68: Status 429
+ ⚠️
+   📄 Chapter 69/150...⚠️  API error for Psalms 69: Status 429
+ ⚠️
+   📄 Chapter 70/150...⚠️  API error for Psalms 70: Status 429
+ ⚠️
+   📊 Context analysis for chapters 66-70 ✓
+   📄 Chapter 71/150...⚠️  API error for Psalms 71: Status 429
+ ⚠️
+   📄 Chapter 72/150...⚠️  API error for Psalms 72: Status 429
+ ⚠️
+   📄 Chapter 73/150...⚠️  API error for Psalms 73: Status 429
+ ⚠️
+   📄 Chapter 74/150...⚠️  API error for Psalms 74: Status 429
+ ⚠️
+   📄 Chapter 75/150...⚠️  API error for Psalms 75: Status 429
+ ⚠️
+   📊 Context analysis for chapters 71-75 ✓
+   📄 Chapter 76/150...⚠️  API error for Psalms 76: Status 429
+ ⚠️
+   📄 Chapter 77/150...⚠️  API error for Psalms 77: Status 429
+ ⚠️
+   📄 Chapter 78/150... ✓
+   📄 Chapter 79/150... ✓
+   📄 Chapter 80/150... ✓
+   📊 Context analysis for chapters 76-80 ✓
+   📄 Chapter 81/150... ✓
+   📄 Chapter 82/150... ✓
+   📄 Chapter 83/150... ✓
+   📄 Chapter 84/150... ✓
+   📄 Chapter 85/150...⚠️  API error for Psalms 85: Status 429
+ ⚠️
+   📊 Context analysis for chapters 81-85 ✓
+   📄 Chapter 86/150...⚠️  API error for Psalms 86: Status 429
+ ⚠️
+   📄 Chapter 87/150...⚠️  API error for Psalms 87: Status 429
+ ⚠️
+   📄 Chapter 88/150...⚠️  API error for Psalms 88: Status 429
+ ⚠️
+   📄 Chapter 89/150...⚠️  API error for Psalms 89: Status 429
+ ⚠️
+   📄 Chapter 90/150...⚠️  API error for Psalms 90: Status 429
+ ⚠️
+   📊 Context analysis for chapters 86-90 ✓
+   📄 Chapter 91/150...⚠️  API error for Psalms 91: Status 429
+ ⚠️
+   📄 Chapter 92/150...⚠️  API error for Psalms 92: Status 429
+ ⚠️
+   📄 Chapter 93/150...⚠️  API error for Psalms 93: Status 429
+ ⚠️
+   📄 Chapter 94/150...⚠️  API error for Psalms 94: Status 429
+ ⚠️
+   📄 Chapter 95/150...⚠️  API error for Psalms 95: Status 429
+ ⚠️
+   📊 Context analysis for chapters 91-95 ✓
+   📄 Chapter 96/150...⚠️  API error for Psalms 96: Status 429
+ ⚠️
+   📄 Chapter 97/150...⚠️  API error for Psalms 97: Status 429
+ ⚠️
+   📄 Chapter 98/150...⚠️  API error for Psalms 98: Status 429
+ ⚠️
+   📄 Chapter 99/150...⚠️  API error for Psalms 99: Status 429
+ ⚠️
+   📄 Chapter 100/150...⚠️  API error for Psalms 100: Status 429
+ ⚠️
+   📊 Context analysis for chapters 96-100 ✓
+   📄 Chapter 101/150...⚠️  API error for Psalms 101: Status 429
+ ⚠️
+   📄 Chapter 102/150...⚠️  API error for Psalms 102: Status 429
+ ⚠️
+   📄 Chapter 103/150...⚠️  API error for Psalms 103: Status 429
+ ⚠️
+   📄 Chapter 104/150...⚠️  API error for Psalms 104: Status 429
+ ⚠️
+   📄 Chapter 105/150...⚠️  API error for Psalms 105: Status 429
+ ⚠️
+   📊 Context analysis for chapters 101-105 ✓
+   📄 Chapter 106/150...⚠️  API error for Psalms 106: Status 429
+ ⚠️
+   📄 Chapter 107/150...⚠️  API error for Psalms 107: Status 429
+ ⚠️
+   📄 Chapter 108/150... ✓
+   📄 Chapter 109/150... ✓
+   📄 Chapter 110/150... ✓
+   📊 Context analysis for chapters 106-110 ✓
+   📄 Chapter 111/150... ✓
+   📄 Chapter 112/150... ✓
+   📄 Chapter 113/150... ✓
+   📄 Chapter 114/150... ✓
+   📄 Chapter 115/150...⚠️  API error for Psalms 115: Status 429
+ ⚠️
+   📊 Context analysis for chapters 111-115 ✓
+   📄 Chapter 116/150...⚠️  API error for Psalms 116: Status 429
+ ⚠️
+   📄 Chapter 117/150...⚠️  API error for Psalms 117: Status 429
+ ⚠️
+   📄 Chapter 118/150...⚠️  API error for Psalms 118: Status 429
+ ⚠️
+   📄 Chapter 119/150...⚠️  API error for Psalms 119: Status 429
+ ⚠️
+   📄 Chapter 120/150...⚠️  API error for Psalms 120: Status 429
+ ⚠️
+   📊 Context analysis for chapters 116-120 ✓
+   📄 Chapter 121/150...⚠️  API error for Psalms 121: Status 429
+ ⚠️
+   📄 Chapter 122/150...⚠️  API error for Psalms 122: Status 429
+ ⚠️
+   📄 Chapter 123/150...⚠️  API error for Psalms 123: Status 429
+ ⚠️
+   📄 Chapter 124/150...⚠️  API error for Psalms 124: Status 429
+ ⚠️
+   📄 Chapter 125/150...⚠️  API error for Psalms 125: Status 429
+ ⚠️
+   📊 Context analysis for chapters 121-125 ✓
+   📄 Chapter 126/150...⚠️  API error for Psalms 126: Status 429
+ ⚠️
+   📄 Chapter 127/150...⚠️  API error for Psalms 127: Status 429
+ ⚠️
+   📄 Chapter 128/150...⚠️  API error for Psalms 128: Status 429
+ ⚠️
+   📄 Chapter 129/150...⚠️  API error for Psalms 129: Status 429
+ ⚠️
+   📄 Chapter 130/150...⚠️  API error for Psalms 130: Status 429
+ ⚠️
+   📊 Context analysis for chapters 126-130 ✓
+   📄 Chapter 131/150...⚠️  API error for Psalms 131: Status 429
+ ⚠️
+   📄 Chapter 132/150...⚠️  API error for Psalms 132: Status 429
+ ⚠️
+   📄 Chapter 133/150...⚠️  API error for Psalms 133: Status 429
+ ⚠️
+   📄 Chapter 134/150...⚠️  API error for Psalms 134: Status 429
+ ⚠️
+   📄 Chapter 135/150...⚠️  API error for Psalms 135: Status 429
+ ⚠️
+   📊 Context analysis for chapters 131-135 ✓
+   📄 Chapter 136/150...⚠️  API error for Psalms 136: Status 429
+ ⚠️
+   📄 Chapter 137/150...⚠️  API error for Psalms 137: Status 429
+ ⚠️
+   📄 Chapter 138/150... ✓
+   📄 Chapter 139/150... ✓
+   📄 Chapter 140/150... ✓
+   📊 Context analysis for chapters 136-140 ✓
+   📄 Chapter 141/150... ✓
+   📄 Chapter 142/150... ✓
+   📄 Chapter 143/150... ✓
+   📄 Chapter 144/150... ✓
+   📄 Chapter 145/150...⚠️  API error for Psalms 145: Status 429
+ ⚠️
+   📊 Context analysis for chapters 141-145 ✓
+   📄 Chapter 146/150...⚠️  API error for Psalms 146: Status 429
+ ⚠️
+   📄 Chapter 147/150...⚠️  API error for Psalms 147: Status 429
+ ⚠️
+   📄 Chapter 148/150...⚠️  API error for Psalms 148: Status 429
+ ⚠️
+   📄 Chapter 149/150...⚠️  API error for Psalms 149: Status 429
+ ⚠️
+   📄 Chapter 150/150...⚠️  API error for Psalms 150: Status 429
+ ⚠️
+   📊 Context analysis for chapters 146-150 ✓
+✅ Psalms complete!
+
+
+[Book 20/66]
+
+📖 Processing Proverbs (31 chapters)...
+   📄 Chapter 1/31...⚠️  API error for Proverbs 1: Status 429
+ ⚠️
+   📄 Chapter 2/31...⚠️  API error for Proverbs 2: Status 429
+ ⚠️
+   📄 Chapter 3/31...⚠️  API error for Proverbs 3: Status 429
+ ⚠️
+   📄 Chapter 4/31...⚠️  API error for Proverbs 4: Status 429
+ ⚠️
+   📄 Chapter 5/31...⚠️  API error for Proverbs 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/31...⚠️  API error for Proverbs 6: Status 429
+ ⚠️
+   📄 Chapter 7/31...⚠️  API error for Proverbs 7: Status 429
+ ⚠️
+   📄 Chapter 8/31...⚠️  API error for Proverbs 8: Status 429
+ ⚠️
+   📄 Chapter 9/31...⚠️  API error for Proverbs 9: Status 429
+ ⚠️
+   📄 Chapter 10/31...⚠️  API error for Proverbs 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/31...⚠️  API error for Proverbs 11: Status 429
+ ⚠️
+   📄 Chapter 12/31...⚠️  API error for Proverbs 12: Status 429
+ ⚠️
+   📄 Chapter 13/31...⚠️  API error for Proverbs 13: Status 429
+ ⚠️
+   📄 Chapter 14/31...⚠️  API error for Proverbs 14: Status 429
+ ⚠️
+   📄 Chapter 15/31...⚠️  API error for Proverbs 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/31...⚠️  API error for Proverbs 16: Status 429
+ ⚠️
+   📄 Chapter 17/31...⚠️  API error for Proverbs 17: Status 429
+ ⚠️
+   📄 Chapter 18/31... ✓
+   📄 Chapter 19/31... ✓
+   📄 Chapter 20/31... ✓
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/31... ✓
+   📄 Chapter 22/31... ✓
+   📄 Chapter 23/31... ✓
+   📄 Chapter 24/31... ✓
+   📄 Chapter 25/31...⚠️  API error for Proverbs 25: Status 429
+ ⚠️
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/31...⚠️  API error for Proverbs 26: Status 429
+ ⚠️
+   📄 Chapter 27/31...⚠️  API error for Proverbs 27: Status 429
+ ⚠️
+   📄 Chapter 28/31...⚠️  API error for Proverbs 28: Status 429
+ ⚠️
+   📄 Chapter 29/31...⚠️  API error for Proverbs 29: Status 429
+ ⚠️
+   📄 Chapter 30/31...⚠️  API error for Proverbs 30: Status 429
+ ⚠️
+   📊 Context analysis for chapters 26-30 ✓
+   📄 Chapter 31/31...⚠️  API error for Proverbs 31: Status 429
+ ⚠️
+✅ Proverbs complete!
+
+
+[Book 21/66]
+
+📖 Processing Ecclesiastes (12 chapters)...
+   📄 Chapter 1/12...⚠️  API error for Ecclesiastes 1: Status 429
+ ⚠️
+   📄 Chapter 2/12...⚠️  API error for Ecclesiastes 2: Status 429
+ ⚠️
+   📄 Chapter 3/12...⚠️  API error for Ecclesiastes 3: Status 429
+ ⚠️
+   📄 Chapter 4/12...⚠️  API error for Ecclesiastes 4: Status 429
+ ⚠️
+   📄 Chapter 5/12...⚠️  API error for Ecclesiastes 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/12...⚠️  API error for Ecclesiastes 6: Status 429
+ ⚠️
+   📄 Chapter 7/12...⚠️  API error for Ecclesiastes 7: Status 429
+ ⚠️
+   📄 Chapter 8/12...⚠️  API error for Ecclesiastes 8: Status 429
+ ⚠️
+   📄 Chapter 9/12...⚠️  API error for Ecclesiastes 9: Status 429
+ ⚠️
+   📄 Chapter 10/12...⚠️  API error for Ecclesiastes 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/12...⚠️  API error for Ecclesiastes 11: Status 429
+ ⚠️
+   📄 Chapter 12/12...⚠️  API error for Ecclesiastes 12: Status 429
+ ⚠️
+✅ Ecclesiastes complete!
+
+
+[Book 22/66]
+
+📖 Processing Song of Solomon (8 chapters)...
+   📄 Chapter 1/8...⚠️  API error for Song of Solomon 1: Status 429
+ ⚠️
+   📄 Chapter 2/8...⚠️  API error for Song of Solomon 2: Status 429
+ ⚠️
+   📄 Chapter 3/8...⚠️  API error for Song of Solomon 3: Status 429
+ ⚠️
+   📄 Chapter 4/8...⚠️  API error for Song of Solomon 4: Status 429
+ ⚠️
+   📄 Chapter 5/8... ✓
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/8... ✓
+   📄 Chapter 7/8... ✓
+   📄 Chapter 8/8... ✓
+✅ Song of Solomon complete!
+
+
+======================================================================
+📜 PERIOD 7/15: Divided Kingdom - Southern Judah
+======================================================================
+
+[Book 23/66]
+
+📖 Processing Isaiah (66 chapters)...
+   📄 Chapter 1/66... ✓
+   📄 Chapter 2/66... ✓
+   📄 Chapter 3/66... ✓
+   📄 Chapter 4/66...⚠️  API error for Isaiah 4: Status 429
+ ⚠️
+   📄 Chapter 5/66...⚠️  API error for Isaiah 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/66...⚠️  API error for Isaiah 6: Status 429
+ ⚠️
+   📄 Chapter 7/66...⚠️  API error for Isaiah 7: Status 429
+ ⚠️
+   📄 Chapter 8/66...⚠️  API error for Isaiah 8: Status 429
+ ⚠️
+   📄 Chapter 9/66...⚠️  API error for Isaiah 9: Status 429
+ ⚠️
+   📄 Chapter 10/66...⚠️  API error for Isaiah 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/66...⚠️  API error for Isaiah 11: Status 429
+ ⚠️
+   📄 Chapter 12/66...⚠️  API error for Isaiah 12: Status 429
+ ⚠️
+   📄 Chapter 13/66...⚠️  API error for Isaiah 13: Status 429
+ ⚠️
+   📄 Chapter 14/66...⚠️  API error for Isaiah 14: Status 429
+ ⚠️
+   📄 Chapter 15/66...⚠️  API error for Isaiah 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/66...⚠️  API error for Isaiah 16: Status 429
+ ⚠️
+   📄 Chapter 17/66...⚠️  API error for Isaiah 17: Status 429
+ ⚠️
+   📄 Chapter 18/66...⚠️  API error for Isaiah 18: Status 429
+ ⚠️
+   📄 Chapter 19/66...⚠️  API error for Isaiah 19: Status 429
+ ⚠️
+   📄 Chapter 20/66...⚠️  API error for Isaiah 20: Status 429
+ ⚠️
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/66...⚠️  API error for Isaiah 21: Status 429
+ ⚠️
+   📄 Chapter 22/66...⚠️  API error for Isaiah 22: Status 429
+ ⚠️
+   📄 Chapter 23/66...⚠️  API error for Isaiah 23: Status 429
+ ⚠️
+   📄 Chapter 24/66...⚠️  API error for Isaiah 24: Status 429
+ ⚠️
+   📄 Chapter 25/66...⚠️  API error for Isaiah 25: Status 429
+ ⚠️
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/66...⚠️  API error for Isaiah 26: Status 429
+ ⚠️
+   📄 Chapter 27/66... ✓
+   📄 Chapter 28/66... ✓
+   📄 Chapter 29/66... ✓
+   📄 Chapter 30/66... ✓
+   📊 Context analysis for chapters 26-30 ✓
+   📄 Chapter 31/66... ✓
+   📄 Chapter 32/66... ✓
+   📄 Chapter 33/66... ✓
+   📄 Chapter 34/66...⚠️  API error for Isaiah 34: Status 429
+ ⚠️
+   📄 Chapter 35/66...⚠️  API error for Isaiah 35: Status 429
+ ⚠️
+   📊 Context analysis for chapters 31-35 ✓
+   📄 Chapter 36/66...⚠️  API error for Isaiah 36: Status 429
+ ⚠️
+   📄 Chapter 37/66...⚠️  API error for Isaiah 37: Status 429
+ ⚠️
+   📄 Chapter 38/66...⚠️  API error for Isaiah 38: Status 429
+ ⚠️
+   📄 Chapter 39/66...⚠️  API error for Isaiah 39: Status 429
+ ⚠️
+   📄 Chapter 40/66...⚠️  API error for Isaiah 40: Status 429
+ ⚠️
+   📊 Context analysis for chapters 36-40 ✓
+   📄 Chapter 41/66...⚠️  API error for Isaiah 41: Status 429
+ ⚠️
+   📄 Chapter 42/66...⚠️  API error for Isaiah 42: Status 429
+ ⚠️
+   📄 Chapter 43/66...⚠️  API error for Isaiah 43: Status 429
+ ⚠️
+   📄 Chapter 44/66...⚠️  API error for Isaiah 44: Status 429
+ ⚠️
+   📄 Chapter 45/66...⚠️  API error for Isaiah 45: Status 429
+ ⚠️
+   📊 Context analysis for chapters 41-45 ✓
+   📄 Chapter 46/66...⚠️  API error for Isaiah 46: Status 429
+ ⚠️
+   📄 Chapter 47/66...⚠️  API error for Isaiah 47: Status 429
+ ⚠️
+   📄 Chapter 48/66...⚠️  API error for Isaiah 48: Status 429
+ ⚠️
+   📄 Chapter 49/66...⚠️  API error for Isaiah 49: Status 429
+ ⚠️
+   📄 Chapter 50/66...⚠️  API error for Isaiah 50: Status 429
+ ⚠️
+   📊 Context analysis for chapters 46-50 ✓
+   📄 Chapter 51/66...⚠️  API error for Isaiah 51: Status 429
+ ⚠️
+   📄 Chapter 52/66...⚠️  API error for Isaiah 52: Status 429
+ ⚠️
+   📄 Chapter 53/66...⚠️  API error for Isaiah 53: Status 429
+ ⚠️
+   📄 Chapter 54/66...⚠️  API error for Isaiah 54: Status 429
+ ⚠️
+   📄 Chapter 55/66...⚠️  API error for Isaiah 55: Status 429
+ ⚠️
+   📊 Context analysis for chapters 51-55 ✓
+   📄 Chapter 56/66...⚠️  API error for Isaiah 56: Status 429
+ ⚠️
+   📄 Chapter 57/66... ✓
+   📄 Chapter 58/66... ✓
+   📄 Chapter 59/66... ✓
+   📄 Chapter 60/66... ✓
+   📊 Context analysis for chapters 56-60 ✓
+   📄 Chapter 61/66... ✓
+   📄 Chapter 62/66... ✓
+   📄 Chapter 63/66... ✓
+   📄 Chapter 64/66...⚠️  API error for Isaiah 64: Status 429
+ ⚠️
+   📄 Chapter 65/66...⚠️  API error for Isaiah 65: Status 429
+ ⚠️
+   📊 Context analysis for chapters 61-65 ✓
+   📄 Chapter 66/66...⚠️  API error for Isaiah 66: Status 429
+ ⚠️
+✅ Isaiah complete!
+
+
+[Book 24/66]
+
+📖 Processing Jeremiah (52 chapters)...
+   📄 Chapter 1/52...⚠️  API error for Jeremiah 1: Status 429
+ ⚠️
+   📄 Chapter 2/52...⚠️  API error for Jeremiah 2: Status 429
+ ⚠️
+   📄 Chapter 3/52...⚠️  API error for Jeremiah 3: Status 429
+ ⚠️
+   📄 Chapter 4/52...⚠️  API error for Jeremiah 4: Status 429
+ ⚠️
+   📄 Chapter 5/52...⚠️  API error for Jeremiah 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/52...⚠️  API error for Jeremiah 6: Status 429
+ ⚠️
+   📄 Chapter 7/52...⚠️  API error for Jeremiah 7: Status 429
+ ⚠️
+   📄 Chapter 8/52...⚠️  API error for Jeremiah 8: Status 429
+ ⚠️
+   📄 Chapter 9/52...⚠️  API error for Jeremiah 9: Status 429
+ ⚠️
+   📄 Chapter 10/52...⚠️  API error for Jeremiah 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/52...⚠️  API error for Jeremiah 11: Status 429
+ ⚠️
+   📄 Chapter 12/52...⚠️  API error for Jeremiah 12: Status 429
+ ⚠️
+   📄 Chapter 13/52...⚠️  API error for Jeremiah 13: Status 429
+ ⚠️
+   📄 Chapter 14/52...⚠️  API error for Jeremiah 14: Status 429
+ ⚠️
+   📄 Chapter 15/52...⚠️  API error for Jeremiah 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/52...⚠️  API error for Jeremiah 16: Status 429
+ ⚠️
+   📄 Chapter 17/52...⚠️  API error for Jeremiah 17: Status 429
+ ⚠️
+   📄 Chapter 18/52...⚠️  API error for Jeremiah 18: Status 429
+ ⚠️
+   📄 Chapter 19/52...⚠️  API error for Jeremiah 19: Status 429
+ ⚠️
+   📄 Chapter 20/52...⚠️  API error for Jeremiah 20: Status 429
+ ⚠️
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/52... ✓
+   📄 Chapter 22/52... ✓
+   📄 Chapter 23/52... ✓
+   📄 Chapter 24/52... ✓
+   📄 Chapter 25/52... ✓
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/52... ✓
+   📄 Chapter 27/52... ✓
+   📄 Chapter 28/52...⚠️  API error for Jeremiah 28: Status 429
+ ⚠️
+   📄 Chapter 29/52...⚠️  API error for Jeremiah 29: Status 429
+ ⚠️
+   📄 Chapter 30/52...⚠️  API error for Jeremiah 30: Status 429
+ ⚠️
+   📊 Context analysis for chapters 26-30 ✓
+   📄 Chapter 31/52...⚠️  API error for Jeremiah 31: Status 429
+ ⚠️
+   📄 Chapter 32/52...⚠️  API error for Jeremiah 32: Status 429
+ ⚠️
+   📄 Chapter 33/52...⚠️  API error for Jeremiah 33: Status 429
+ ⚠️
+   📄 Chapter 34/52...⚠️  API error for Jeremiah 34: Status 429
+ ⚠️
+   📄 Chapter 35/52...⚠️  API error for Jeremiah 35: Status 429
+ ⚠️
+   📊 Context analysis for chapters 31-35 ✓
+   📄 Chapter 36/52...⚠️  API error for Jeremiah 36: Status 429
+ ⚠️
+   📄 Chapter 37/52...⚠️  API error for Jeremiah 37: Status 429
+ ⚠️
+   📄 Chapter 38/52...⚠️  API error for Jeremiah 38: Status 429
+ ⚠️
+   📄 Chapter 39/52...⚠️  API error for Jeremiah 39: Status 429
+ ⚠️
+   📄 Chapter 40/52...⚠️  API error for Jeremiah 40: Status 429
+ ⚠️
+   📊 Context analysis for chapters 36-40 ✓
+   📄 Chapter 41/52...⚠️  API error for Jeremiah 41: Status 429
+ ⚠️
+   📄 Chapter 42/52...⚠️  API error for Jeremiah 42: Status 429
+ ⚠️
+   📄 Chapter 43/52...⚠️  API error for Jeremiah 43: Status 429
+ ⚠️
+   📄 Chapter 44/52...⚠️  API error for Jeremiah 44: Status 429
+ ⚠️
+   📄 Chapter 45/52...⚠️  API error for Jeremiah 45: Status 429
+ ⚠️
+   📊 Context analysis for chapters 41-45 ✓
+   📄 Chapter 46/52...⚠️  API error for Jeremiah 46: Status 429
+ ⚠️
+   📄 Chapter 47/52...⚠️  API error for Jeremiah 47: Status 429
+ ⚠️
+   📄 Chapter 48/52...⚠️  API error for Jeremiah 48: Status 429
+ ⚠️
+   📄 Chapter 49/52...⚠️  API error for Jeremiah 49: Status 429
+ ⚠️
+   📄 Chapter 50/52...⚠️  API error for Jeremiah 50: Status 429
+ ⚠️
+   📊 Context analysis for chapters 46-50 ✓
+   📄 Chapter 51/52... ✓
+   📄 Chapter 52/52... ✓
+✅ Jeremiah complete!
+
+
+======================================================================
+📜 PERIOD 8/15: Babylonian Exile
+======================================================================
+
+[Book 25/66]
+
+📖 Processing Lamentations (5 chapters)...
+   📄 Chapter 1/5... ✓
+   📄 Chapter 2/5... ✓
+   📄 Chapter 3/5... ✓
+   📄 Chapter 4/5... ✓
+   📄 Chapter 5/5... ✓
+   📊 Context analysis for chapters 1-5 ✓
+✅ Lamentations complete!
+
+
+[Book 26/66]
+
+📖 Processing Ezekiel (48 chapters)...
+   📄 Chapter 1/48...⚠️  API error for Ezekiel 1: Status 429
+ ⚠️
+   📄 Chapter 2/48...⚠️  API error for Ezekiel 2: Status 429
+ ⚠️
+   📄 Chapter 3/48...⚠️  API error for Ezekiel 3: Status 429
+ ⚠️
+   📄 Chapter 4/48...⚠️  API error for Ezekiel 4: Status 429
+ ⚠️
+   📄 Chapter 5/48...⚠️  API error for Ezekiel 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/48...⚠️  API error for Ezekiel 6: Status 429
+ ⚠️
+   📄 Chapter 7/48...⚠️  API error for Ezekiel 7: Status 429
+ ⚠️
+   📄 Chapter 8/48...⚠️  API error for Ezekiel 8: Status 429
+ ⚠️
+   📄 Chapter 9/48...⚠️  API error for Ezekiel 9: Status 429
+ ⚠️
+   📄 Chapter 10/48...⚠️  API error for Ezekiel 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/48...⚠️  API error for Ezekiel 11: Status 429
+ ⚠️
+   📄 Chapter 12/48...⚠️  API error for Ezekiel 12: Status 429
+ ⚠️
+   📄 Chapter 13/48...⚠️  API error for Ezekiel 13: Status 429
+ ⚠️
+   📄 Chapter 14/48...⚠️  API error for Ezekiel 14: Status 429
+ ⚠️
+   📄 Chapter 15/48...⚠️  API error for Ezekiel 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/48...⚠️  API error for Ezekiel 16: Status 429
+ ⚠️
+   📄 Chapter 17/48...⚠️  API error for Ezekiel 17: Status 429
+ ⚠️
+   📄 Chapter 18/48...⚠️  API error for Ezekiel 18: Status 429
+ ⚠️
+   📄 Chapter 19/48...⚠️  API error for Ezekiel 19: Status 429
+ ⚠️
+   📄 Chapter 20/48...⚠️  API error for Ezekiel 20: Status 429
+ ⚠️
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/48...⚠️  API error for Ezekiel 21: Status 429
+ ⚠️
+   📄 Chapter 22/48...⚠️  API error for Ezekiel 22: Status 429
+ ⚠️
+   📄 Chapter 23/48...⚠️  API error for Ezekiel 23: Status 429
+ ⚠️
+   📄 Chapter 24/48... ✓
+   📄 Chapter 25/48... ✓
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/48... ✓
+   📄 Chapter 27/48... ✓
+   📄 Chapter 28/48... ✓
+   📄 Chapter 29/48... ✓
+   📄 Chapter 30/48... ✓
+   📊 Context analysis for chapters 26-30 ✓
+   📄 Chapter 31/48...⚠️  API error for Ezekiel 31: Status 429
+ ⚠️
+   📄 Chapter 32/48...⚠️  API error for Ezekiel 32: Status 429
+ ⚠️
+   📄 Chapter 33/48...⚠️  API error for Ezekiel 33: Status 429
+ ⚠️
+   📄 Chapter 34/48...⚠️  API error for Ezekiel 34: Status 429
+ ⚠️
+   📄 Chapter 35/48...⚠️  API error for Ezekiel 35: Status 429
+ ⚠️
+   📊 Context analysis for chapters 31-35 ✓
+   📄 Chapter 36/48...⚠️  API error for Ezekiel 36: Status 429
+ ⚠️
+   📄 Chapter 37/48...⚠️  API error for Ezekiel 37: Status 429
+ ⚠️
+   📄 Chapter 38/48...⚠️  API error for Ezekiel 38: Status 429
+ ⚠️
+   📄 Chapter 39/48...⚠️  API error for Ezekiel 39: Status 429
+ ⚠️
+   📄 Chapter 40/48...⚠️  API error for Ezekiel 40: Status 429
+ ⚠️
+   📊 Context analysis for chapters 36-40 ✓
+   📄 Chapter 41/48...⚠️  API error for Ezekiel 41: Status 429
+ ⚠️
+   📄 Chapter 42/48...⚠️  API error for Ezekiel 42: Status 429
+ ⚠️
+   📄 Chapter 43/48...⚠️  API error for Ezekiel 43: Status 429
+ ⚠️
+   📄 Chapter 44/48...⚠️  API error for Ezekiel 44: Status 429
+ ⚠️
+   📄 Chapter 45/48...⚠️  API error for Ezekiel 45: Status 429
+ ⚠️
+   📊 Context analysis for chapters 41-45 ✓
+   📄 Chapter 46/48...⚠️  API error for Ezekiel 46: Status 429
+ ⚠️
+   📄 Chapter 47/48...⚠️  API error for Ezekiel 47: Status 429
+ ⚠️
+   📄 Chapter 48/48...⚠️  API error for Ezekiel 48: Status 429
+ ⚠️
+✅ Ezekiel complete!
+
+
+[Book 27/66]
+
+📖 Processing Daniel (12 chapters)...
+   📄 Chapter 1/12...⚠️  API error for Daniel 1: Status 429
+ ⚠️
+   📄 Chapter 2/12...⚠️  API error for Daniel 2: Status 429
+ ⚠️
+   📄 Chapter 3/12...⚠️  API error for Daniel 3: Status 429
+ ⚠️
+   📄 Chapter 4/12...⚠️  API error for Daniel 4: Status 429
+ ⚠️
+   📄 Chapter 5/12...⚠️  API error for Daniel 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/12... ✓
+   📄 Chapter 7/12... ✓
+   📄 Chapter 8/12... ✓
+   📄 Chapter 9/12... ✓
+   📄 Chapter 10/12... ✓
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/12... ✓
+   📄 Chapter 12/12... ✓
+✅ Daniel complete!
+
+
+======================================================================
+📜 PERIOD 6/15: Divided Kingdom - Northern Israel
+======================================================================
+
+[Book 28/66]
+
+📖 Processing Hosea (14 chapters)...
+   📄 Chapter 1/14...⚠️  API error for Hosea 1: Status 429
+ ⚠️
+   📄 Chapter 2/14...⚠️  API error for Hosea 2: Status 429
+ ⚠️
+   📄 Chapter 3/14...⚠️  API error for Hosea 3: Status 429
+ ⚠️
+   📄 Chapter 4/14...⚠️  API error for Hosea 4: Status 429
+ ⚠️
+   📄 Chapter 5/14...⚠️  API error for Hosea 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/14...⚠️  API error for Hosea 6: Status 429
+ ⚠️
+   📄 Chapter 7/14...⚠️  API error for Hosea 7: Status 429
+ ⚠️
+   📄 Chapter 8/14...⚠️  API error for Hosea 8: Status 429
+ ⚠️
+   📄 Chapter 9/14...⚠️  API error for Hosea 9: Status 429
+ ⚠️
+   📄 Chapter 10/14...⚠️  API error for Hosea 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/14...⚠️  API error for Hosea 11: Status 429
+ ⚠️
+   📄 Chapter 12/14...⚠️  API error for Hosea 12: Status 429
+ ⚠️
+   📄 Chapter 13/14...⚠️  API error for Hosea 13: Status 429
+ ⚠️
+   📄 Chapter 14/14...⚠️  API error for Hosea 14: Status 429
+ ⚠️
+✅ Hosea complete!
+
+
+[Book 29/66]
+
+📖 Processing Joel (3 chapters)...
+   📄 Chapter 1/3...⚠️  API error for Joel 1: Status 429
+ ⚠️
+   📄 Chapter 2/3...⚠️  API error for Joel 2: Status 429
+ ⚠️
+   📄 Chapter 3/3...⚠️  API error for Joel 3: Status 429
+ ⚠️
+✅ Joel complete!
+
+
+[Book 30/66]
+
+📖 Processing Amos (9 chapters)...
+   📄 Chapter 1/9...⚠️  API error for Amos 1: Status 429
+ ⚠️
+   📄 Chapter 2/9...⚠️  API error for Amos 2: Status 429
+ ⚠️
+   📄 Chapter 3/9...⚠️  API error for Amos 3: Status 429
+ ⚠️
+   📄 Chapter 4/9...⚠️  API error for Amos 4: Status 429
+ ⚠️
+   📄 Chapter 5/9...⚠️  API error for Amos 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/9...⚠️  API error for Amos 6: Status 429
+ ⚠️
+   📄 Chapter 7/9... ✓
+   📄 Chapter 8/9... ✓
+   📄 Chapter 9/9... ✓
+✅ Amos complete!
+
+
+[Book 31/66]
+
+📖 Processing Obadiah (1 chapters)...
+   📄 Chapter 1/1... ✓
+✅ Obadiah complete!
+
+
+[Book 32/66]
+
+📖 Processing Jonah (4 chapters)...
+   📄 Chapter 1/4... ✓
+   📄 Chapter 2/4... ✓
+   📄 Chapter 3/4... ✓
+   📄 Chapter 4/4...⚠️  API error for Jonah 4: Status 429
+ ⚠️
+✅ Jonah complete!
+
+
+======================================================================
+📜 PERIOD 7/15: Divided Kingdom - Southern Judah
+======================================================================
+
+[Book 33/66]
+
+📖 Processing Micah (7 chapters)...
+   📄 Chapter 1/7...⚠️  API error for Micah 1: Status 429
+ ⚠️
+   📄 Chapter 2/7...⚠️  API error for Micah 2: Status 429
+ ⚠️
+   📄 Chapter 3/7...⚠️  API error for Micah 3: Status 429
+ ⚠️
+   📄 Chapter 4/7...⚠️  API error for Micah 4: Status 429
+ ⚠️
+   📄 Chapter 5/7...⚠️  API error for Micah 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/7...⚠️  API error for Micah 6: Status 429
+ ⚠️
+   📄 Chapter 7/7...⚠️  API error for Micah 7: Status 429
+ ⚠️
+✅ Micah complete!
+
+
+[Book 34/66]
+
+📖 Processing Nahum (3 chapters)...
+   📄 Chapter 1/3...⚠️  API error for Nahum 1: Status 429
+ ⚠️
+   📄 Chapter 2/3...⚠️  API error for Nahum 2: Status 429
+ ⚠️
+   📄 Chapter 3/3...⚠️  API error for Nahum 3: Status 429
+ ⚠️
+✅ Nahum complete!
+
+
+[Book 35/66]
+
+📖 Processing Habakkuk (3 chapters)...
+   📄 Chapter 1/3...⚠️  API error for Habakkuk 1: Status 429
+ ⚠️
+   📄 Chapter 2/3...⚠️  API error for Habakkuk 2: Status 429
+ ⚠️
+   📄 Chapter 3/3...⚠️  API error for Habakkuk 3: Status 429
+ ⚠️
+✅ Habakkuk complete!
+
+
+[Book 36/66]
+
+📖 Processing Zephaniah (3 chapters)...
+   📄 Chapter 1/3...⚠️  API error for Zephaniah 1: Status 429
+ ⚠️
+   📄 Chapter 2/3...⚠️  API error for Zephaniah 2: Status 429
+ ⚠️
+   📄 Chapter 3/3...⚠️  API error for Zephaniah 3: Status 429
+ ⚠️
+✅ Zephaniah complete!
+
+
+======================================================================
+📜 PERIOD 9/15: Persian Period and Return
+======================================================================
+
+[Book 37/66]
+
+📖 Processing Haggai (2 chapters)...
+   📄 Chapter 1/2...⚠️  API error for Haggai 1: Status 429
+ ⚠️
+   📄 Chapter 2/2...⚠️  API error for Haggai 2: Status 429
+ ⚠️
+✅ Haggai complete!
+
+
+[Book 38/66]
+
+📖 Processing Zechariah (14 chapters)...
+   📄 Chapter 1/14...⚠️  API error for Zechariah 1: Status 429
+ ⚠️
+   📄 Chapter 2/14...⚠️  API error for Zechariah 2: Status 429
+ ⚠️
+   📄 Chapter 3/14...⚠️  API error for Zechariah 3: Status 429
+ ⚠️
+   📄 Chapter 4/14...⚠️  API error for Zechariah 4: Status 429
+ ⚠️
+   📄 Chapter 5/14... ✓
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/14... ✓
+   📄 Chapter 7/14... ✓
+   📄 Chapter 8/14... ✓
+   📄 Chapter 9/14... ✓
+   📄 Chapter 10/14... ✓
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/14... ✓
+   📄 Chapter 12/14...⚠️  API error for Zechariah 12: Status 429
+ ⚠️
+   📄 Chapter 13/14...⚠️  API error for Zechariah 13: Status 429
+ ⚠️
+   📄 Chapter 14/14...⚠️  API error for Zechariah 14: Status 429
+ ⚠️
+✅ Zechariah complete!
+
+
+[Book 39/66]
+
+📖 Processing Malachi (4 chapters)...
+   📄 Chapter 1/4...⚠️  API error for Malachi 1: Status 429
+ ⚠️
+   📄 Chapter 2/4...⚠️  API error for Malachi 2: Status 429
+ ⚠️
+   📄 Chapter 3/4...⚠️  API error for Malachi 3: Status 429
+ ⚠️
+   📄 Chapter 4/4...⚠️  API error for Malachi 4: Status 429
+ ⚠️
+✅ Malachi complete!
+
+
+======================================================================
+📜 PERIOD 12/15: Jesus' Ministry
+======================================================================
+
+[Book 40/66]
+
+📖 Processing Matthew (28 chapters)...
+   📄 Chapter 1/28...⚠️  API error for Matthew 1: Status 429
+ ⚠️
+   📄 Chapter 2/28...⚠️  API error for Matthew 2: Status 429
+ ⚠️
+   📄 Chapter 3/28...⚠️  API error for Matthew 3: Status 429
+ ⚠️
+   📄 Chapter 4/28...⚠️  API error for Matthew 4: Status 429
+ ⚠️
+   📄 Chapter 5/28...⚠️  API error for Matthew 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/28...⚠️  API error for Matthew 6: Status 429
+ ⚠️
+   📄 Chapter 7/28...⚠️  API error for Matthew 7: Status 429
+ ⚠️
+   📄 Chapter 8/28...⚠️  API error for Matthew 8: Status 429
+ ⚠️
+   📄 Chapter 9/28...⚠️  API error for Matthew 9: Status 429
+ ⚠️
+   📄 Chapter 10/28...⚠️  API error for Matthew 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/28...⚠️  API error for Matthew 11: Status 429
+ ⚠️
+   📄 Chapter 12/28...⚠️  API error for Matthew 12: Status 429
+ ⚠️
+   📄 Chapter 13/28...⚠️  API error for Matthew 13: Status 429
+ ⚠️
+   📄 Chapter 14/28...⚠️  API error for Matthew 14: Status 429
+ ⚠️
+   📄 Chapter 15/28...⚠️  API error for Matthew 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/28...⚠️  API error for Matthew 16: Status 429
+ ⚠️
+   📄 Chapter 17/28... ✓
+   📄 Chapter 18/28... ✓
+   📄 Chapter 19/28... ✓
+   📄 Chapter 20/28... ✓
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/28... ✓
+   📄 Chapter 22/28... ✓
+   📄 Chapter 23/28... ✓
+   📄 Chapter 24/28...⚠️  API error for Matthew 24: Status 429
+ ⚠️
+   📄 Chapter 25/28...⚠️  API error for Matthew 25: Status 429
+ ⚠️
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/28...⚠️  API error for Matthew 26: Status 429
+ ⚠️
+   📄 Chapter 27/28...⚠️  API error for Matthew 27: Status 429
+ ⚠️
+   📄 Chapter 28/28...⚠️  API error for Matthew 28: Status 429
+ ⚠️
+✅ Matthew complete!
+
+
+[Book 41/66]
+
+📖 Processing Mark (16 chapters)...
+   📄 Chapter 1/16...⚠️  API error for Mark 1: Status 429
+ ⚠️
+   📄 Chapter 2/16...⚠️  API error for Mark 2: Status 429
+ ⚠️
+   📄 Chapter 3/16...⚠️  API error for Mark 3: Status 429
+ ⚠️
+   📄 Chapter 4/16...⚠️  API error for Mark 4: Status 429
+ ⚠️
+   📄 Chapter 5/16...⚠️  API error for Mark 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/16...⚠️  API error for Mark 6: Status 429
+ ⚠️
+   📄 Chapter 7/16...⚠️  API error for Mark 7: Status 429
+ ⚠️
+   📄 Chapter 8/16...⚠️  API error for Mark 8: Status 429
+ ⚠️
+   📄 Chapter 9/16...⚠️  API error for Mark 9: Status 429
+ ⚠️
+   📄 Chapter 10/16...⚠️  API error for Mark 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/16...⚠️  API error for Mark 11: Status 429
+ ⚠️
+   📄 Chapter 12/16...⚠️  API error for Mark 12: Status 429
+ ⚠️
+   📄 Chapter 13/16...⚠️  API error for Mark 13: Status 429
+ ⚠️
+   📄 Chapter 14/16...⚠️  API error for Mark 14: Status 429
+ ⚠️
+   📄 Chapter 15/16... ✓
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/16... ✓
+✅ Mark complete!
+
+
+[Book 42/66]
+
+📖 Processing Luke (24 chapters)...
+   📄 Chapter 1/24... ✓
+   📄 Chapter 2/24... ✓
+   📄 Chapter 3/24... ✓
+   📄 Chapter 4/24... ✓
+   📄 Chapter 5/24... ✓
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/24...⚠️  API error for Luke 6: Status 429
+ ⚠️
+   📄 Chapter 7/24...⚠️  API error for Luke 7: Status 429
+ ⚠️
+   📄 Chapter 8/24...⚠️  API error for Luke 8: Status 429
+ ⚠️
+   📄 Chapter 9/24...⚠️  API error for Luke 9: Status 429
+ ⚠️
+   📄 Chapter 10/24...⚠️  API error for Luke 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/24...⚠️  API error for Luke 11: Status 429
+ ⚠️
+   📄 Chapter 12/24...⚠️  API error for Luke 12: Status 429
+ ⚠️
+   📄 Chapter 13/24...⚠️  API error for Luke 13: Status 429
+ ⚠️
+   📄 Chapter 14/24... ✓
+   📄 Chapter 15/24... ✓
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/24... ✓
+   📄 Chapter 17/24... ✓
+   📄 Chapter 18/24... ✓
+   📄 Chapter 19/24... ✓
+   📄 Chapter 20/24... ✓
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/24...⚠️  API error for Luke 21: Status 429
+ ⚠️
+   📄 Chapter 22/24...⚠️  API error for Luke 22: Status 429
+ ⚠️
+   📄 Chapter 23/24...⚠️  API error for Luke 23: Status 429
+ ⚠️
+   📄 Chapter 24/24...⚠️  API error for Luke 24: Status 429
+ ⚠️
+✅ Luke complete!
+
+
+[Book 43/66]
+
+📖 Processing John (21 chapters)...
+   📄 Chapter 1/21...⚠️  API error for John 1: Status 429
+ ⚠️
+   📄 Chapter 2/21...⚠️  API error for John 2: Status 429
+ ⚠️
+   📄 Chapter 3/21...⚠️  API error for John 3: Status 429
+ ⚠️
+   📄 Chapter 4/21...⚠️  API error for John 4: Status 429
+ ⚠️
+   📄 Chapter 5/21...⚠️  API error for John 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/21...⚠️  API error for John 6: Status 429
+ ⚠️
+   📄 Chapter 7/21...⚠️  API error for John 7: Status 429
+ ⚠️
+   📄 Chapter 8/21...⚠️  API error for John 8: Status 429
+ ⚠️
+   📄 Chapter 9/21...⚠️  API error for John 9: Status 429
+ ⚠️
+   📄 Chapter 10/21...⚠️  API error for John 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/21...⚠️  API error for John 11: Status 429
+ ⚠️
+   📄 Chapter 12/21...⚠️  API error for John 12: Status 429
+ ⚠️
+   📄 Chapter 13/21...⚠️  API error for John 13: Status 429
+ ⚠️
+   📄 Chapter 14/21...⚠️  API error for John 14: Status 429
+ ⚠️
+   📄 Chapter 15/21...⚠️  API error for John 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/21...⚠️  API error for John 16: Status 429
+ ⚠️
+   📄 Chapter 17/21...⚠️  API error for John 17: Status 429
+ ⚠️
+   📄 Chapter 18/21...⚠️  API error for John 18: Status 429
+ ⚠️
+   📄 Chapter 19/21...⚠️  API error for John 19: Status 429
+ ⚠️
+   📄 Chapter 20/21... ✓
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/21... ✓
+✅ John complete!
+
+
+======================================================================
+📜 PERIOD 13/15: Early Church
+======================================================================
+
+[Book 44/66]
+
+📖 Processing Acts (28 chapters)...
+   📄 Chapter 1/28... ✓
+   📄 Chapter 2/28... ✓
+   📄 Chapter 3/28... ✓
+   📄 Chapter 4/28... ✓
+   📄 Chapter 5/28... ✓
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/28...⚠️  API error for Acts 6: Status 429
+ ⚠️
+   📄 Chapter 7/28...⚠️  API error for Acts 7: Status 429
+ ⚠️
+   📄 Chapter 8/28...⚠️  API error for Acts 8: Status 429
+ ⚠️
+   📄 Chapter 9/28...⚠️  API error for Acts 9: Status 429
+ ⚠️
+   📄 Chapter 10/28...⚠️  API error for Acts 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/28...⚠️  API error for Acts 11: Status 429
+ ⚠️
+   📄 Chapter 12/28...⚠️  API error for Acts 12: Status 429
+ ⚠️
+   📄 Chapter 13/28...⚠️  API error for Acts 13: Status 429
+ ⚠️
+   📄 Chapter 14/28...⚠️  API error for Acts 14: Status 429
+ ⚠️
+   📄 Chapter 15/28...⚠️  API error for Acts 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/28...⚠️  API error for Acts 16: Status 429
+ ⚠️
+   📄 Chapter 17/28...⚠️  API error for Acts 17: Status 429
+ ⚠️
+   📄 Chapter 18/28...⚠️  API error for Acts 18: Status 429
+ ⚠️
+   📄 Chapter 19/28...⚠️  API error for Acts 19: Status 429
+ ⚠️
+   📄 Chapter 20/28...⚠️  API error for Acts 20: Status 429
+ ⚠️
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/28...⚠️  API error for Acts 21: Status 429
+ ⚠️
+   📄 Chapter 22/28...⚠️  API error for Acts 22: Status 429
+ ⚠️
+   📄 Chapter 23/28...⚠️  API error for Acts 23: Status 429
+ ⚠️
+   📄 Chapter 24/28...⚠️  API error for Acts 24: Status 429
+ ⚠️
+   📄 Chapter 25/28...⚠️  API error for Acts 25: Status 429
+ ⚠️
+   📊 Context analysis for chapters 21-25 ✓
+   📄 Chapter 26/28...⚠️  API error for Acts 26: Status 429
+ ⚠️
+   📄 Chapter 27/28...⚠️  API error for Acts 27: Status 429
+ ⚠️
+   📄 Chapter 28/28...⚠️  API error for Acts 28: Status 429
+ ⚠️
+✅ Acts complete!
+
+
+[Book 45/66]
+
+📖 Processing Romans (16 chapters)...
+   📄 Chapter 1/16... ✓
+   📄 Chapter 2/16... ✓
+   📄 Chapter 3/16... ✓
+   📄 Chapter 4/16... ✓
+   📄 Chapter 5/16... ✓
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/16... ✓
+   📄 Chapter 7/16... ✓
+   📄 Chapter 8/16...⚠️  API error for Romans 8: Status 429
+ ⚠️
+   📄 Chapter 9/16...⚠️  API error for Romans 9: Status 429
+ ⚠️
+   📄 Chapter 10/16...⚠️  API error for Romans 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/16...⚠️  API error for Romans 11: Status 429
+ ⚠️
+   📄 Chapter 12/16...⚠️  API error for Romans 12: Status 429
+ ⚠️
+   📄 Chapter 13/16...⚠️  API error for Romans 13: Status 429
+ ⚠️
+   📄 Chapter 14/16...⚠️  API error for Romans 14: Status 429
+ ⚠️
+   📄 Chapter 15/16...⚠️  API error for Romans 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/16...⚠️  API error for Romans 16: Status 429
+ ⚠️
+✅ Romans complete!
+
+
+[Book 46/66]
+
+📖 Processing 1 Corinthians (16 chapters)...
+   📄 Chapter 1/16...⚠️  API error for 1 Corinthians 1: Status 429
+ ⚠️
+   📄 Chapter 2/16...⚠️  API error for 1 Corinthians 2: Status 429
+ ⚠️
+   📄 Chapter 3/16...⚠️  API error for 1 Corinthians 3: Status 429
+ ⚠️
+   📄 Chapter 4/16...⚠️  API error for 1 Corinthians 4: Status 429
+ ⚠️
+   📄 Chapter 5/16...⚠️  API error for 1 Corinthians 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/16...⚠️  API error for 1 Corinthians 6: Status 429
+ ⚠️
+   📄 Chapter 7/16...⚠️  API error for 1 Corinthians 7: Status 429
+ ⚠️
+   📄 Chapter 8/16...⚠️  API error for 1 Corinthians 8: Status 429
+ ⚠️
+   📄 Chapter 9/16...⚠️  API error for 1 Corinthians 9: Status 429
+ ⚠️
+   📄 Chapter 10/16...⚠️  API error for 1 Corinthians 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/16...⚠️  API error for 1 Corinthians 11: Status 429
+ ⚠️
+   📄 Chapter 12/16...⚠️  API error for 1 Corinthians 12: Status 429
+ ⚠️
+   📄 Chapter 13/16...⚠️  API error for 1 Corinthians 13: Status 429
+ ⚠️
+   📄 Chapter 14/16...⚠️  API error for 1 Corinthians 14: Status 429
+ ⚠️
+   📄 Chapter 15/16... ✓
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/16... ✓
+✅ 1 Corinthians complete!
+
+
+[Book 47/66]
+
+📖 Processing 2 Corinthians (13 chapters)...
+   📄 Chapter 1/13... ✓
+   📄 Chapter 2/13... ✓
+   📄 Chapter 3/13... ✓
+   📄 Chapter 4/13... ✓
+   📄 Chapter 5/13... ✓
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/13...⚠️  API error for 2 Corinthians 6: Status 429
+ ⚠️
+   📄 Chapter 7/13...⚠️  API error for 2 Corinthians 7: Status 429
+ ⚠️
+   📄 Chapter 8/13...⚠️  API error for 2 Corinthians 8: Status 429
+ ⚠️
+   📄 Chapter 9/13...⚠️  API error for 2 Corinthians 9: Status 429
+ ⚠️
+   📄 Chapter 10/13...⚠️  API error for 2 Corinthians 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/13...⚠️  API error for 2 Corinthians 11: Status 429
+ ⚠️
+   📄 Chapter 12/13...⚠️  API error for 2 Corinthians 12: Status 429
+ ⚠️
+   📄 Chapter 13/13...⚠️  API error for 2 Corinthians 13: Status 429
+ ⚠️
+✅ 2 Corinthians complete!
+
+
+[Book 48/66]
+
+📖 Processing Galatians (6 chapters)...
+   📄 Chapter 1/6...⚠️  API error for Galatians 1: Status 429
+ ⚠️
+   📄 Chapter 2/6...⚠️  API error for Galatians 2: Status 429
+ ⚠️
+   📄 Chapter 3/6...⚠️  API error for Galatians 3: Status 429
+ ⚠️
+   📄 Chapter 4/6...⚠️  API error for Galatians 4: Status 429
+ ⚠️
+   📄 Chapter 5/6...⚠️  API error for Galatians 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/6...⚠️  API error for Galatians 6: Status 429
+ ⚠️
+✅ Galatians complete!
+
+
+======================================================================
+📜 PERIOD 14/15: Later New Testament Writings
+======================================================================
+
+[Book 49/66]
+
+📖 Processing Ephesians (6 chapters)...
+   📄 Chapter 1/6...⚠️  API error for Ephesians 1: Status 429
+ ⚠️
+   📄 Chapter 2/6...⚠️  API error for Ephesians 2: Status 429
+ ⚠️
+   📄 Chapter 3/6...⚠️  API error for Ephesians 3: Status 429
+ ⚠️
+   📄 Chapter 4/6...⚠️  API error for Ephesians 4: Status 429
+ ⚠️
+   📄 Chapter 5/6...⚠️  API error for Ephesians 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/6...⚠️  API error for Ephesians 6: Status 429
+ ⚠️
+✅ Ephesians complete!
+
+
+[Book 50/66]
+
+📖 Processing Philippians (4 chapters)...
+   📄 Chapter 1/4...⚠️  API error for Philippians 1: Status 429
+ ⚠️
+   📄 Chapter 2/4...⚠️  API error for Philippians 2: Status 429
+ ⚠️
+   📄 Chapter 3/4...⚠️  API error for Philippians 3: Status 429
+ ⚠️
+   📄 Chapter 4/4... ✓
+✅ Philippians complete!
+
+
+[Book 51/66]
+
+📖 Processing Colossians (4 chapters)...
+   📄 Chapter 1/4... ✓
+   📄 Chapter 2/4... ✓
+   📄 Chapter 3/4... ✓
+   📄 Chapter 4/4... ✓
+✅ Colossians complete!
+
+
+======================================================================
+📜 PERIOD 13/15: Early Church
+======================================================================
+
+[Book 52/66]
+
+📖 Processing 1 Thessalonians (5 chapters)...
+   📄 Chapter 1/5... ✓
+   📄 Chapter 2/5... ✓
+   📄 Chapter 3/5...⚠️  API error for 1 Thessalonians 3: Status 429
+ ⚠️
+   📄 Chapter 4/5...⚠️  API error for 1 Thessalonians 4: Status 429
+ ⚠️
+   📄 Chapter 5/5...⚠️  API error for 1 Thessalonians 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+✅ 1 Thessalonians complete!
+
+
+[Book 53/66]
+
+📖 Processing 2 Thessalonians (3 chapters)...
+   📄 Chapter 1/3...⚠️  API error for 2 Thessalonians 1: Status 429
+ ⚠️
+   📄 Chapter 2/3...⚠️  API error for 2 Thessalonians 2: Status 429
+ ⚠️
+   📄 Chapter 3/3...⚠️  API error for 2 Thessalonians 3: Status 429
+ ⚠️
+✅ 2 Thessalonians complete!
+
+
+======================================================================
+📜 PERIOD 14/15: Later New Testament Writings
+======================================================================
+
+[Book 54/66]
+
+📖 Processing 1 Timothy (6 chapters)...
+   📄 Chapter 1/6...⚠️  API error for 1 Timothy 1: Status 429
+ ⚠️
+   📄 Chapter 2/6...⚠️  API error for 1 Timothy 2: Status 429
+ ⚠️
+   📄 Chapter 3/6...⚠️  API error for 1 Timothy 3: Status 429
+ ⚠️
+   📄 Chapter 4/6...⚠️  API error for 1 Timothy 4: Status 429
+ ⚠️
+   📄 Chapter 5/6...⚠️  API error for 1 Timothy 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/6...⚠️  API error for 1 Timothy 6: Status 429
+ ⚠️
+✅ 1 Timothy complete!
+
+
+[Book 55/66]
+
+📖 Processing 2 Timothy (4 chapters)...
+   📄 Chapter 1/4...⚠️  API error for 2 Timothy 1: Status 429
+ ⚠️
+   📄 Chapter 2/4...⚠️  API error for 2 Timothy 2: Status 429
+ ⚠️
+   📄 Chapter 3/4...⚠️  API error for 2 Timothy 3: Status 429
+ ⚠️
+   📄 Chapter 4/4...⚠️  API error for 2 Timothy 4: Status 429
+ ⚠️
+✅ 2 Timothy complete!
+
+
+[Book 56/66]
+
+📖 Processing Titus (3 chapters)...
+   📄 Chapter 1/3...⚠️  API error for Titus 1: Status 429
+ ⚠️
+   📄 Chapter 2/3...⚠️  API error for Titus 2: Status 429
+ ⚠️
+   📄 Chapter 3/3...⚠️  API error for Titus 3: Status 429
+ ⚠️
+✅ Titus complete!
+
+
+[Book 57/66]
+
+📖 Processing Philemon (1 chapters)...
+   📄 Chapter 1/1...⚠️  API error for Philemon 1: Status 429
+ ⚠️
+✅ Philemon complete!
+
+
+[Book 58/66]
+
+📖 Processing Hebrews (13 chapters)...
+   📄 Chapter 1/13...⚠️  API error for Hebrews 1: Status 429
+ ⚠️
+   📄 Chapter 2/13...⚠️  API error for Hebrews 2: Status 429
+ ⚠️
+   📄 Chapter 3/13...⚠️  API error for Hebrews 3: Status 429
+ ⚠️
+   📄 Chapter 4/13... ✓
+   📄 Chapter 5/13... ✓
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/13... ✓
+   📄 Chapter 7/13... ✓
+   📄 Chapter 8/13... ✓
+   📄 Chapter 9/13... ✓
+   📄 Chapter 10/13... ✓
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/13...⚠️  API error for Hebrews 11: Status 429
+ ⚠️
+   📄 Chapter 12/13...⚠️  API error for Hebrews 12: Status 429
+ ⚠️
+   📄 Chapter 13/13...⚠️  API error for Hebrews 13: Status 429
+ ⚠️
+✅ Hebrews complete!
+
+
+[Book 59/66]
+
+📖 Processing James (5 chapters)...
+   📄 Chapter 1/5...⚠️  API error for James 1: Status 429
+ ⚠️
+   📄 Chapter 2/5...⚠️  API error for James 2: Status 429
+ ⚠️
+   📄 Chapter 3/5...⚠️  API error for James 3: Status 429
+ ⚠️
+   📄 Chapter 4/5...⚠️  API error for James 4: Status 429
+ ⚠️
+   📄 Chapter 5/5...⚠️  API error for James 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+✅ James complete!
+
+
+[Book 60/66]
+
+📖 Processing 1 Peter (5 chapters)...
+   📄 Chapter 1/5...⚠️  API error for 1 Peter 1: Status 429
+ ⚠️
+   📄 Chapter 2/5...⚠️  API error for 1 Peter 2: Status 429
+ ⚠️
+   📄 Chapter 3/5...⚠️  API error for 1 Peter 3: Status 429
+ ⚠️
+   📄 Chapter 4/5...⚠️  API error for 1 Peter 4: Status 429
+ ⚠️
+   📄 Chapter 5/5...⚠️  API error for 1 Peter 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+✅ 1 Peter complete!
+
+
+[Book 61/66]
+
+📖 Processing 2 Peter (3 chapters)...
+   📄 Chapter 1/3...⚠️  API error for 2 Peter 1: Status 429
+ ⚠️
+   📄 Chapter 2/3...⚠️  API error for 2 Peter 2: Status 429
+ ⚠️
+   📄 Chapter 3/3...⚠️  API error for 2 Peter 3: Status 429
+ ⚠️
+✅ 2 Peter complete!
+
+
+[Book 62/66]
+
+📖 Processing 1 John (5 chapters)...
+   📄 Chapter 1/5...⚠️  API error for 1 John 1: Status 429
+ ⚠️
+   📄 Chapter 2/5...⚠️  API error for 1 John 2: Status 429
+ ⚠️
+   📄 Chapter 3/5...⚠️  API error for 1 John 3: Status 429
+ ⚠️
+   📄 Chapter 4/5...⚠️  API error for 1 John 4: Status 429
+ ⚠️
+   📄 Chapter 5/5...⚠️  API error for 1 John 5: Status 429
+ ⚠️
+   📊 Context analysis for chapters 1-5 ✓
+✅ 1 John complete!
+
+
+[Book 63/66]
+
+📖 Processing 2 John (1 chapters)...
+   📄 Chapter 1/1...⚠️  API error for 2 John 1: Status 429
+ ⚠️
+✅ 2 John complete!
+
+
+[Book 64/66]
+
+📖 Processing 3 John (1 chapters)...
+   📄 Chapter 1/1...⚠️  API error for 3 John 1: Status 429
+ ⚠️
+✅ 3 John complete!
+
+
+[Book 65/66]
+
+📖 Processing Jude (1 chapters)...
+   📄 Chapter 1/1... ✓
+✅ Jude complete!
+
+
+======================================================================
+📜 PERIOD 15/15: Apocalyptic Vision
+======================================================================
+
+[Book 66/66]
+
+📖 Processing Revelation (22 chapters)...
+   📄 Chapter 1/22... ✓
+   📄 Chapter 2/22... ✓
+   📄 Chapter 3/22... ✓
+   📄 Chapter 4/22... ✓
+   📄 Chapter 5/22... ✓
+   📊 Context analysis for chapters 1-5 ✓
+   📄 Chapter 6/22... ✓
+   📄 Chapter 7/22...⚠️  API error for Revelation 7: Status 429
+ ⚠️
+   📄 Chapter 8/22...⚠️  API error for Revelation 8: Status 429
+ ⚠️
+   📄 Chapter 9/22...⚠️  API error for Revelation 9: Status 429
+ ⚠️
+   📄 Chapter 10/22...⚠️  API error for Revelation 10: Status 429
+ ⚠️
+   📊 Context analysis for chapters 6-10 ✓
+   📄 Chapter 11/22...⚠️  API error for Revelation 11: Status 429
+ ⚠️
+   📄 Chapter 12/22...⚠️  API error for Revelation 12: Status 429
+ ⚠️
+   📄 Chapter 13/22...⚠️  API error for Revelation 13: Status 429
+ ⚠️
+   📄 Chapter 14/22...⚠️  API error for Revelation 14: Status 429
+ ⚠️
+   📄 Chapter 15/22...⚠️  API error for Revelation 15: Status 429
+ ⚠️
+   📊 Context analysis for chapters 11-15 ✓
+   📄 Chapter 16/22...⚠️  API error for Revelation 16: Status 429
+ ⚠️
+   📄 Chapter 17/22...⚠️  API error for Revelation 17: Status 429
+ ⚠️
+   📄 Chapter 18/22...⚠️  API error for Revelation 18: Status 429
+ ⚠️
+   📄 Chapter 19/22...⚠️  API error for Revelation 19: Status 429
+ ⚠️
+   📄 Chapter 20/22...⚠️  API error for Revelation 20: Status 429
+ ⚠️
+   📊 Context analysis for chapters 16-20 ✓
+   📄 Chapter 21/22...⚠️  API error for Revelation 21: Status 429
+ ⚠️
+   📄 Chapter 22/22...⚠️  API error for Revelation 22: Status 429
+ ⚠️
+✅ Revelation complete!
+
+
+======================================================================
+✅ DOCUMENT GENERATION COMPLETE!
+======================================================================
+Output: jewish_biblical_narrative_complete.md
+Total chapters processed: 1189
+File size: 1.17 MB

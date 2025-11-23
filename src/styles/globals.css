@@ -1,0 +1,156 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom fonts for Hebrew and Greek */
+@font-face {
+  font-family: 'SBL Hebrew';
+  src: url('/fonts/SBLHebrew.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SBL Greek';
+  src: url('/fonts/SBLGreek.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-biblical-parchment to-biblical-sand min-h-screen;
+    @apply font-sans text-gray-900;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+
+  h1 {
+    @apply text-4xl md:text-5xl font-bold text-biblical-deepblue;
+  }
+
+  h2 {
+    @apply text-3xl md:text-4xl font-bold text-biblical-deepblue;
+  }
+
+  h3 {
+    @apply text-2xl md:text-3xl font-semibold text-biblical-deepblue;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 bg-biblical-deepblue text-white font-semibold rounded-lg;
+    @apply hover:bg-biblical-gold hover:text-biblical-deepblue;
+    @apply transition-all duration-300;
+    @apply focus:outline-none focus:ring-2 focus:ring-biblical-gold focus:ring-offset-2;
+    @apply disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .btn-secondary {
+    @apply px-6 py-3 bg-white text-biblical-deepblue font-semibold rounded-lg border-2 border-biblical-deepblue;
+    @apply hover:bg-biblical-deepblue hover:text-white;
+    @apply transition-all duration-300;
+    @apply focus:outline-none focus:ring-2 focus:ring-biblical-deepblue focus:ring-offset-2;
+  }
+
+  .card {
+    @apply bg-white rounded-lg shadow-lg p-6;
+    @apply border border-gray-200;
+  }
+
+  .card-biblical {
+    @apply bg-gradient-to-br from-amber-50 to-orange-50;
+    @apply rounded-lg shadow-md p-6;
+    @apply border-l-4 border-amber-600;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-3 border border-gray-300 rounded-lg;
+    @apply focus:ring-2 focus:ring-biblical-gold focus:border-transparent;
+    @apply transition-all duration-200;
+  }
+
+  .textarea-field {
+    @apply input-field resize-none;
+  }
+
+  .section-container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold text-biblical-deepblue mb-8 text-center;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .animation-fade-in {
+    animation: fadeIn 0.5s ease-in;
+  }
+
+  .animation-slide-up {
+    animation: slideUp 0.5s ease-out;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #8B7355;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #6B705C;
+}
+
+/* Print styles */
+@media print {
+  body {
+    @apply bg-white;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  .card, .card-biblical {
+    @apply break-inside-avoid;
+  }
+}

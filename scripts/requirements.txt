@@ -1,0 +1,24 @@
+# Biblical Political Analyzer - Data Population Scripts
+# Python 3.8+ required
+
+# Database
+supabase>=2.0.0
+python-dotenv>=1.0.0
+
+# API Clients
+openai>=1.0.0
+requests>=2.31.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Progress Tracking
+tqdm>=4.65.0
+
+# Bible Data
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Rate Limiting
+ratelimit>=2.2.1

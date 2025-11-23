@@ -1,0 +1,386 @@
+{
+  "name": "Biblical Political Analyzer - Master Workflow",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "analyze-political-statement",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "name": "Webhook Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [250, 300],
+      "webhookId": "analyze-political-statement"
+    },
+    {
+      "parameters": {
+        "functionCode": "// Extract the political statement from the webhook\nconst statement = $input.item.json.political_statement;\nconst userId = $input.item.json.user_id || null;\n\nreturn {\n  json: {\n    statement: statement,\n    user_id: userId,\n    timestamp: new Date().toISOString()\n  }\n};"
+      },
+      "name": "Extract Statement",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [450, 300]
+    },
+    {
+      "parameters": {
+        "url": "https://api.openai.com/v1/embeddings",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "openAiApi",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "model",
+              "value": "text-embedding-ada-002"
+            },
+            {
+              "name": "input",
+              "value": "={{$json.statement}}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "name": "Generate Embedding (OpenAI)",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [650, 300]
+    },
+    {
+      "parameters": {
+        "functionCode": "// Extract embedding from OpenAI response\nconst embedding = $input.item.json.data[0].embedding;\nconst statement = $('Extract Statement').item.json.statement;\n\nreturn {\n  json: {\n    statement: statement,\n    embedding: embedding,\n    embedding_string: JSON.stringify(embedding)\n  }\n};"
+      },
+      "name": "Process Embedding",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [850, 300]
+    },
+    {
+      "parameters": {
+        "url": "={{$env.SUPABASE_URL}}/rest/v1/rpc/search_biblical_passages",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "supabaseApi",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{$env.SUPABASE_ANON_KEY}}"
+            },
+            {
+              "name": "Authorization",
+              "value": "Bearer {{$env.SUPABASE_ANON_KEY}}"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "query_embedding",
+              "value": "={{$json.embedding_string}}"
+            },
+            {
+              "name": "match_threshold",
+              "value": "0.5"
+            },
+            {
+              "name": "match_count",
+              "value": "10"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "name": "Search Biblical Passages",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [1050, 300]
+    },
+    {
+      "parameters": {
+        "url": "={{$env.SUPABASE_URL}}/rest/v1/rpc/search_historical_parallels",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "supabaseApi",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{$env.SUPABASE_ANON_KEY}}"
+            },
+            {
+              "name": "Authorization",
+              "value": "Bearer {{$env.SUPABASE_ANON_KEY}}"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "query_embedding",
+              "value": "={{$('Process Embedding').item.json.embedding_string}}"
+            },
+            {
+              "name": "match_threshold",
+              "value": "0.5"
+            },
+            {
+              "name": "match_count",
+              "value": "5"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "name": "Search Historical Parallels",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [1050, 500]
+    },
+    {
+      "parameters": {
+        "functionCode": "// Combine all data for Claude\nconst statement = $('Extract Statement').item.json.statement;\nconst passages = $('Search Biblical Passages').item.json;\nconst parallels = $('Search Historical Parallels').item.json;\n\n// Format biblical passages\nlet passagesText = passages.map(p => \n  `${p.book} ${p.chapter}:${p.verse_start} - \"${p.text}\" (Similarity: ${Math.round(p.similarity * 100)}%)`\n).join('\\n\\n');\n\n// Format historical parallels\nlet parallelsText = parallels.map(p => \n  `${p.title} (${p.time_period})\\nSituation: ${p.situation_summary}\\nOutcome: ${p.outcome}`\n).join('\\n\\n');\n\nconst prompt = `You are a biblical scholar and political analyst. Analyze this political statement:\n\nSTATEMENT: \"${statement}\"\n\nBIBLICAL REFERENCES FOUND:\n${passagesText}\n\nHISTORICAL PARALLELS:\n${parallelsText}\n\nProvide a comprehensive analysis that:\n1. Explains how this statement aligns or conflicts with biblical principles\n2. Shows historical context of the biblical passages\n3. Compares to real historical situations\n4. Maintains respect for different theological perspectives\n5. Focuses on principles, not partisan politics\n\nStructure your response with:\n- Executive Summary (2-3 sentences)\n- Biblical Analysis (detailed)\n- Historical Parallels (analysis)\n- Modern Application\n- Considerations for Different Perspectives`;\n\nreturn {\n  json: {\n    prompt: prompt,\n    passages: passages,\n    parallels: parallels,\n    statement: statement\n  }\n};"
+      },
+      "name": "Prepare Claude Prompt",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [1250, 400]
+    },
+    {
+      "parameters": {
+        "url": "https://api.anthropic.com/v1/messages",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "anthropicApi",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "x-api-key",
+              "value": "={{$env.CLAUDE_API_KEY}}"
+            },
+            {
+              "name": "anthropic-version",
+              "value": "2023-06-01"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "model",
+              "value": "claude-3-sonnet-20240229"
+            },
+            {
+              "name": "max_tokens",
+              "value": "4096"
+            },
+            {
+              "name": "messages",
+              "value": "=[{\"role\": \"user\", \"content\": \"{{$json.prompt}}\"}]"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "name": "Claude AI Analysis",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [1450, 400]
+    },
+    {
+      "parameters": {
+        "functionCode": "// Parse Claude's response\nconst claudeResponse = $input.item.json.content[0].text;\nconst passages = $('Prepare Claude Prompt').item.json.passages;\nconst parallels = $('Prepare Claude Prompt').item.json.parallels;\nconst statement = $('Prepare Claude Prompt').item.json.statement;\n\n// Extract sections from Claude's response\nconst sections = claudeResponse.split('\\n\\n');\nconst executiveSummary = sections[0] || claudeResponse.substring(0, 500);\n\nreturn {\n  json: {\n    executive_summary: executiveSummary,\n    detailed_analysis: claudeResponse,\n    relevant_passages: passages,\n    historical_parallels: parallels,\n    statement: statement,\n    confidence_score: 0.85,\n    processing_time_ms: Date.now() - new Date($('Extract Statement').item.json.timestamp).getTime()\n  }\n};"
+      },
+      "name": "Format Results",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [1650, 400]
+    },
+    {
+      "parameters": {
+        "url": "={{$env.SUPABASE_URL}}/rest/v1/analysis_results",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "supabaseApi",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "={{$env.SUPABASE_SERVICE_ROLE_KEY}}"
+            },
+            {
+              "name": "Authorization",
+              "value": "Bearer {{$env.SUPABASE_SERVICE_ROLE_KEY}}"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Prefer",
+              "value": "return=representation"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{$json}}",
+        "options": {}
+      },
+      "name": "Save to Supabase",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [1850, 400]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ { \"success\": true, \"message\": \"Analysis complete\" } }}"
+      },
+      "name": "Webhook Response",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1,
+      "position": [2050, 400]
+    }
+  ],
+  "connections": {
+    "Webhook Trigger": {
+      "main": [
+        [
+          {
+            "node": "Extract Statement",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract Statement": {
+      "main": [
+        [
+          {
+            "node": "Generate Embedding (OpenAI)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Generate Embedding (OpenAI)": {
+      "main": [
+        [
+          {
+            "node": "Process Embedding",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Process Embedding": {
+      "main": [
+        [
+          {
+            "node": "Search Biblical Passages",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Search Historical Parallels",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Search Biblical Passages": {
+      "main": [
+        [
+          {
+            "node": "Prepare Claude Prompt",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Search Historical Parallels": {
+      "main": [
+        [
+          {
+            "node": "Prepare Claude Prompt",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Prepare Claude Prompt": {
+      "main": [
+        [
+          {
+            "node": "Claude AI Analysis",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Claude AI Analysis": {
+      "main": [
+        [
+          {
+            "node": "Format Results",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Format Results": {
+      "main": [
+        [
+          {
+            "node": "Save to Supabase",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Save to Supabase": {
+      "main": [
+        [
+          {
+            "node": "Webhook Response",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {},
+  "staticData": null,
+  "tags": [],
+  "triggerCount": 1,
+  "updatedAt": "2025-01-15T00:00:00.000Z",
+  "versionId": "1"
+}
