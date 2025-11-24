@@ -1,0 +1,32 @@
+{
+  "name": "bible-api-integration",
+  "version": "1.0.0",
+  "description": "Complete Bible API integration system with multiple versions and original languages",
+  "main": "BibleAPIClient.js",
+  "type": "module",
+  "scripts": {
+    "start": "node examples/basic-usage.js",
+    "test": "node tests/BibleAPIClient.test.js",
+    "demo": "node examples/rag-integration.js"
+  },
+  "keywords": [
+    "bible",
+    "api",
+    "hebrew",
+    "greek",
+    "translations",
+    "original-languages",
+    "rag",
+    "biblical-studies"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "node-cache": "^5.1.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
