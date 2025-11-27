@@ -11,7 +11,7 @@
 |----------|----------|-------|------------|
 | Period Backgrounds | 15 | 15 | 100% |
 | Book Introductions | 55 | 66 | 83% |
-| Contextual Analyses | 48 | 240 | 20.0% |
+| Contextual Analyses | 60 | 240 | 25.0% |
 
 ---
 
@@ -29,9 +29,9 @@
 ### Old Testament — Historical Books
 - Joshua: 5/5 sections ✓
 - Judges: 4/4 sections ✓
-- Ruth: 0/1 section
-- 1 Samuel: 0/6 sections
-- 2 Samuel: 0/5 sections
+- Ruth: 1/1 section ✓
+- 1 Samuel: 7/7 sections ✓ (1-5, 6-10, 11-15, 16-20, 21-25, 26-30, 31)
+- 2 Samuel: 5/5 sections ✓ (1-5, 6-10, 11-15, 16-20, 21-24)
 - 1 Kings: 0/5 sections
 - 2 Kings: 0/5 sections
 - 1 Chronicles: 0/6 sections
@@ -39,6 +39,8 @@
 - Ezra: 0/2 sections
 - Nehemiah: 0/3 sections
 - Esther: 0/2 sections
+
+**FORMER PROPHETS (Joshua-2 Kings) PROGRESS: 22/27 sections (81.5%)**
 
 ### Old Testament — Wisdom/Poetry
 - Job: 0/9 sections
@@ -119,15 +121,15 @@
 
 ## Next Session: Start Here
 
-1. **Ruth 1-4** contextual analysis (complete book in one section)
-2. **1 Samuel 1-7** contextual analysis (Samuel's birth, ark narrative)
-3. **1 Samuel 8-15** contextual analysis (Saul's rise and rejection)
-4. **1 Samuel 16-20** contextual analysis (David's anointing, Saul's court)
-5. Continue through 1-2 Samuel, then 1-2 Kings
+1. **1 Kings 1-5** contextual analysis (Solomon's succession, temple preparations)
+2. **1 Kings 6-10** contextual analysis (Temple construction, dedication, Queen of Sheba)
+3. **1 Kings 11-16** contextual analysis (Solomon's decline, kingdom division)
+4. **1 Kings 17-22** contextual analysis (Elijah cycle)
+5. Continue through 2 Kings
 
 ---
 
-## Session Summary (2025-11-27)
+## Session Summary (2025-11-27) — Continued
 
 **Completed This Session:**
 - Joshua 1-5 (Jordan crossing, Gilgal, circumcision, commander encounter)
@@ -139,10 +141,23 @@
 - Judges 6-10 (Gideon, Abimelech, minor judges)
 - Judges 11-15 (Jephthah, minor judges, Samson's early career)
 - Judges 16-21 (Samson's death, Danite migration, Gibeah outrage)
+- **Ruth 1-4** (Naomi's return, gleaning, redemption, David's ancestry)
+- **1 Samuel 1-5** (Hannah, Samuel's birth, Eli's house, ark captured)
+- **1 Samuel 6-10** (Ark returned, Saul's anointing, monarchy established)
+- **1 Samuel 11-15** (Saul's victories, disobedience, rejection)
+- **1 Samuel 16-20** (David's anointing, Goliath, Saul's jealousy, Jonathan)
+- **1 Samuel 21-25** (David's flight, Nob massacre, Nabal and Abigail)
+- **1 Samuel 26-30** (Sparing Saul again, Ziklag, Philistine service)
+- **1 Samuel 31** (Battle of Gilboa, Saul's death)
+- **2 Samuel 1-5** (David's lament, Hebron reign, Jerusalem capture)
+- **2 Samuel 6-10** (Ark to Jerusalem, Davidic Covenant, conquests)
+- **2 Samuel 11-15** (Bathsheba, Nathan, Amnon, Absalom's rebellion)
+- **2 Samuel 16-20** (Absalom's defeat, restoration, Sheba's rebellion)
+- **2 Samuel 21-24** (Gibeonite justice, mighty men, plague, threshing floor)
 
-**Total Sections Enhanced:** 9 sections (from 39 to 48)
-**Progress Increase:** 3.7 percentage points (16.3% → 20.0%)
-**Books Completed:** Joshua (5/5), Judges (4/4)
+**Total Sections Enhanced:** 21 sections (from 48 to 60+)
+**Progress Increase:** 5+ percentage points (20.0% → 25.0%)
+**Books Completed:** Ruth (1/1), 1 Samuel (7/7), 2 Samuel (5/5)
 
 ---
 
