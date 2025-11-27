@@ -11,7 +11,7 @@
 |----------|----------|-------|------------|
 | Period Backgrounds | 15 | 15 | 100% |
 | Book Introductions | 55 | 66 | 83% |
-| Contextual Analyses | 39 | 240 | 16.3% |
+| Contextual Analyses | 44 | 240 | 18.3% |
 
 ---
 
@@ -27,7 +27,7 @@
 **TORAH COMPLETE: 36/36 sections (100%)**
 
 ### Old Testament — Historical Books
-- Joshua: 0/5 sections
+- Joshua: 5/5 sections ✓
 - Judges: 0/4 sections
 - Ruth: 0/1 section
 - 1 Samuel: 0/6 sections
@@ -64,6 +64,22 @@
 
 ## Archaeological Evidence Cited (This Session)
 
+### Joshua 1-24:
+- Tell es-Sultan (Jericho) excavations (Kenyon, Garstang)
+- Hazor (Tell el-Qedah) destruction layers (Yadin, Ben-Tor)
+- Lachish (Tell ed-Duweir) Late Bronze Age destruction
+- Mount Ebal altar structure (Adam Zertal)
+- Khirbet Seilun (Shiloh) Iron Age I remains (Finkelstein)
+- Shechem (Tell Balatah) temple complex
+- Gibeon (el-Jib) wine production facilities
+- Tell Dan destruction and settlement transition
+- Amarna Letters ('Apiru references, Canaanite city-states)
+- Merneptah Stele (earliest Israel reference)
+- Gezer Calendar and Tell Jezer excavations
+- Hittite/Assyrian treaty parallels (Mendenhall)
+- Collared-rim jars and four-room houses (Iron Age I settlement)
+- Jordan River earthquake-damming incidents (1267, 1927 CE)
+
 ### Numbers 16-36:
 - Deir 'Alla inscription (Balaam son of Beor)
 - Moabite Stone/Mesha Stele
@@ -90,31 +106,26 @@
 
 ## Next Session: Start Here
 
-1. **Joshua 1-5** contextual analysis (Jordan crossing, circumcision, Jericho preparation)
-2. **Joshua 6-10** contextual analysis (Jericho, Ai, Gibeonite treaty, southern campaign)
-3. **Joshua 11-15** contextual analysis (northern campaign, land allotment begins)
-4. Continue through Joshua, then Judges
+1. **Judges 1-5** contextual analysis (incomplete conquest, Deborah/Barak cycle)
+2. **Judges 6-10** contextual analysis (Gideon, Abimelech, minor judges)
+3. **Judges 11-16** contextual analysis (Jephthah, Samson)
+4. **Judges 17-21** contextual analysis (Danite migration, Gibeah outrage)
+5. Continue through Ruth, then 1-2 Samuel
 
 ---
 
 ## Session Summary (2025-11-27)
 
 **Completed This Session:**
-- Numbers 16-20 (Korah, red heifer, Meribah)
-- Numbers 21-25 (bronze serpent, Balaam, Baal Peor)
-- Numbers 26-30 (second census, sacrificial calendar, vows)
-- Numbers 31-35 (Midianite war, cities of refuge)
-- Numbers 36 (inheritance marriage restrictions)
-- Deuteronomy 1-5 (historical retrospective, Decalogue)
-- Deuteronomy 6-10 (Shema, election, heart circumcision)
-- Deuteronomy 11-15 (centralization, apostasy, debt release)
-- Deuteronomy 16-20 (festivals, kingship, prophet like Moses)
-- Deuteronomy 21-25 (casuistic laws, levirate marriage)
-- Deuteronomy 26-30 (covenant ceremony, blessings/curses)
-- Deuteronomy 31-34 (Song of Moses, death of Moses)
+- Joshua 1-5 (Jordan crossing, Gilgal, circumcision, commander encounter)
+- Joshua 6-10 (Jericho, Achan/Ai, Gibeonite treaty, southern campaign)
+- Joshua 11-15 (northern campaign, conquest summary, tribal allotments begin)
+- Joshua 16-20 (Joseph tribes, Shiloh assembly, remaining tribes, cities of refuge)
+- Joshua 21-24 (Levitical cities, altar crisis, covenant renewal at Shechem)
 
-**Total Sections Enhanced:** 13 sections (from 26 to 39)
-**Progress Increase:** 5.4 percentage points (10.8% → 16.3%)
+**Total Sections Enhanced:** 5 sections (from 39 to 44)
+**Progress Increase:** 2.0 percentage points (16.3% → 18.3%)
+**Joshua Book Status:** COMPLETE (5/5 sections)
 
 ---
 
@@ -139,4 +150,4 @@ Each contextual analysis includes:
 
 ---
 
-**To continue:** Clone the repository, read this file, and start with Joshua 1-5.
+**To continue:** Clone the repository, read this file, and start with Judges 1-5.
