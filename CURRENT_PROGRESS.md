@@ -11,7 +11,7 @@
 |----------|----------|-------|------------|
 | Period Backgrounds | 15 | 15 | 100% |
 | Book Introductions | 55 | 66 | 83% |
-| Contextual Analyses | 44 | 240 | 18.3% |
+| Contextual Analyses | 48 | 240 | 20.0% |
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### Old Testament — Historical Books
 - Joshua: 5/5 sections ✓
-- Judges: 0/4 sections
+- Judges: 4/4 sections ✓
 - Ruth: 0/1 section
 - 1 Samuel: 0/6 sections
 - 2 Samuel: 0/5 sections
@@ -80,6 +80,19 @@
 - Collared-rim jars and four-room houses (Iron Age I settlement)
 - Jordan River earthquake-damming incidents (1267, 1927 CE)
 
+### Judges 1-21:
+- Iron Age I highland settlement surveys (Finkelstein)
+- Tell Balatah (Shechem) Baal-berith temple destruction
+- Megiddo, Taanach, Beth-shean Iron Age I occupation
+- Philistine pentapolis archaeology (Gaza, Ashkelon, Ashdod, Ekron, Gath)
+- Tell Batash (Timnah) Philistine cultural evidence
+- Tell Qasile Philistine temple architecture (pillar construction)
+- Tell Dan Iron Age I cultic installations
+- Tell el-Ful (Gibeah) fortress excavations (Albright)
+- Song of Deborah archaic Hebrew linguistic analysis
+- Merneptah Stele "Israel" reference (ca. 1208 BCE)
+- Medinet Habu reliefs (Sea Peoples/Philistine arrival)
+
 ### Numbers 16-36:
 - Deir 'Alla inscription (Balaam son of Beor)
 - Moabite Stone/Mesha Stele
@@ -106,11 +119,11 @@
 
 ## Next Session: Start Here
 
-1. **Judges 1-5** contextual analysis (incomplete conquest, Deborah/Barak cycle)
-2. **Judges 6-10** contextual analysis (Gideon, Abimelech, minor judges)
-3. **Judges 11-16** contextual analysis (Jephthah, Samson)
-4. **Judges 17-21** contextual analysis (Danite migration, Gibeah outrage)
-5. Continue through Ruth, then 1-2 Samuel
+1. **Ruth 1-4** contextual analysis (complete book in one section)
+2. **1 Samuel 1-7** contextual analysis (Samuel's birth, ark narrative)
+3. **1 Samuel 8-15** contextual analysis (Saul's rise and rejection)
+4. **1 Samuel 16-20** contextual analysis (David's anointing, Saul's court)
+5. Continue through 1-2 Samuel, then 1-2 Kings
 
 ---
 
@@ -122,10 +135,14 @@
 - Joshua 11-15 (northern campaign, conquest summary, tribal allotments begin)
 - Joshua 16-20 (Joseph tribes, Shiloh assembly, remaining tribes, cities of refuge)
 - Joshua 21-24 (Levitical cities, altar crisis, covenant renewal at Shechem)
+- Judges 1-5 (incomplete conquest, judges cycle, Deborah/Barak)
+- Judges 6-10 (Gideon, Abimelech, minor judges)
+- Judges 11-15 (Jephthah, minor judges, Samson's early career)
+- Judges 16-21 (Samson's death, Danite migration, Gibeah outrage)
 
-**Total Sections Enhanced:** 5 sections (from 39 to 44)
-**Progress Increase:** 2.0 percentage points (16.3% → 18.3%)
-**Joshua Book Status:** COMPLETE (5/5 sections)
+**Total Sections Enhanced:** 9 sections (from 39 to 48)
+**Progress Increase:** 3.7 percentage points (16.3% → 20.0%)
+**Books Completed:** Joshua (5/5), Judges (4/4)
 
 ---
 
@@ -150,4 +167,4 @@ Each contextual analysis includes:
 
 ---
 
-**To continue:** Clone the repository, read this file, and start with Judges 1-5.
+**To continue:** Clone the repository, read this file, and start with Ruth 1-4.
