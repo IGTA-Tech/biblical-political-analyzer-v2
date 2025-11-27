@@ -11,7 +11,7 @@
 |----------|----------|-------|------------|
 | Period Backgrounds | 15 | 15 | 100% |
 | Book Introductions | 55 | 66 | 83% |
-| Contextual Analyses | 60 | 240 | 25.0% |
+| Contextual Analyses | 70 | 240 | 29.2% |
 
 ---
 
@@ -32,15 +32,15 @@
 - Ruth: 1/1 section ✓
 - 1 Samuel: 7/7 sections ✓ (1-5, 6-10, 11-15, 16-20, 21-25, 26-30, 31)
 - 2 Samuel: 5/5 sections ✓ (1-5, 6-10, 11-15, 16-20, 21-24)
-- 1 Kings: 0/5 sections
-- 2 Kings: 0/5 sections
+- 1 Kings: 5/5 sections ✓ (1-5, 6-10, 11-15, 16-20, 21-22)
+- 2 Kings: 5/5 sections ✓ (1-5, 6-10, 11-15, 16-20, 21-25)
 - 1 Chronicles: 0/6 sections
 - 2 Chronicles: 0/7 sections
 - Ezra: 0/2 sections
 - Nehemiah: 0/3 sections
 - Esther: 0/2 sections
 
-**FORMER PROPHETS (Joshua-2 Kings) PROGRESS: 22/27 sections (81.5%)**
+**FORMER PROPHETS (Joshua-2 Kings) COMPLETE: 32/32 sections (100%)**
 
 ### Old Testament — Wisdom/Poetry
 - Job: 0/9 sections
@@ -66,98 +66,71 @@
 
 ## Archaeological Evidence Cited (This Session)
 
-### Joshua 1-24:
-- Tell es-Sultan (Jericho) excavations (Kenyon, Garstang)
-- Hazor (Tell el-Qedah) destruction layers (Yadin, Ben-Tor)
-- Lachish (Tell ed-Duweir) Late Bronze Age destruction
-- Mount Ebal altar structure (Adam Zertal)
-- Khirbet Seilun (Shiloh) Iron Age I remains (Finkelstein)
-- Shechem (Tell Balatah) temple complex
-- Gibeon (el-Jib) wine production facilities
-- Tell Dan destruction and settlement transition
-- Amarna Letters ('Apiru references, Canaanite city-states)
-- Merneptah Stele (earliest Israel reference)
-- Gezer Calendar and Tell Jezer excavations
-- Hittite/Assyrian treaty parallels (Mendenhall)
-- Collared-rim jars and four-room houses (Iron Age I settlement)
-- Jordan River earthquake-damming incidents (1267, 1927 CE)
+### 1 Kings 1-22:
+- Gezer, Hazor, Megiddo six-chambered gates (Yadin/Finkelstein debate)
+- Gezer Calendar (10th century BCE literacy)
+- Khirbet Qeiyafa fortified city
+- Ophel excavations (Large Stone Structure)
+- Copper mines at Timna and Khirbet en-Nahas
+- 'Ain Dara Temple (Syrian tripartite design)
+- Tel Dan Stele ("House of David")
+- Mesha Stele (Moabite Stone)
+- Bubastite Portal at Karnak (Shishak's campaign)
+- Samaria excavations (Omride acropolis, ivories)
+- Black Obelisk of Shalmaneser III (Jehu tribute)
+- Kurkh Monolith (Ahab at Qarqar)
+- Jezreel excavations (Iron Age II enclosure)
+- Melqart Stele (Ben-hadad genealogy)
 
-### Judges 1-21:
-- Iron Age I highland settlement surveys (Finkelstein)
-- Tell Balatah (Shechem) Baal-berith temple destruction
-- Megiddo, Taanach, Beth-shean Iron Age I occupation
-- Philistine pentapolis archaeology (Gaza, Ashkelon, Ashdod, Ekron, Gath)
-- Tell Batash (Timnah) Philistine cultural evidence
-- Tell Qasile Philistine temple architecture (pillar construction)
-- Tell Dan Iron Age I cultic installations
-- Tell el-Ful (Gibeah) fortress excavations (Albright)
-- Song of Deborah archaic Hebrew linguistic analysis
-- Merneptah Stele "Israel" reference (ca. 1208 BCE)
-- Medinet Habu reliefs (Sea Peoples/Philistine arrival)
-
-### Numbers 16-36:
-- Deir 'Alla inscription (Balaam son of Beor)
-- Moabite Stone/Mesha Stele
-- Tell Hesban excavations
-- Nuzi tablets (inheritance parallels)
-- Qurayyah Midianite pottery
-- Timna copper mine shrine
-- Kadesh Barnea excavations
-
-### Deuteronomy 1-34:
-- Nash Papyrus (Decalogue/Shema)
+### 2 Kings 1-25:
+- Mesha Stele (Moabite campaign)
+- Tel Dan Stele (Hazael's claims)
+- Black Obelisk (Jehu prostrate)
+- Calah Annals (Menahem tribute)
+- Tiglath-Pileser III records
+- Taylor Prism/Sennacherib inscriptions (701 BCE campaign)
+- Lachish reliefs (siege depiction)
+- Lachish excavations (destruction layers, siege ramp)
+- Hezekiah's Tunnel/Siloam Inscription
+- Broad Wall (Jerusalem expansion)
+- LMLK seal impressions
+- Babylonian Chronicles (597 BCE capture)
+- Jehoiachin's ration tablets
+- Lachish Letters (588-586 BCE)
 - Ketef Hinnom silver scrolls
-- Esarhaddon Succession Treaty
-- Hittite treaty texts (Boghazkoy)
-- Mount Ebal excavations (Adam Zertal)
-- Arad/Beersheba temple destructions
-- Qumran phylactery fragments
-- Gezer Calendar
-- Elephantine papyri (divorce documents)
-- Sefire treaty curse formulas
-- LMLK seals and shekel weights
+- Arad ostraca
 
 ---
 
 ## Next Session: Start Here
 
-1. **1 Kings 1-5** contextual analysis (Solomon's succession, temple preparations)
-2. **1 Kings 6-10** contextual analysis (Temple construction, dedication, Queen of Sheba)
-3. **1 Kings 11-16** contextual analysis (Solomon's decline, kingdom division)
-4. **1 Kings 17-22** contextual analysis (Elijah cycle)
-5. Continue through 2 Kings
+1. **1 Chronicles** contextual analyses (6 sections)
+2. **2 Chronicles** contextual analyses (7 sections)
+3. **Ezra** contextual analyses (2 sections)
+4. **Nehemiah** contextual analyses (3 sections)
+5. **Esther** contextual analyses (2 sections)
 
 ---
 
 ## Session Summary (2025-11-27) — Continued
 
-**Completed This Session:**
-- Joshua 1-5 (Jordan crossing, Gilgal, circumcision, commander encounter)
-- Joshua 6-10 (Jericho, Achan/Ai, Gibeonite treaty, southern campaign)
-- Joshua 11-15 (northern campaign, conquest summary, tribal allotments begin)
-- Joshua 16-20 (Joseph tribes, Shiloh assembly, remaining tribes, cities of refuge)
-- Joshua 21-24 (Levitical cities, altar crisis, covenant renewal at Shechem)
-- Judges 1-5 (incomplete conquest, judges cycle, Deborah/Barak)
-- Judges 6-10 (Gideon, Abimelech, minor judges)
-- Judges 11-15 (Jephthah, minor judges, Samson's early career)
-- Judges 16-21 (Samson's death, Danite migration, Gibeah outrage)
-- **Ruth 1-4** (Naomi's return, gleaning, redemption, David's ancestry)
-- **1 Samuel 1-5** (Hannah, Samuel's birth, Eli's house, ark captured)
-- **1 Samuel 6-10** (Ark returned, Saul's anointing, monarchy established)
-- **1 Samuel 11-15** (Saul's victories, disobedience, rejection)
-- **1 Samuel 16-20** (David's anointing, Goliath, Saul's jealousy, Jonathan)
-- **1 Samuel 21-25** (David's flight, Nob massacre, Nabal and Abigail)
-- **1 Samuel 26-30** (Sparing Saul again, Ziklag, Philistine service)
-- **1 Samuel 31** (Battle of Gilboa, Saul's death)
-- **2 Samuel 1-5** (David's lament, Hebron reign, Jerusalem capture)
-- **2 Samuel 6-10** (Ark to Jerusalem, Davidic Covenant, conquests)
-- **2 Samuel 11-15** (Bathsheba, Nathan, Amnon, Absalom's rebellion)
-- **2 Samuel 16-20** (Absalom's defeat, restoration, Sheba's rebellion)
-- **2 Samuel 21-24** (Gibeonite justice, mighty men, plague, threshing floor)
+**Completed This Session (New):**
+- **1 Kings 1-5** (Solomon's succession, Gibeon, temple preparations)
+- **1 Kings 6-10** (Temple construction, dedication, Queen of Sheba)
+- **1 Kings 11-15** (Solomon's apostasy, kingdom division, Shishak)
+- **1 Kings 16-20** (Omride dynasty, Elijah cycle, Carmel contest)
+- **1 Kings 21-22** (Naboth's vineyard, Micaiah, Ahab's death)
+- **2 Kings 1-5** (Elijah's ascension, Elisha's miracles, Naaman)
+- **2 Kings 6-10** (Aramean wars, Jehu's coup, Baal temple massacre)
+- **2 Kings 11-15** (Athaliah, Joash, Jeroboam II, Assyrian advance)
+- **2 Kings 16-20** (Syro-Ephraimite War, Israel's fall, Hezekiah, Sennacherib)
+- **2 Kings 21-25** (Manasseh, Josiah's reform, Babylonian exile)
 
-**Total Sections Enhanced:** 21 sections (from 48 to 60+)
-**Progress Increase:** 5+ percentage points (20.0% → 25.0%)
-**Books Completed:** Ruth (1/1), 1 Samuel (7/7), 2 Samuel (5/5)
+**Total Sections Enhanced This Session:** 10 new sections (1 Kings + 2 Kings)
+**Progress Increase:** 4.2 percentage points (25.0% → 29.2%)
+**Books Completed:** 1 Kings (5/5), 2 Kings (5/5)
+
+**FORMER PROPHETS NOW COMPLETE!**
 
 ---
 
@@ -165,7 +138,7 @@
 
 | File | Purpose |
 |------|---------|
-| `jewish_biblical_narrative_enhanced.md` | Main manuscript (2.9 MB) |
+| `jewish_biblical_narrative_enhanced.md` | Main manuscript (3.2 MB) |
 | `CURRENT_PROGRESS.md` | This progress tracker (THE ONLY ONE) |
 
 ---
@@ -182,4 +155,4 @@ Each contextual analysis includes:
 
 ---
 
-**To continue:** Clone the repository, read this file, and start with Ruth 1-4.
+**To continue:** Clone the repository, read this file, and start with 1 Chronicles.
