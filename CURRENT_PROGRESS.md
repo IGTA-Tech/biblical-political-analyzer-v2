@@ -11,7 +11,7 @@
 |----------|----------|-------|------------|
 | Period Backgrounds | 15 | 15 | 100% |
 | Book Introductions | 55 | 66 | 83% |
-| Contextual Analyses | 99 | 240 | 41.3% |
+| Contextual Analyses | 108 | 240 | 45.0% |
 
 ---
 
@@ -46,7 +46,7 @@
 
 ### Old Testament — Wisdom/Poetry
 - Job: 9/9 sections ✓
-- Psalms: 0/30 sections
+- Psalms: 9/30 sections (1-45 complete)
 - Proverbs: 0/6 sections
 - Ecclesiastes: 0/3 sections
 - Song of Solomon: 0/2 sections
