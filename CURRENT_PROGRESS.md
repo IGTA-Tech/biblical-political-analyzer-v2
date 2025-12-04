@@ -1,7 +1,26 @@
 # Biblical Narrative Enhancement — Current Progress
 
-**Last Updated:** 2025-12-02 (Consolidated - All branches merged into master)
+**Last Updated:** 2025-12-04
 **Repository:** https://github.com/IGTA-Tech/biblical-political-analyzer-v2
+
+---
+
+## RESUME POINT
+
+**NEXT SESSION STARTS HERE:**
+- **Book:** Proverbs
+- **Sections Needed:** 6 sections (covering all 31 chapters)
+- **Section Breakdown:**
+  - Proverbs 1-5: Introduction and parental wisdom
+  - Proverbs 6-9: Wisdom personified, warnings
+  - Proverbs 10-15: Solomon's proverbs (first collection)
+  - Proverbs 16-22:16: Solomon's proverbs (second collection)
+  - Proverbs 22:17-24:34: Words of the Wise
+  - Proverbs 25-31: Hezekiah's collection, Agur, Lemuel, Woman of Valor
+
+**File to Edit:** `jewish_biblical_narrative_enhanced.md`
+**Action:** Append new sections after the existing Psalms content
+**Quality Target:** 98%+ actuality score with specific archaeological citations
 
 ---
 
@@ -109,7 +128,10 @@
 
 ## Next Session: Start Here
 
-1. **Proverbs** contextual analyses (6 sections)
+**Quick Start:** Run `/continue-narrative` slash command to auto-resume with full instructions.
+
+**Manual Queue:**
+1. **Proverbs** contextual analyses (6 sections) ← CURRENT
 2. **Ecclesiastes** contextual analyses (3 sections)
 3. **Song of Solomon** contextual analyses (2 sections)
 4. **Isaiah** contextual analyses (13 sections)
@@ -248,4 +270,24 @@ See `INSTRUCTIONS_FOR_FUTURE_WORK.md` for guidelines.
 
 ---
 
-**To continue:** Read `INSTRUCTIONS_FOR_FUTURE_WORK.md`, then start with **Proverbs** (6 sections).
+**To continue:** Run `/continue-narrative` or read `INSTRUCTIONS_FOR_FUTURE_WORK.md`, then start with **Proverbs** (6 sections).
+
+---
+
+## Continuation System (Added 2025-12-04)
+
+A slash command has been created to streamline multi-session work:
+
+**Usage:** Type `/continue-narrative` at the start of any session
+
+**What it does:**
+- Provides full quality standards (98%+ actuality score)
+- Lists all 6 required sections for each contextual analysis
+- Specifies archaeological citation requirements
+- Instructs to read this file for exact resume point
+- Reminds to maximize token usage and commit at end of session
+
+**Files:**
+- `.claude/commands/continue-narrative.md` — The super prompt
+- `CURRENT_PROGRESS.md` — This file (update after each session)
+- `jewish_biblical_narrative_enhanced.md` — Main narrative (append only)
