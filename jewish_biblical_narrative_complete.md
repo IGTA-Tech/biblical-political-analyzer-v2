@@ -1605,23 +1605,190 @@ And the man increased exceedingly, and had much cattle, and maidservants, and me
 ---
 ### Genesis Chapter 31
 
-*[Chapter text unavailable]*
+And he heard the words of Laban's sons, saying, Jacob hath taken away all that was our father's; and of that which was our father's hath he gotten all this glory.
+And Jacob beheld the countenance of Laban, and, behold, it was not toward him as before.
+And the LORD said unto Jacob, Return unto the land of thy fathers, and to thy kindred; and I will be with thee.
+And Jacob sent and called Rachel and Leah to the field unto his flock,
+And said unto them, I see your father's countenance, that it is not toward me as before; but the God of my father hath been with me.
+And ye know that with all my power I have served your father.
+And your father hath deceived me, and changed my wages ten times; but God suffered him not to hurt me.
+If he said thus, The speckled shall be thy wages; then all the cattle bare speckled: and if he said thus, The ringstraked shall be thy hire; then bare all the cattle ringstraked.
+Thus God hath taken away the cattle of your father, and given them to me.
+And it came to pass at the time that the cattle conceived, that I lifted up mine eyes, and saw in a dream, and, behold, the rams which leaped upon the cattle were ringstraked, speckled, and grisled.
+And the angel of God spake unto me in a dream, saying, Jacob: And I said, Here am I.
+And he said, Lift up now thine eyes, and see, all the rams which leap upon the cattle are ringstraked, speckled, and grisled: for I have seen all that Laban doeth unto thee.
+I am the God of Bethel, where thou anointedst the pillar, and where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred.
+And Rachel and Leah answered and said unto him, Is there yet any portion or inheritance for us in our father's house?
+Are we not counted of him strangers? for he hath sold us, and hath quite devoured also our money.
+For all the riches which God hath taken from our father, that is ours, and our children's: now then, whatsoever God hath said unto thee, do.
+Then Jacob rose up, and set his sons and his wives upon camels;
+And he carried away all his cattle, and all his goods which he had gotten, the cattle of his getting, which he had gotten in Padan-aram, for to go to Isaac his father in the land of Canaan.
+And Laban went to shear his sheep: and Rachel had stolen the images that were her father's.
+And Jacob stole away unawares to Laban the Syrian, in that he told him not that he fled.
+So he fled with all that he had; and he rose up, and passed over the river, and set his face toward the mount Gilead.
+And it was told Laban on the third day that Jacob was fled.
+And he took his brethren with him, and pursued after him seven days' journey; and they overtook him in the mount Gilead.
+And God came to Laban the Syrian in a dream by night, and said unto him, Take heed that thou speak not to Jacob either good or bad.
+Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead.
+And Laban said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters, as captives taken with the sword?
+Wherefore didst thou flee away secretly, and steal away from me; and didst not tell me, that I might have sent thee away with mirth, and with songs, with tabret, and with harp?
+And hast not suffered me to kiss my sons and my daughters? thou hast now done foolishly in so doing.
+It is in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take thou heed that thou speak not to Jacob either good or bad.
+And now, though thou wouldest needs be gone, because thou sore longedst after thy father's house, yet wherefore hast thou stolen my gods?
+And Jacob answered and said to Laban, Because I was afraid: for I said, Peradventure thou wouldest take by force thy daughters from me.
+With whomsoever thou findest thy gods, let him not live: before our brethren discern thou what is thine with me, and take it to thee. For Jacob knew not that Rachel had stolen them.
+And Laban went into Jacob's tent, and into Leah's tent, and into the two maidservants' tents; but he found them not. Then went he out of Leah's tent, and entered into Rachel's tent.
+Now Rachel had taken the images, and put them in the camel's furniture, and sat upon them. And Laban searched all the tent, but found them not.
+And she said to her father, Let it not displease my lord that I cannot rise up before thee; for the custom of women is upon me. And he searched, but found not the images.
+And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What is my trespass? what is my sin, that thou hast so hotly pursued after me?
+Whereas thou hast searched all my stuff, what hast thou found of all thy household stuff? set it here before my brethren and thy brethren, that they may judge betwixt us both.
+This twenty years have I been with thee; thy ewes and thy she goats have not cast their young, and the rams of thy flock have I not eaten.
+That which was torn of beasts I brought not unto thee; I bare the loss of it; of my hand didst thou require it, whether stolen by day, or stolen by night.
+Thus I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes.
+Thus have I been twenty years in thy house; I served thee fourteen years for thy two daughters, and six years for thy cattle: and thou hast changed my wages ten times.
+Except the God of my father, the God of Abraham, and the fear of Isaac, had been with me, surely thou hadst sent me away now empty. God hath seen mine affliction and the labour of my hands, and rebuked thee yesternight.
+And Laban answered and said unto Jacob, These daughters are my daughters, and these children are my children, and these cattle are my cattle, and all that thou seest is mine: and what can I do this day unto these my daughters, or unto their children which they have born?
+Now therefore come thou, let us make a covenant, I and thou; and let it be for a witness between me and thee.
+And Jacob took a stone, and set it up for a pillar.
+And Jacob said unto his brethren, Gather stones; and they took stones, and made an heap: and they did eat there upon the heap.
+And Laban called it Jegar-sahadutha: but Jacob called it Galeed.
+And Laban said, This heap is a witness between me and thee this day. Therefore was the name of it called Galeed;
+And Mizpah; for he said, The LORD watch between me and thee, when we are absent one from another.
+If thou shalt afflict my daughters, or if thou shalt take other wives beside my daughters, no man is with us; see, God is witness betwixt me and thee.
+And Laban said to Jacob, Behold this heap, and behold this pillar, which I have cast betwixt me and thee;
+This heap be witness, and this pillar be witness, that I will not pass over this heap to thee, and that thou shalt not pass over this heap and this pillar unto me, for harm.
+The God of Abraham, and the God of Nahor, the God of their father, judge betwixt us. And Jacob sware by the fear of his father Isaac.
+Then Jacob offered sacrifice upon the mount, and called his brethren to eat bread: and they did eat bread, and tarried all night in the mount.
+And early in the morning Laban rose up, and kissed his sons and his daughters, and blessed them: and Laban departed, and returned unto his place.
+
 
 ### Genesis Chapter 32
 
-*[Chapter text unavailable]*
+And Jacob went on his way, and the angels of God met him.
+And when Jacob saw them, he said, This is God's host: and he called the name of that place Mahanaim.
+And Jacob sent messengers before him to Esau his brother unto the land of Seir, the country of Edom.
+And he commanded them, saying, Thus shall ye speak unto my lord Esau; Thy servant Jacob saith thus, I have sojourned with Laban, and stayed there until now:
+And I have oxen, and asses, flocks, and menservants, and womenservants: and I have sent to tell my lord, that I may find grace in thy sight.
+And the messengers returned to Jacob, saying, We came to thy brother Esau, and also he cometh to meet thee, and four hundred men with him.
+Then Jacob was greatly afraid and distressed: and he divided the people that was with him, and the flocks, and herds, and the camels, into two bands;
+And said, If Esau come to the one company, and smite it, then the other company which is left shall escape.
+And Jacob said, O God of my father Abraham, and God of my father Isaac, the LORD which saidst unto me, Return unto thy country, and to thy kindred, and I will deal well with thee:
+I am not worthy of the least of all the mercies, and of all the truth, which thou hast shewed unto thy servant; for with my staff I passed over this Jordan; and now I am become two bands.
+Deliver me, I pray thee, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and smite me, and the mother with the children.
+And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude.
+And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;
+Two hundred she goats, and twenty he goats, two hundred ewes, and twenty rams,
+Thirty milch camels with their colts, forty kine, and ten bulls, twenty she asses, and ten foals.
+And he delivered them into the hand of his servants, every drove by themselves; and said unto his servants, Pass over before me, and put a space betwixt drove and drove.
+And he commanded the foremost, saying, When Esau my brother meeteth thee, and asketh thee, saying, Whose art thou? and whither goest thou? and whose are these before thee?
+Then thou shalt say, They be thy servant Jacob's; it is a present sent unto my lord Esau: and, behold, also he is behind us.
+And so commanded he the second, and the third, and all that followed the droves, saying, On this manner shall ye speak unto Esau, when ye find him.
+And say ye moreover, Behold, thy servant Jacob is behind us. For he said, I will appease him with the present that goeth before me, and afterward I will see his face; peradventure he will accept of me.
+So went the present over before him: and himself lodged that night in the company.
+And he rose up that night, and took his two wives, and his two womenservants, and his eleven sons, and passed over the ford Jabbok.
+And he took them, and sent them over the brook, and sent over that he had.
+And Jacob was left alone; and there wrestled a man with him until the breaking of the day.
+And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob's thigh was out of joint, as he wrestled with him.
+And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me.
+And he said unto him, What is thy name? And he said, Jacob.
+And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed.
+And Jacob asked him, and said, Tell me, I pray thee, thy name. And he said, Wherefore is it that thou dost ask after my name? And he blessed him there.
+And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved.
+And as he passed over Penuel the sun rose upon him, and he halted upon his thigh.
+Therefore the children of Israel eat not of the sinew which shrank, which is upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob's thigh in the sinew that shrank.
+
 
 ### Genesis Chapter 33
 
-*[Chapter text unavailable]*
+And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids.
+And he put the handmaids and their children foremost, and Leah and her children after, and Rachel and Joseph hindermost.
+And he passed over before them, and bowed himself to the ground seven times, until he came near to his brother.
+And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept.
+And he lifted up his eyes, and saw the women and the children; and said, Who are those with thee? And he said, The children which God hath graciously given thy servant.
+Then the handmaidens came near, they and their children, and they bowed themselves.
+And Leah also with her children came near, and bowed themselves: and after came Joseph near and Rachel, and they bowed themselves.
+And he said, What meanest thou by all this drove which I met? And he said, These are to find grace in the sight of my lord.
+And Esau said, I have enough, my brother; keep that thou hast unto thyself.
+And Jacob said, Nay, I pray thee, if now I have found grace in thy sight, then receive my present at my hand: for therefore I have seen thy face, as though I had seen the face of God, and thou wast pleased with me.
+Take, I pray thee, my blessing that is brought to thee; because God hath dealt graciously with me, and because I have enough. And he urged him, and he took it.
+And he said, Let us take our journey, and let us go, and I will go before thee.
+And he said unto him, My lord knoweth that the children are tender, and the flocks and herds with young are with me: and if men should overdrive them one day, all the flock will die.
+Let my lord, I pray thee, pass over before his servant: and I will lead on softly, according as the cattle that goeth before me and the children be able to endure, until I come unto my lord unto Seir.
+And Esau said, Let me now leave with thee some of the folk that are with me. And he said, What needeth it? let me find grace in the sight of my lord.
+So Esau returned that day on his way unto Seir.
+And Jacob journeyed to Succoth, and built him an house, and made booths for his cattle: therefore the name of the place is called Succoth.
+And Jacob came to Shalem, a city of Shechem, which is in the land of Canaan, when he came from Padan-aram; and pitched his tent before the city.
+And he bought a parcel of a field, where he had spread his tent, at the hand of the children of Hamor, Shechem's father, for an hundred pieces of money.
+And he erected there an altar, and called it El-elohe-Israel.
+
 
 ### Genesis Chapter 34
 
-*[Chapter text unavailable]*
+And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.
+And when Shechem the son of Hamor the Hivite, prince of the country, saw her, he took her, and lay with her, and defiled her.
+And his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spake kindly unto the damsel.
+And Shechem spake unto his father Hamor, saying, Get me this damsel to wife.
+And Jacob heard that he had defiled Dinah his daughter: now his sons were with his cattle in the field: and Jacob held his peace until they were come.
+And Hamor the father of Shechem went out unto Jacob to commune with him.
+And the sons of Jacob came out of the field when they heard it: and the men were grieved, and they were very wroth, because he had wrought folly in Israel in lying with Jacob's daughter; which thing ought not to be done.
+And Hamor communed with them, saying, The soul of my son Shechem longeth for your daughter: I pray you give her him to wife.
+And make ye marriages with us, and give your daughters unto us, and take our daughters unto you.
+And ye shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein.
+And Shechem said unto her father and unto her brethren, Let me find grace in your eyes, and what ye shall say unto me I will give.
+Ask me never so much dowry and gift, and I will give according as ye shall say unto me: but give me the damsel to wife.
+And the sons of Jacob answered Shechem and Hamor his father deceitfully, and said, because he had defiled Dinah their sister:
+And they said unto them, We cannot do this thing, to give our sister to one that is uncircumcised; for that were a reproach unto us:
+But in this will we consent unto you: If ye will be as we be, that every male of you be circumcised;
+Then will we give our daughters unto you, and we will take your daughters to us, and we will dwell with you, and we will become one people.
+But if ye will not hearken unto us, to be circumcised; then will we take our daughter, and we will be gone.
+And their words pleased Hamor, and Shechem Hamor's son.
+And the young man deferred not to do the thing, because he had delight in Jacob's daughter: and he was more honourable than all the house of his father.
+And Hamor and Shechem his son came unto the gate of their city, and communed with the men of their city, saying,
+These men are peaceable with us; therefore let them dwell in the land, and trade therein; for the land, behold, it is large enough for them; let us take their daughters to us for wives, and let us give them our daughters.
+Only herein will the men consent unto us for to dwell with us, to be one people, if every male among us be circumcised, as they are circumcised.
+Shall not their cattle and their substance and every beast of theirs be ours? only let us consent unto them, and they will dwell with us.
+And unto Hamor and unto Shechem his son hearkened all that went out of the gate of his city; and every male was circumcised, all that went out of the gate of his city.
+And it came to pass on the third day, when they were sore, that two of the sons of Jacob, Simeon and Levi, Dinah's brethren, took each man his sword, and came upon the city boldly, and slew all the males.
+And they slew Hamor and Shechem his son with the edge of the sword, and took Dinah out of Shechem's house, and went out.
+The sons of Jacob came upon the slain, and spoiled the city, because they had defiled their sister.
+They took their sheep, and their oxen, and their asses, and that which was in the city, and that which was in the field,
+And all their wealth, and all their little ones, and their wives took they captive, and spoiled even all that was in the house.
+And Jacob said to Simeon and Levi, Ye have troubled me to make me to stink among the inhabitants of the land, among the Canaanites and the Perizzites: and I being few in number, they shall gather themselves together against me, and slay me; and I shall be destroyed, I and my house.
+And they said, Should he deal with our sister as with an harlot?
+
 
 ### Genesis Chapter 35
 
-*[Chapter text unavailable]*
+And God said unto Jacob, Arise, go up to Bethel, and dwell there: and make there an altar unto God, that appeared unto thee when thou fleddest from the face of Esau thy brother.
+Then Jacob said unto his household, and to all that were with him, Put away the strange gods that are among you, and be clean, and change your garments:
+And let us arise, and go up to Bethel; and I will make there an altar unto God, who answered me in the day of my distress, and was with me in the way which I went.
+And they gave unto Jacob all the strange gods which were in their hand, and all their earrings which were in their ears; and Jacob hid them under the oak which was by Shechem.
+And they journeyed: and the terror of God was upon the cities that were round about them, and they did not pursue after the sons of Jacob.
+So Jacob came to Luz, which is in the land of Canaan, that is, Bethel, he and all the people that were with him.
+And he built there an altar, and called the place El-beth-el: because there God appeared unto him, when he fled from the face of his brother.
+But Deborah Rebekah's nurse died, and she was buried beneath Bethel under an oak: and the name of it was called Allon-bachuth.
+And God appeared unto Jacob again, when he came out of Padan-aram, and blessed him.
+And God said unto him, Thy name is Jacob: thy name shall not be called any more Jacob, but Israel shall be thy name: and he called his name Israel.
+And God said unto him, I am God Almighty: be fruitful and multiply; a nation and a company of nations shall be of thee, and kings shall come out of thy loins;
+And the land which I gave Abraham and Isaac, to thee I will give it, and to thy seed after thee will I give the land.
+And God went up from him in the place where he talked with him.
+And Jacob set up a pillar in the place where he talked with him, even a pillar of stone: and he poured a drink offering thereon, and he poured oil thereon.
+And Jacob called the name of the place where God spake with him, Bethel.
+And they journeyed from Bethel; and there was but a little way to come to Ephrath: and Rachel travailed, and she had hard labour.
+And it came to pass, when she was in hard labour, that the midwife said unto her, Fear not; thou shalt have this son also.
+And it came to pass, as her soul was in departing, (for she died) that she called his name Ben-oni: but his father called him Benjamin.
+And Rachel died, and was buried in the way to Ephrath, which is Bethlehem.
+And Jacob set a pillar upon her grave: that is the pillar of Rachel's grave unto this day.
+And Israel journeyed, and spread his tent beyond the tower of Edar.
+And it came to pass, when Israel dwelt in that land, that Reuben went and lay with Bilhah his father's concubine: and Israel heard it. Now the sons of Jacob were twelve:
+The sons of Leah; Reuben, Jacob's firstborn, and Simeon, and Levi, and Judah, and Issachar, and Zebulun:
+The sons of Rachel; Joseph, and Benjamin:
+And the sons of Bilhah, Rachel's handmaid; Dan, and Naphtali:
+And the sons of Zilpah, Leah's handmaid; Gad, and Asher: these are the sons of Jacob, which were born to him in Padan-aram.
+And Jacob came unto Isaac his father unto Mamre, unto the city of Arbah, which is Hebron, where Abraham and Isaac sojourned.
+And the days of Isaac were an hundred and fourscore years.
+And Isaac gave up the ghost, and died, and was gathered unto his people, being old and full of days: and his sons Esau and Jacob buried him.
+
 
 ### Genesis Chapters 31-35: Contextual Analysis
 
