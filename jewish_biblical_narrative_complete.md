@@ -8433,23 +8433,97 @@ And they first took their journey according to the commandment of the LORD by th
 ---
 ### Numbers Chapter 11
 
-*[Chapter text unavailable]*
+And when the people complained, it displeased the LORD: and the LORD heard it; and his anger was kindled; and the fire of the LORD burnt among them, and consumed them that were in the uttermost parts of the camp.
+And the people cried unto Moses; and when Moses prayed unto the LORD, the fire was quenched.
+And he called the name of the place Taberah: because the fire of the LORD burnt among them.
+And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?
+We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick:
+But now our soul is dried away: there is nothing at all, beside this manna, before our eyes.
+And the manna was as coriander seed, and the colour thereof as the colour of bdellium.
+And the people went about, and gathered it, and ground it in mills, or beat it in a mortar, and baked it in pans, and made cakes of it: and the taste of it was as the taste of fresh oil.
+And when the dew fell upon the camp in the night, the manna fell upon it.
+Then Moses heard the people weep throughout their families, every man in the door of his tent: and the anger of the LORD was kindled greatly; Moses also was displeased.
+And Moses said unto the LORD, Wherefore hast thou afflicted thy servant? and wherefore have I not found favour in thy sight, that thou layest the burden of all this people upon me?
+Have I conceived all this people? have I begotten them, that thou shouldest say unto me, Carry them in thy bosom, as a nursing father beareth the sucking child, unto the land which thou swarest unto their fathers?
+Whence should I have flesh to give unto all this people? for they weep unto me, saying, Give us flesh, that we may eat.
+I am not able to bear all this people alone, because it is too heavy for me.
+And if thou deal thus with me, kill me, I pray thee, out of hand, if I have found favour in thy sight; and let me not see my wretchedness.
 
 ### Numbers Chapter 12
 
-*[Chapter text unavailable]*
+And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
+And they said, Hath the LORD indeed spoken only by Moses? hath he not spoken also by us? And the LORD heard it.
+(Now the man Moses was very meek, above all the men which were upon the face of the earth.)
+And the LORD spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out.
+And the LORD came down in the pillar of the cloud, and stood in the door of the tabernacle, and called Aaron and Miriam: and they both came forth.
+And he said, Hear now my words: If there be a prophet among you, I the LORD will make myself known unto him in a vision, and will speak unto him in a dream.
+My servant Moses is not so, who is faithful in all mine house.
+With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the LORD shall he behold: wherefore then were ye not afraid to speak against my servant Moses?
+And the anger of the LORD was kindled against them; and he departed.
+And the cloud departed from off the tabernacle; and, behold, Miriam became leprous, white as snow: and Aaron looked upon Miriam, and, behold, she was leprous.
+And Aaron said unto Moses, Alas, my lord, I beseech thee, lay not the sin upon us, wherein we have done foolishly, and wherein we have sinned.
+Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother's womb.
+And Moses cried unto the LORD, saying, Heal her now, O God, I beseech thee.
+And the LORD said unto Moses, If her father had but spit in her face, should she not be ashamed seven days? let her be shut out from the camp seven days, and after that let her be received in again.
+And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in again.
+And afterward the people removed from Hazeroth, and pitched in the wilderness of Paran.
 
 ### Numbers Chapter 13
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them.
+And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men were heads of the children of Israel.
+And these were their names: of the tribe of Reuben, Shammua the son of Zaccur.
+Of the tribe of Simeon, Shaphat the son of Hori.
+Of the tribe of Judah, Caleb the son of Jephunneh.
+Of the tribe of Issachar, Igal the son of Joseph.
+Of the tribe of Ephraim, Oshea the son of Nun.
+Of the tribe of Benjamin, Palti the son of Raphu.
+Of the tribe of Zebulun, Gaddiel the son of Sodi.
+Of the tribe of Joseph, namely, of the tribe of Manasseh, Gaddi the son of Susi.
+Of the tribe of Dan, Ammiel the son of Gemalli.
+Of the tribe of Asher, Sethur the son of Michael.
+Of the tribe of Naphtali, Nahbi the son of Vophsi.
+Of the tribe of Gad, Geuel the son of Machi.
+These are the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua.
+And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this way southward, and go up into the mountain:
+And see the land, what it is, and the people that dwelleth therein, whether they be strong or weak, few or many;
+And what the land is that they dwell in, whether it be good or bad; and what cities they be that they dwell in, whether in tents, or in strong holds;
+And what the land is, whether it be fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time was the time of the firstripe grapes.
 
 ### Numbers Chapter 14
 
-*[Chapter text unavailable]*
+And all the congregation lifted up their voice, and cried; and the people wept that night.
+And all the children of Israel murmured against Moses and against Aaron: and the whole congregation said unto them, Would God that we had died in the land of Egypt! or would God we had died in this wilderness!
+And wherefore hath the LORD brought us unto this land, to fall by the sword, that our wives and our children should be a prey? were it not better for us to return into Egypt?
+And they said one to another, Let us make a captain, and let us return into Egypt.
+Then Moses and Aaron fell on their faces before all the assembly of the congregation of the children of Israel.
+And Joshua the son of Nun, and Caleb the son of Jephunneh, which were of them that searched the land, rent their clothes:
+And they spake unto all the company of the children of Israel, saying, The land, which we passed through to search it, is an exceeding good land.
+If the LORD delight in us, then he will bring us into this land, and give it us; a land which floweth with milk and honey.
+Only rebel not ye against the LORD, neither fear ye the people of the land; for they are bread for us: their defence is departed from them, and the LORD is with us: fear them not.
+But all the congregation bade stone them with stones. And the glory of the LORD appeared in the tabernacle of the congregation before all the children of Israel.
+And the LORD said unto Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shewed among them?
+I will smite them with the pestilence, and disinherit them, and will make of thee a greater nation and mightier than they.
+And Moses said unto the LORD, Then the Egyptians shall hear it, (for thou broughtest up this people in thy might from among them;)
+And they will tell it to the inhabitants of this land: for they have heard that thou LORD art among this people, that thou LORD art seen face to face, and that thy cloud standeth over them, and that thou goest before them, by day time in a pillar of a cloud, and in a pillar of fire by night.
 
 ### Numbers Chapter 15
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Speak unto the children of Israel, and say unto them, When ye be come into the land of your habitations, which I give unto you,
+And will make an offering by fire unto the LORD, a burnt offering, or a sacrifice in performing a vow, or in a freewill offering, or in your solemn feasts, to make a sweet savour unto the LORD, of the herd or of the flock:
+Then shall he that offereth his offering unto the LORD bring a meat offering of a tenth deal of flour mingled with the fourth part of an hin of oil.
+And the fourth part of an hin of wine for a drink offering shalt thou prepare with the burnt offering or sacrifice, for one lamb.
+Or for a ram, thou shalt prepare for a meat offering two tenth deals of flour mingled with the third part of an hin of oil.
+And for a drink offering thou shalt offer the third part of an hin of wine, for a sweet savour unto the LORD.
+And when thou preparest a bullock for a burnt offering, or for a sacrifice in performing a vow, or peace offerings unto the LORD:
+Then shall he bring with a bullock a meat offering of three tenth deals of flour mingled with half an hin of oil.
+And thou shalt bring for a drink offering half an hin of wine, for an offering made by fire, of a sweet savour unto the LORD.
+Thus shall it be done for one bullock, or for one ram, or for a lamb, or a kid.
+According to the number that ye shall prepare, so shall ye do to every one according to their number.
+All that are born of the country shall do these things after this manner, in offering an offering made by fire, of a sweet savour unto the LORD.
+And if a stranger sojourn with you, or whosoever be among you in your generations, and will offer an offering made by fire, of a sweet savour unto the LORD; as ye do, so he shall do.
 
 ### Numbers Chapters 11-15: Contextual Analysis
 
