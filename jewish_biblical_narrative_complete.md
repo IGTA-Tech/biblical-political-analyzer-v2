@@ -6301,23 +6301,131 @@ And look that thou make them after their pattern, which was shewed thee in the m
 ---
 ### Exodus Chapter 26
 
-*[Chapter text unavailable]*
+Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou make them.
+The length of one curtain shall be eight and twenty cubits, and the breadth of one curtain four cubits: and every one of the curtains shall have one measure.
+The five curtains shall be coupled together one to another; and other five curtains shall be coupled one to another.
+And thou shalt make loops of blue upon the edge of the one curtain from the selvedge in the coupling; and likewise shalt thou make in the uttermost edge of another curtain, in the coupling of the second.
+Fifty loops shalt thou make in the one curtain, and fifty loops shalt thou make in the edge of the curtain that is in the coupling of the second; that the loops may take hold one of another.
+And thou shalt make fifty taches of gold, and couple the curtains together with the taches: and it shall be one tabernacle.
+And thou shalt make curtains of goats' hair to be a covering upon the tabernacle: eleven curtains shalt thou make.
+The length of one curtain shall be thirty cubits, and the breadth of one curtain four cubits: and the eleven curtains shall be all of one measure.
+And thou shalt couple five curtains by themselves, and six curtains by themselves, and shalt double the sixth curtain in the forefront of the tabernacle.
+And thou shalt make fifty loops on the edge of the one curtain that is outmost in the coupling, and fifty loops in the edge of the curtain which coupleth the second.
+And thou shalt make fifty taches of brass, and put the taches into the loops, and couple the tent together, that it may be one.
+And the remnant that remaineth of the curtains of the tent, the half curtain that remaineth, shall hang over the backside of the tabernacle.
+And a cubit on the one side, and a cubit on the other side of that which remaineth in the length of the curtains of the tent, it shall hang over the sides of the tabernacle on this side and on that side, to cover it.
+And thou shalt make a covering for the tent of rams' skins dyed red, and a covering above of badgers' skins.
+And thou shalt make boards for the tabernacle of shittim wood standing up.
+Ten cubits shall be the length of a board, and a cubit and a half shall be the breadth of one board.
+Two tenons shall there be in one board, set in order one against another: thus shalt thou make for all the boards of the tabernacle.
+And thou shalt make the boards for the tabernacle, twenty boards on the south side southward.
+And thou shalt make forty sockets of silver under the twenty boards; two sockets under one board for his two tenons, and two sockets under another board for his two tenons.
+And for the second side of the tabernacle on the north side there shall be twenty boards:
+And their forty sockets of silver; two sockets under one board, and two sockets under another board.
+And for the sides of the tabernacle westward thou shalt make six boards.
+And two boards shalt thou make for the corners of the tabernacle in the two sides.
+And they shall be coupled together beneath, and they shall be coupled together above the head of it unto one ring: thus shall it be for them both; they shall be for the two corners.
+And they shall be eight boards, and their sockets of silver, sixteen sockets; two sockets under one board, and two sockets under another board.
+And thou shalt make bars of shittim wood; five for the boards of the one side of the tabernacle,
+And five bars for the boards of the other side of the tabernacle, and five bars for the boards of the side of the tabernacle, for the two sides westward.
+And the middle bar in the midst of the boards shall reach from end to end.
+And thou shalt overlay the boards with gold, and make their rings of gold for places for the bars: and thou shalt overlay the bars with gold.
+And thou shalt rear up the tabernacle according to the fashion thereof which was shewed thee in the mount.
+And thou shalt make a vail of blue, and purple, and scarlet, and fine twined linen of cunning work: with cherubims shall it be made:
+And thou shalt hang it upon four pillars of shittim wood overlaid with gold: their hooks shall be of gold, upon the four sockets of silver.
+And thou shalt hang up the vail under the taches, that thou mayest bring in thither within the vail the ark of the testimony: and the vail shall divide unto you between the holy place and the most holy.
+And thou shalt put the mercy seat upon the ark of the testimony in the most holy place.
+And thou shalt set the table without the vail, and the candlestick over against the table on the side of the tabernacle toward the south: and thou shalt put the table on the north side.
+And thou shalt make an hanging for the door of the tent, of blue, and purple, and scarlet, and fine twined linen, wrought with needlework.
+And thou shalt make for the hanging five pillars of shittim wood, and overlay them with gold, and their hooks shall be of gold: and thou shalt cast five sockets of brass for them.
 
 ### Exodus Chapter 27
 
-*[Chapter text unavailable]*
+And thou shalt make an altar of shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits.
+And thou shalt make the horns of it upon the four corners thereof: his horns shall be of the same: and thou shalt overlay it with brass.
+And thou shalt make his pans to receive his ashes, and his shovels, and his basons, and his fleshhooks, and his firepans: all the vessels thereof thou shalt make of brass.
+And thou shalt make for it a grate of network of brass; and upon the net shalt thou make four brasen rings in the four corners thereof.
+And thou shalt put it under the compass of the altar beneath, that the net may be even to the midst of the altar.
+And thou shalt make staves for the altar, staves of shittim wood, and overlay them with brass.
+And the staves shall be put into the rings, and the staves shall be upon the two sides of the altar, to bear it.
+Hollow with boards shalt thou make it: as it was shewed thee in the mount, so shall they make it.
+And thou shalt make the court of the tabernacle: for the south side southward there shall be hangings for the court of fine twined linen of an hundred cubits long for one side:
+And the twenty pillars thereof and their twenty sockets shall be of brass; the hooks of the pillars and their fillets shall be of silver.
+And likewise for the north side in length there shall be hangings of an hundred cubits long, and his twenty pillars and their twenty sockets of brass; the hooks of the pillars and their fillets of silver.
+And for the breadth of the court on the west side shall be hangings of fifty cubits: their pillars ten, and their sockets ten.
+And the breadth of the court on the east side eastward shall be fifty cubits.
+The hangings of one side of the gate shall be fifteen cubits: their pillars three, and their sockets three.
+And on the other side shall be hangings fifteen cubits: their pillars three, and their sockets three.
+And for the gate of the court shall be an hanging of twenty cubits, of blue, and purple, and scarlet, and fine twined linen, wrought with needlework: and their pillars shall be four, and their sockets four.
+All the pillars round about the court shall be filleted with silver; their hooks shall be of silver, and their sockets of brass.
+The length of the court shall be an hundred cubits, and the breadth fifty every where, and the height five cubits of fine twined linen, and their sockets of brass.
+All the vessels of the tabernacle in all the service thereof, and all the pins thereof, and all the pins of the court, shall be of brass.
+And thou shalt command the children of Israel, that they bring thee pure oil olive beaten for the light, to cause the lamp to burn always.
+In the tabernacle of the congregation without the vail, which is before the testimony, Aaron and his sons shall order it from evening to morning before the LORD: it shall be a statute for ever unto their generations on the behalf of the children of Israel.
 
 ### Exodus Chapter 28
 
-*[Chapter text unavailable]*
+And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest's office, even Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron's sons.
+And thou shalt make holy garments for Aaron thy brother for glory and for beauty.
+And thou shalt speak unto all that are wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron's garments to consecrate him, that he may minister unto me in the priest's office.
+And these are the garments which they shall make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a girdle: and they shall make holy garments for Aaron thy brother, and his sons, that he may minister unto me in the priest's office.
+And they shall take gold, and blue, and purple, and scarlet, and fine linen.
+And they shall make the ephod of gold, of blue, and of purple, of scarlet, and fine twined linen, with cunning work.
+It shall have the two shoulderpieces thereof joined at the two edges thereof; and so it shall be joined together.
+And the curious girdle of the ephod, which is upon it, shall be of the same, according to the work thereof; even of gold, of blue, and purple, and scarlet, and fine twined linen.
+And thou shalt take two onyx stones, and grave on them the names of the children of Israel:
+Six of their names on one stone, and the other six names of the rest on the other stone, according to their birth.
+With the work of an engraver in stone, like the engravings of a signet, shalt thou engrave the two stones with the names of the children of Israel: thou shalt make them to be set in ouches of gold.
+And thou shalt put the two stones upon the shoulders of the ephod for stones of memorial unto the children of Israel: and Aaron shall bear their names before the LORD upon his two shoulders for a memorial.
+And thou shalt make ouches of gold;
+And two chains of pure gold at the ends; of wreathen work shalt thou make them, and fasten the wreathen chains to the ouches.
+And thou shalt make the breastplate of judgment with cunning work; after the work of the ephod thou shalt make it; of gold, of blue, and of purple, and of scarlet, and of fine twined linen, shalt thou make it.
+Foursquare it shall be being doubled; a span shall be the length thereof, and a span shall be the breadth thereof.
+And thou shalt set in it settings of stones, even four rows of stones: the first row shall be a sardius, a topaz, and a carbuncle: this shall be the first row.
+And the second row shall be an emerald, a sapphire, and a diamond.
+And the third row a ligure, an agate, and an amethyst.
+And the fourth row a beryl, and an onyx, and a jasper: they shall be set in gold in their inclosings.
+And the stones shall be with the names of the children of Israel, twelve, according to their names, like the engravings of a signet; every one with his name shall they be according to the twelve tribes.
 
 ### Exodus Chapter 29
 
-*[Chapter text unavailable]*
+And this is the thing that thou shalt do unto them to hallow them, to minister unto me in the priest's office: Take one young bullock, and two rams without blemish,
+And unleavened bread, and cakes unleavened tempered with oil, and wafers unleavened anointed with oil: of wheaten flour shalt thou make them.
+And thou shalt put them into one basket, and bring them in the basket, with the bullock and the two rams.
+And Aaron and his sons thou shalt bring unto the door of the tabernacle of the congregation, and shalt wash them with water.
+And thou shalt take the garments, and put upon Aaron the coat, and the robe of the ephod, and the ephod, and the breastplate, and gird him with the curious girdle of the ephod:
+And thou shalt put the mitre upon his head, and put the holy crown upon the mitre.
+Then shalt thou take the anointing oil, and pour it upon his head, and anoint him.
+And thou shalt bring his sons, and put coats upon them.
+And thou shalt gird them with girdles, Aaron and his sons, and put the bonnets on them: and the priest's office shall be theirs for a perpetual statute: and thou shalt consecrate Aaron and his sons.
+And thou shalt cause a bullock to be brought before the tabernacle of the congregation: and Aaron and his sons shall put their hands upon the head of the bullock.
+And thou shalt kill the bullock before the LORD, by the door of the tabernacle of the congregation.
+And thou shalt take of the blood of the bullock, and put it upon the horns of the altar with thy finger, and pour all the blood beside the bottom of the altar.
+And thou shalt take all the fat that covereth the inwards, and the caul that is above the liver, and the two kidneys, and the fat that is upon them, and burn them upon the altar.
+But the flesh of the bullock, and his skin, and his dung, shalt thou burn with fire without the camp: it is a sin offering.
+Thou shalt also take one ram; and Aaron and his sons shall put their hands upon the head of the ram.
+And thou shalt slay the ram, and thou shalt take his blood, and sprinkle it round about upon the altar.
+And thou shalt cut the ram in pieces, and wash the inwards of him, and his legs, and put them unto his pieces, and unto his head.
+And thou shalt burn the whole ram upon the altar: it is a burnt offering unto the LORD: it is a sweet savour, an offering made by fire unto the LORD.
 
 ### Exodus Chapter 30
 
-*[Chapter text unavailable]*
+And thou shalt make an altar to burn incense upon: of shittim wood shalt thou make it.
+A cubit shall be the length thereof, and a cubit the breadth thereof; foursquare shall it be: and two cubits shall be the height thereof: the horns thereof shall be of the same.
+And thou shalt overlay it with pure gold, the top thereof, and the sides thereof round about, and the horns thereof; and thou shalt make unto it a crown of gold round about.
+And two golden rings shalt thou make to it under the crown of it, by the two corners thereof, upon the two sides of it shalt thou make it; and they shall be for places for the staves to bear it withal.
+And thou shalt make the staves of shittim wood, and overlay them with gold.
+And thou shalt put it before the vail that is by the ark of the testimony, before the mercy seat that is over the testimony, where I will meet with thee.
+And Aaron shall burn thereon sweet incense every morning: when he dresseth the lamps, he shall burn incense upon it.
+And when Aaron lighteth the lamps at even, he shall burn incense upon it, a perpetual incense before the LORD throughout your generations.
+Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meat offering; neither shall ye pour drink offering thereon.
+And Aaron shall make an atonement upon the horns of it once in a year with the blood of the sin offering of atonements: once in the year shall he make atonement upon it throughout your generations: it is most holy unto the LORD.
+And the LORD spake unto Moses, saying,
+When thou takest the sum of the children of Israel after their number, then shall they give every man a ransom for his soul unto the LORD, when thou numberest them; that there be no plague among them, when thou numberest them.
+This they shall give, every one that passeth among them that are numbered, half a shekel after the shekel of the sanctuary: (a shekel is twenty gerahs:) an half shekel shall be the offering of the LORD.
+Every one that passeth among them that are numbered, from twenty years old and above, shall give an offering unto the LORD.
+The rich shall not give more, and the poor shall not give less than half a shekel, when they give an offering unto the LORD, to make an atonement for your souls.
+And thou shalt take the atonement money of the children of Israel, and shalt appoint it for the service of the tabernacle of the congregation; that it may be a memorial unto the children of Israel before the LORD, to make an atonement for your souls.
 
 ### Exodus Chapters 26-30: Contextual Analysis
 
@@ -6336,7 +6444,24 @@ And look that thou make them after their pattern, which was shewed thee in the m
 ---
 ### Exodus Chapter 31
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:
+And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,
+To devise cunning works, to work in gold, and in silver, and in brass,
+And in cutting of stones, to set them, and in carving of timber, to work in all manner of workmanship.
+And I, behold, I have given with him Aholiab, the son of Ahisamach, of the tribe of Dan: and in the hearts of all that are wise hearted I have put wisdom, that they may make all that I have commanded thee;
+The tabernacle of the congregation, and the ark of the testimony, and the mercy seat that is thereupon, and all the furniture of the tabernacle,
+And the table and his furniture, and the pure candlestick with all his furniture, and the altar of incense,
+And the altar of burnt offering with all his furniture, and the laver and his foot,
+And the cloths of service, and the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest's office,
+And the anointing oil, and sweet incense for the holy place: according to all that I have commanded thee shall they do.
+And the LORD spake unto Moses, saying,
+Speak thou also unto the children of Israel, saying, Verily my sabbaths ye shall keep: for it is a sign between me and you throughout your generations; that ye may know that I am the LORD that doth sanctify you.
+Ye shall keep the sabbath therefore; for it is holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth any work therein, that soul shall be cut off from among his people.
+Six days may work be done; but in the seventh is the sabbath of rest, holy to the LORD: whosoever doeth any work in the sabbath day, he shall surely be put to death.
+Wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations, for a perpetual covenant.
+It is a sign between me and the children of Israel for ever: for in six days the LORD made heaven and earth, and on the seventh day he rested, and was refreshed.
+And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God.
 
 ### Exodus Chapter 32
 
@@ -6931,7 +7056,44 @@ And Moses did look upon all the work, and, behold, they have done it as the LORD
 
 ### Exodus Chapter 40
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+On the first day of the first month shalt thou set up the tabernacle of the tent of the congregation.
+And thou shalt put therein the ark of the testimony, and cover the ark with the vail.
+And thou shalt bring in the table, and set in order the things that are to be set in order upon it; and thou shalt bring in the candlestick, and light the lamps thereof.
+And thou shalt set the altar of gold for the incense before the ark of the testimony, and put the hanging of the door to the tabernacle.
+And thou shalt set the altar of the burnt offering before the door of the tabernacle of the tent of the congregation.
+And thou shalt set the laver between the tent of the congregation and the altar, and shalt put water therein.
+And thou shalt set up the court round about, and hang up the hanging at the court gate.
+And thou shalt take the anointing oil, and anoint the tabernacle, and all that is therein, and shalt hallow it, and all the vessels thereof: and it shall be holy.
+And thou shalt anoint the altar of the burnt offering, and all his vessels, and sanctify the altar: and it shall be an altar most holy.
+And thou shalt anoint the laver and his foot, and sanctify it.
+And thou shalt bring Aaron and his sons unto the door of the tabernacle of the congregation, and wash them with water.
+And thou shalt put upon Aaron the holy garments, and anoint him, and sanctify him; that he may minister unto me in the priest's office.
+And thou shalt bring his sons, and clothe them with coats:
+And thou shalt anoint them, as thou didst anoint their father, that they may minister unto me in the priest's office: for their anointing shall surely be an everlasting priesthood throughout their generations.
+Thus did Moses: according to all that the LORD commanded him, so did he.
+And it came to pass in the first month in the second year, on the first day of the month, that the tabernacle was reared up.
+And Moses reared up the tabernacle, and fastened his sockets, and set up the boards thereof, and put in the bars thereof, and reared up his pillars.
+And he spread abroad the tent over the tabernacle, and put the covering of the tent above upon it; as the LORD commanded Moses.
+And he took and put the testimony into the ark, and set the staves on the ark, and put the mercy seat above upon the ark:
+And he brought the ark into the tabernacle, and set up the vail of the covering, and covered the ark of the testimony; as the LORD commanded Moses.
+And he put the table in the tent of the congregation, upon the side of the tabernacle northward, without the vail.
+And he set the bread in order upon it before the LORD; as the LORD had commanded Moses.
+And he put the candlestick in the tent of the congregation, over against the table, on the side of the tabernacle southward.
+And he lighted the lamps before the LORD; as the LORD commanded Moses.
+And he put the golden altar in the tent of the congregation before the vail:
+And he burnt sweet incense thereon; as the LORD commanded Moses.
+And he set up the hanging at the door of the tabernacle.
+And he put the altar of burnt offering by the door of the tabernacle of the tent of the congregation, and offered upon it the burnt offering and the meat offering; as the LORD commanded Moses.
+And he set the laver between the tent of the congregation and the altar, and put water there, to wash withal.
+And Moses and Aaron and his sons washed their hands and their feet thereat:
+When they went into the tent of the congregation, and when they came near unto the altar, they washed; as the LORD commanded Moses.
+And he reared up the court round about the tabernacle and the altar, and set up the hanging of the court gate. So Moses finished the work.
+Then a cloud covered the tent of the congregation, and the glory of the LORD filled the tabernacle.
+And Moses was not able to enter into the tent of the congregation, because the cloud abode thereon, and the glory of the LORD filled the tabernacle.
+And when the cloud was taken up from over the tabernacle, the children of Israel went onward in all their journeys:
+But if the cloud were not taken up, then they journeyed not till the day that it was taken up.
+For the cloud of the LORD was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys.
 
 ### Exodus Chapters 36-40: Contextual Analysis
 
