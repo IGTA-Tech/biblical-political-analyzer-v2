@@ -1807,23 +1807,154 @@ And Isaac gave up the ghost, and died, and was gathered unto his people, being o
 ---
 ### Genesis Chapter 36
 
-*[Chapter text unavailable]*
+Now these are the generations of Esau, who is Edom.
+Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite;
+And Bashemath Ishmael's daughter, sister of Nebajoth.
+And Adah bare to Esau Eliphaz; and Bashemath bare Reuel;
+And Aholibamah bare Jeush, and Jaalam, and Korah: these are the sons of Esau, which were born unto him in the land of Canaan.
+And Esau took his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance, which he had got in the land of Canaan; and went into the country from the face of his brother Jacob.
+For their riches were more than that they might dwell together; and the land wherein they were strangers could not bear them because of their cattle.
+Thus dwelt Esau in mount Seir: Esau is Edom.
+And these are the generations of Esau the father of the Edomites in mount Seir.
+These are the names of Esau's sons; Eliphaz the son of Adah the wife of Esau, Reuel the son of Bashemath the wife of Esau.
+And the sons of Eliphaz were Teman, Omar, Zepho, and Gatam, and Kenaz.
+And Timna was concubine to Eliphaz Esau's son; and she bare to Eliphaz Amalek: these were the sons of Adah Esau's wife.
+And these are the sons of Reuel; Nahath, and Zerah, Shammah, and Mizzah: these were the sons of Bashemath Esau's wife.
+And these were the sons of Aholibamah, the daughter of Anah the daughter of Zibeon, Esau's wife: and she bare to Esau Jeush, and Jaalam, and Korah.
+These were dukes of the sons of Esau: the sons of Eliphaz the firstborn son of Esau; duke Teman, duke Omar, duke Zepho, duke Kenaz,
+Duke Korah, duke Gatam, and duke Amalek: these are the dukes that came of Eliphaz in the land of Edom; these were the sons of Adah.
+And these are the sons of Reuel Esau's son; duke Nahath, duke Zerah, duke Shammah, duke Mizzah: these are the dukes that came of Reuel in the land of Edom; these are the sons of Bashemath Esau's wife.
+And these are the sons of Aholibamah Esau's wife; duke Jeush, duke Jaalam, duke Korah: these were the dukes that came of Aholibamah the daughter of Anah, Esau's wife.
+These are the sons of Esau, who is Edom, and these are their dukes.
+
 
 ### Genesis Chapter 37
 
-*[Chapter text unavailable]*
+And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan.
+These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brethren; and the lad was with the sons of Bilhah, and with the sons of Zilpah, his father's wives: and Joseph brought unto his father their evil report.
+Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colours.
+And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him.
+And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more.
+And he said unto them, Hear, I pray you, this dream which I have dreamed:
+For, behold, we were binding sheaves in the field, and, lo, my sheaf arose, and also stood upright; and, behold, your sheaves stood round about, and made obeisance to my sheaf.
+And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words.
+And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.
+And he told it to his father, and to his brethren: and his father rebuked him, and said unto him, What is this dream that thou hast dreamed? Shall I and thy mother and thy brethren indeed come to bow down ourselves to thee to the earth?
+And his brethren envied him; but his father observed the saying.
+And his brethren went to feed their father's flock in Shechem.
+And Israel said unto Joseph, Do not thy brethren feed the flock in Shechem? come, and I will send thee unto them. And he said to him, Here am I.
+And he said to him, Go, I pray thee, see whether it be well with thy brethren, and well with the flocks; and bring me word again. So he sent him out of the vale of Hebron, and he came to Shechem.
+And a certain man found him, and, behold, he was wandering in the field: and the man asked him, saying, What seekest thou?
+And he said, I seek my brethren: tell me, I pray thee, where they feed their flocks.
+And the man said, They are departed hence; for I heard them say, Let us go to Dothan. And Joseph went after his brethren, and found them in Dothan.
+And when they saw him afar off, even before he came near unto them, they conspired against him to slay him.
+And they said one to another, Behold, this dreamer cometh.
+Come now therefore, and let us slay him, and cast him into some pit, and we will say, Some evil beast hath devoured him: and we shall see what will become of his dreams.
+And Reuben heard it, and he delivered him out of their hands; and said, Let us not kill him.
+And Reuben said unto them, Shed no blood, but cast him into this pit that is in the wilderness, and lay no hand upon him; that he might rid him out of their hands, to deliver him to his father again.
+And it came to pass, when Joseph was come unto his brethren, that they stript Joseph out of his coat, his coat of many colours that was on him;
+And they took him, and cast him into a pit: and the pit was empty, there was no water in it.
+And they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a company of Ishmeelites came from Gilead with their camels bearing spicery and balm and myrrh, going to carry it down to Egypt.
+And Judah said unto his brethren, What profit is it if we slay our brother, and conceal his blood?
+Come, and let us sell him to the Ishmeelites, and let not our hand be upon him; for he is our brother and our flesh. And his brethren were content.
+Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty pieces of silver: and they brought Joseph into Egypt.
+And Reuben returned unto the pit; and, behold, Joseph was not in the pit; and he rent his clothes.
+And he returned unto his brethren, and said, The child is not; and I, whither shall I go?
+And they took Joseph's coat, and killed a kid of the goats, and dipped the coat in the blood;
+And they sent the coat of many colours, and they brought it to their father; and said, This have we found: know now whether it be thy son's coat or no.
+And he knew it, and said, It is my son's coat; an evil beast hath devoured him; Joseph is without doubt rent in pieces.
+And Jacob rent his clothes, and put sackcloth upon his loins, and mourned for his son many days.
+And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him.
+And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh's, and captain of the guard.
+
 
 ### Genesis Chapter 38
 
-*[Chapter text unavailable]*
+And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name was Hirah.
+And Judah saw there a daughter of a certain Canaanite, whose name was Shuah; and he took her, and went in unto her.
+And she conceived, and bare a son; and he called his name Er.
+And she conceived again, and bare a son; and she called his name Onan.
+And she yet again conceived, and bare a son; and called his name Shelah: and he was at Chezib, when she bare him.
+And Judah took a wife for Er his firstborn, whose name was Tamar.
+And Er, Judah's firstborn, was wicked in the sight of the LORD; and the LORD slew him.
+And Judah said unto Onan, Go in unto thy brother's wife, and marry her, and raise up seed to thy brother.
+And Onan knew that the seed should not be his; and it came to pass, when he went in unto his brother's wife, that he spilled it on the ground, lest that he should give seed to his brother.
+And the thing which he did displeased the LORD: wherefore he slew him also.
+Then said Judah to Tamar his daughter in law, Remain a widow at thy father's house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren did. And Tamar went and dwelt in her father's house.
+And in process of time the daughter of Shuah Judah's wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite.
+And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep.
+And she put her widow's garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which is by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife.
+When Judah saw her, he thought her to be an harlot; because she had covered her face.
+And he turned unto her by the way, and said, Go to, I pray thee, let me come in unto thee; (for he knew not that she was his daughter in law.) And she said, What wilt thou give me, that thou mayest come in unto me?
+And he said, I will send thee a kid from the flock. And she said, Wilt thou give me a pledge, till thou send it?
+And he said, What pledge shall I give thee? And she said, Thy signet, and thy bracelets, and thy staff that is in thine hand. And he gave it her, and came in unto her, and she conceived by him.
+And she arose, and went away, and laid by her vail from her, and put on the garments of her widowhood.
+And Judah sent the kid by the hand of his friend the Adullamite, to receive his pledge from the woman's hand: but he found her not.
+Then he asked the men of that place, saying, Where is the harlot, that was openly by the way side? And they said, There was no harlot in this place.
+And he returned to Judah, and said, I cannot find her; and also the men of the place said, that there was no harlot in this place.
+And Judah said, Let her take it to her, lest we be shamed: behold, I sent this kid, and thou hast not found her.
+And it came to pass about three months after, that it was told Judah, saying, Tamar thy daughter in law hath played the harlot; and also, behold, she is with child by whoredom. And Judah said, Bring her forth, and let her be burnt.
+When she was brought forth, she sent to her father in law, saying, By the man, whose these are, am I with child: and she said, Discern, I pray thee, whose are these, the signet, and bracelets, and staff.
+And Judah acknowledged them, and said, She hath been more righteous than I; because that I gave her not to Shelah my son. And he knew her again no more.
+And it came to pass in the time of her travail, that, behold, twins were in her womb.
+And it came to pass, when she travailed, that the one put out his hand: and the midwife took and bound upon his hand a scarlet thread, saying, This came out first.
+And it came to pass, as he drew back his hand, that, behold, his brother came out: and she said, How hast thou broken forth? this breach be upon thee: therefore his name was called Pharez.
+And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah.
+
 
 ### Genesis Chapter 39
 
-*[Chapter text unavailable]*
+And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.
+And the LORD was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian.
+And his master saw that the LORD was with him, and that the LORD made all that he did to prosper in his hand.
+And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all that he had he put into his hand.
+And it came to pass from the time that he had made him overseer in his house, and over all that he had, that the LORD blessed the Egyptian's house for Joseph's sake; and the blessing of the LORD was upon all that he had in the house, and in the field.
+And he left all that he had in Joseph's hand; and he knew not ought he had, save the bread which he did eat. And Joseph was a goodly person, and well favoured.
+And it came to pass after these things, that his master's wife cast her eyes upon Joseph; and she said, Lie with me.
+But he refused, and said unto his master's wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand;
+There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?
+And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her.
+And it came to pass about this time, that Joseph went into the house to do his business; and there was none of the men of the house there within.
+And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.
+And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,
+That she called unto the men of her house, and spake unto them, saying, See, he hath brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:
+And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out.
+And she laid up his garment by her, until his lord came home.
+And she spake unto him according to these words, saying, The Hebrew servant, which thou hast brought unto us, came in unto me to mock me:
+And it came to pass, as I lifted up my voice and cried, that he left his garment with me, and fled out.
+And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did thy servant to me; that his wrath was kindled.
+And Joseph's master took him, and put him into the prison, a place where the king's prisoners were bound: and he was there in the prison.
+But the LORD was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison.
+And the keeper of the prison committed to Joseph's hand all the prisoners that were in the prison; and whatsoever they did there, he was the doer of it.
+The keeper of the prison looked not to any thing that was under his hand; because the LORD was with him, and that which he did, the LORD made it to prosper.
+
 
 ### Genesis Chapter 40
 
-*[Chapter text unavailable]*
+And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt.
+And Pharaoh was wroth against two of his officers, against the chief of the butlers, and against the chief of the bakers.
+And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph was bound.
+And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward.
+And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which were bound in the prison.
+And Joseph came in unto them in the morning, and looked upon them, and, behold, they were sad.
+And he asked Pharaoh's officers that were with him in the ward of his lord's house, saying, Wherefore look ye so sadly to day?
+And they said unto him, We have dreamed a dream, and there is no interpreter of it. And Joseph said unto them, Do not interpretations belong to God? tell me them, I pray you.
+And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine was before me;
+And in the vine were three branches: and it was as though it budded, and her blossoms shot forth; and the clusters thereof brought forth ripe grapes:
+And Pharaoh's cup was in my hand: and I took the grapes, and pressed them into Pharaoh's cup, and I gave the cup into Pharaoh's hand.
+And Joseph said unto him, This is the interpretation of it: The three branches are three days:
+Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy place: and thou shalt deliver Pharaoh's cup into his hand, after the former manner when thou wast his butler.
+But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house:
+For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon.
+When the chief baker saw that the interpretation was good, he said unto Joseph, I also was in my dream, and, behold, I had three white baskets on my head:
+And in the uppermost basket there was of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head.
+And Joseph answered and said, This is the interpretation thereof: The three baskets are three days:
+Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee.
+And it came to pass the third day, which was Pharaoh's birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants.
+And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh's hand:
+But he hanged the chief baker: as Joseph had interpreted to them.
+Yet did not the chief butler remember Joseph, but forgat him.
+
 
 ### Genesis Chapters 36-40: Contextual Analysis
 
@@ -1842,7 +1973,64 @@ And Isaac gave up the ghost, and died, and was gathered unto his people, being o
 ---
 ### Genesis Chapter 41
 
-*[Chapter text unavailable]*
+And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.
+And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow.
+And, behold, seven other kine came up after them out of the river, ill favoured and leanfleshed; and stood by the other kine upon the brink of the river.
+And the ill favoured and leanfleshed kine did eat up the seven well favoured and fat kine. So Pharaoh awoke.
+And he slept and dreamed the second time: and, behold, seven ears of corn came up upon one stalk, rank and good.
+And, behold, seven thin ears and blasted with the east wind sprung up after them.
+And the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke, and, behold, it was a dream.
+And it came to pass in the morning that his spirit was troubled; and he sent and called for all the magicians of Egypt, and all the wise men thereof: and Pharaoh told them his dream; but there was none that could interpret them unto Pharaoh.
+Then spake the chief butler unto Pharaoh, saying, I do remember my faults this day:
+Pharaoh was wroth with his servants, and put me in ward in the captain of the guard's house, both me and the chief baker:
+And we dreamed a dream in one night, I and he; we dreamed each man according to the interpretation of his dream.
+And there was there with us a young man, an Hebrew, servant to the captain of the guard; and we told him, and he interpreted to us our dreams; to each man according to his dream he did interpret.
+And it came to pass, as he interpreted to us, so it was; me he restored unto mine office, and him he hanged.
+Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon: and he shaved himself, and changed his raiment, and came in unto Pharaoh.
+And Pharaoh said unto Joseph, I have dreamed a dream, and there is none that can interpret it: and I have heard say of thee, that thou canst understand a dream to interpret it.
+And Joseph answered Pharaoh, saying, It is not in me: God shall give Pharaoh an answer of peace.
+And Pharaoh said unto Joseph, In my dream, behold, I stood upon the bank of the river:
+And, behold, there came up out of the river seven kine, fatfleshed and well favoured; and they fed in a meadow:
+And, behold, seven other kine came up after them, poor and very ill favoured and leanfleshed, such as I never saw in all the land of Egypt for badness:
+And the lean and the ill favoured kine did eat up the first seven fat kine:
+And when they had eaten them up, it could not be known that they had eaten them; but they were still ill favoured, as at the beginning. So I awoke.
+And I saw in my dream, and, behold, seven ears came up in one stalk, full and good:
+And, behold, seven ears, withered, thin, and blasted with the east wind, sprung up after them:
+And the thin ears devoured the seven good ears: and I told this unto the magicians; but there was none that could declare it to me.
+And Joseph said unto Pharaoh, The dream of Pharaoh is one: God hath shewed Pharaoh what he is about to do.
+The seven good kine are seven years; and the seven good ears are seven years: the dream is one.
+And the seven thin and ill favoured kine that came up after them are seven years; and the seven empty ears blasted with the east wind shall be seven years of famine.
+This is the thing which I have spoken unto Pharaoh: What God is about to do he sheweth unto Pharaoh.
+Behold, there come seven years of great plenty throughout all the land of Egypt:
+And there shall arise after them seven years of famine; and all the plenty shall be forgotten in the land of Egypt; and the famine shall consume the land;
+And the plenty shall not be known in the land by reason of that famine following; for it shall be very grievous.
+And for that the dream was doubled unto Pharaoh twice; it is because the thing is established by God, and God will shortly bring it to pass.
+Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.
+Let Pharaoh do this, and let him appoint officers over the land, and take up the fifth part of the land of Egypt in the seven plenteous years.
+And let them gather all the food of those good years that come, and lay up corn under the hand of Pharaoh, and let them keep food in the cities.
+And that food shall be for store to the land against the seven years of famine, which shall be in the land of Egypt; that the land perish not through the famine.
+And the thing was good in the eyes of Pharaoh, and in the eyes of all his servants.
+And Pharaoh said unto his servants, Can we find such a one as this is, a man in whom the Spirit of God is?
+And Pharaoh said unto Joseph, Forasmuch as God hath shewed thee all this, there is none so discreet and wise as thou art:
+Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.
+And Pharaoh said unto Joseph, See, I have set thee over all the land of Egypt.
+And Pharaoh took off his ring from his hand, and put it upon Joseph's hand, and arrayed him in vestures of fine linen, and put a gold chain about his neck;
+And he made him to ride in the second chariot which he had; and they cried before him, Bow the knee: and he made him ruler over all the land of Egypt.
+And Pharaoh said unto Joseph, I am Pharaoh, and without thee shall no man lift up his hand or foot in all the land of Egypt.
+And Pharaoh called Joseph's name Zaphnath-paaneah; and he gave him to wife Asenath the daughter of Poti-pherah priest of On. And Joseph went out over all the land of Egypt.
+And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.
+And in the seven plenteous years the earth brought forth by handfuls.
+And he gathered up all the food of the seven years, which were in the land of Egypt, and laid up the food in the cities: the food of the field, which was round about every city, laid he up in the same.
+And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number.
+And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Poti-pherah priest of On bare unto him.
+And Joseph called the name of the firstborn Manasseh: For God, said he, hath made me forget all my toil, and all my father's house.
+And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction.
+And the seven years of plenteousness, that was in the land of Egypt, were ended.
+And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread.
+And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do.
+And the famine was over all the face of the earth: And Joseph opened all the storehouses, and sold unto the Egyptians; and the famine waxed sore in the land of Egypt.
+And all countries came into Egypt to Joseph for to buy corn; because that the famine was so sore in all lands.
+
 
 ### Genesis Chapter 42
 
@@ -4381,7 +4569,64 @@ is Esau the father of the Edomites.
 ---
 ### Genesis Chapter 41
 
-*[Chapter text unavailable]*
+And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.
+And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow.
+And, behold, seven other kine came up after them out of the river, ill favoured and leanfleshed; and stood by the other kine upon the brink of the river.
+And the ill favoured and leanfleshed kine did eat up the seven well favoured and fat kine. So Pharaoh awoke.
+And he slept and dreamed the second time: and, behold, seven ears of corn came up upon one stalk, rank and good.
+And, behold, seven thin ears and blasted with the east wind sprung up after them.
+And the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke, and, behold, it was a dream.
+And it came to pass in the morning that his spirit was troubled; and he sent and called for all the magicians of Egypt, and all the wise men thereof: and Pharaoh told them his dream; but there was none that could interpret them unto Pharaoh.
+Then spake the chief butler unto Pharaoh, saying, I do remember my faults this day:
+Pharaoh was wroth with his servants, and put me in ward in the captain of the guard's house, both me and the chief baker:
+And we dreamed a dream in one night, I and he; we dreamed each man according to the interpretation of his dream.
+And there was there with us a young man, an Hebrew, servant to the captain of the guard; and we told him, and he interpreted to us our dreams; to each man according to his dream he did interpret.
+And it came to pass, as he interpreted to us, so it was; me he restored unto mine office, and him he hanged.
+Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon: and he shaved himself, and changed his raiment, and came in unto Pharaoh.
+And Pharaoh said unto Joseph, I have dreamed a dream, and there is none that can interpret it: and I have heard say of thee, that thou canst understand a dream to interpret it.
+And Joseph answered Pharaoh, saying, It is not in me: God shall give Pharaoh an answer of peace.
+And Pharaoh said unto Joseph, In my dream, behold, I stood upon the bank of the river:
+And, behold, there came up out of the river seven kine, fatfleshed and well favoured; and they fed in a meadow:
+And, behold, seven other kine came up after them, poor and very ill favoured and leanfleshed, such as I never saw in all the land of Egypt for badness:
+And the lean and the ill favoured kine did eat up the first seven fat kine:
+And when they had eaten them up, it could not be known that they had eaten them; but they were still ill favoured, as at the beginning. So I awoke.
+And I saw in my dream, and, behold, seven ears came up in one stalk, full and good:
+And, behold, seven ears, withered, thin, and blasted with the east wind, sprung up after them:
+And the thin ears devoured the seven good ears: and I told this unto the magicians; but there was none that could declare it to me.
+And Joseph said unto Pharaoh, The dream of Pharaoh is one: God hath shewed Pharaoh what he is about to do.
+The seven good kine are seven years; and the seven good ears are seven years: the dream is one.
+And the seven thin and ill favoured kine that came up after them are seven years; and the seven empty ears blasted with the east wind shall be seven years of famine.
+This is the thing which I have spoken unto Pharaoh: What God is about to do he sheweth unto Pharaoh.
+Behold, there come seven years of great plenty throughout all the land of Egypt:
+And there shall arise after them seven years of famine; and all the plenty shall be forgotten in the land of Egypt; and the famine shall consume the land;
+And the plenty shall not be known in the land by reason of that famine following; for it shall be very grievous.
+And for that the dream was doubled unto Pharaoh twice; it is because the thing is established by God, and God will shortly bring it to pass.
+Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.
+Let Pharaoh do this, and let him appoint officers over the land, and take up the fifth part of the land of Egypt in the seven plenteous years.
+And let them gather all the food of those good years that come, and lay up corn under the hand of Pharaoh, and let them keep food in the cities.
+And that food shall be for store to the land against the seven years of famine, which shall be in the land of Egypt; that the land perish not through the famine.
+And the thing was good in the eyes of Pharaoh, and in the eyes of all his servants.
+And Pharaoh said unto his servants, Can we find such a one as this is, a man in whom the Spirit of God is?
+And Pharaoh said unto Joseph, Forasmuch as God hath shewed thee all this, there is none so discreet and wise as thou art:
+Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.
+And Pharaoh said unto Joseph, See, I have set thee over all the land of Egypt.
+And Pharaoh took off his ring from his hand, and put it upon Joseph's hand, and arrayed him in vestures of fine linen, and put a gold chain about his neck;
+And he made him to ride in the second chariot which he had; and they cried before him, Bow the knee: and he made him ruler over all the land of Egypt.
+And Pharaoh said unto Joseph, I am Pharaoh, and without thee shall no man lift up his hand or foot in all the land of Egypt.
+And Pharaoh called Joseph's name Zaphnath-paaneah; and he gave him to wife Asenath the daughter of Poti-pherah priest of On. And Joseph went out over all the land of Egypt.
+And Joseph was thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.
+And in the seven plenteous years the earth brought forth by handfuls.
+And he gathered up all the food of the seven years, which were in the land of Egypt, and laid up the food in the cities: the food of the field, which was round about every city, laid he up in the same.
+And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number.
+And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Poti-pherah priest of On bare unto him.
+And Joseph called the name of the firstborn Manasseh: For God, said he, hath made me forget all my toil, and all my father's house.
+And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction.
+And the seven years of plenteousness, that was in the land of Egypt, were ended.
+And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread.
+And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do.
+And the famine was over all the face of the earth: And Joseph opened all the storehouses, and sold unto the Egyptians; and the famine waxed sore in the land of Egypt.
+And all countries came into Egypt to Joseph for to buy corn; because that the famine was so sore in all lands.
+
 
 ### Genesis Chapter 42
 
