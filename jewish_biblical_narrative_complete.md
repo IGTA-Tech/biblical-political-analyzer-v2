@@ -8542,23 +8542,81 @@ And if a stranger sojourn with you, or whosoever be among you in your generation
 ---
 ### Numbers Chapter 16
 
-*[Chapter text unavailable]*
+Now Korah, the son of Izhar, the son of Kohath, the son of Levi, and Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took men:
+And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:
+And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and the LORD is among them: wherefore then lift ye up yourselves above the congregation of the LORD?
+And when Moses heard it, he fell upon his face:
+And he spake unto Korah and unto all his company, saying, Even to morrow the LORD will shew who are his, and who is holy; and will cause him to come near unto him: even him whom he hath chosen will he cause to come near unto him.
+This do; Take you censers, Korah, and all his company;
+And put fire therein, and put incense in them before the LORD to morrow: and it shall be that the man whom the LORD doth choose, he shall be holy: ye take too much upon you, ye sons of Levi.
+And Moses said unto Korah, Hear, I pray you, ye sons of Levi:
+Seemeth it but a small thing unto you, that the God of Israel hath separated you from the congregation of Israel, to bring you near to himself to do the service of the tabernacle of the LORD, and to stand before the congregation to minister unto them?
+And he hath brought thee near to him, and all thy brethren the sons of Levi with thee: and seek ye the priesthood also?
+For which cause both thou and all thy company are gathered together against the LORD: and what is Aaron, that ye murmur against him?
+And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We will not come up:
+Is it a small thing that thou hast brought us up out of a land that floweth with milk and honey, to kill us in the wilderness, except thou make thyself altogether a prince over us?
+Moreover thou hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt thou put out the eyes of these men? we will not come up.
+And Moses was very wroth, and said unto the LORD, Respect not thou their offering: I have not taken one ass from them, neither have I hurt one of them.
 
 ### Numbers Chapter 17
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Speak unto the children of Israel, and take of every one of them a rod according to the house of their fathers, of all their princes according to the house of their fathers twelve rods: write thou every man's name upon his rod.
+And thou shalt write Aaron's name upon the rod of Levi: for one rod shall be for the head of the house of their fathers.
+And thou shalt lay them up in the tabernacle of the congregation before the testimony, where I will meet with you.
+And it shall come to pass, that the man's rod, whom I shall choose, shall blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you.
+And Moses spake unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers' houses, even twelve rods: and the rod of Aaron was among their rods.
+And Moses laid up the rods before the LORD in the tabernacle of witness.
+And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds.
+And Moses brought out all the rods from before the LORD unto all the children of Israel: and they looked, and took every man his rod.
+And the LORD said unto Moses, Bring Aaron's rod again before the testimony, to be kept for a token against the rebels; and thou shalt quite take away their murmurings from me, that they die not.
+And Moses did so: as the LORD commanded him, so did he.
+And the children of Israel spake unto Moses, saying, Behold, we die, we perish, we all perish.
+Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?
 
 ### Numbers Chapter 18
 
-*[Chapter text unavailable]*
+And the LORD said unto Aaron, Thou and thy sons and thy father's house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood.
+And thy brethren also of the tribe of Levi, the tribe of thy father, bring thou with thee, that they may be joined unto thee, and minister unto thee: but thou and thy sons with thee shall minister before the tabernacle of witness.
+And they shall keep thy charge, and the charge of all the tabernacle: only they shall not come nigh the vessels of the sanctuary and the altar, that neither they, nor ye also, die.
+And they shall be joined unto thee, and keep the charge of the tabernacle of the congregation, for all the service of the tabernacle: and a stranger shall not come nigh unto you.
+And ye shall keep the charge of the sanctuary, and the charge of the altar: that there be no wrath any more upon the children of Israel.
+And I, behold, I have taken your brethren the Levites from among the children of Israel: to you they are given as a gift for the LORD, to do the service of the tabernacle of the congregation.
+Therefore thou and thy sons with thee shall keep your priest's office for every thing of the altar, and within the vail; and ye shall serve: I have given your priest's office unto you as a service of gift: and the stranger that cometh nigh shall be put to death.
+And the LORD spake unto Aaron, Behold, I also have given thee the charge of mine heave offerings of all the hallowed things of the children of Israel; unto thee have I given them by reason of the anointing, and to thy sons, by an ordinance for ever.
+This shall be thine of the most holy things, reserved from the fire: every oblation of theirs, every meat offering of theirs, and every sin offering of theirs, and every trespass offering of theirs which they shall render unto me, shall be most holy for thee and for thy sons.
+In the most holy place shalt thou eat it; every male shall eat it: it shall be holy unto thee.
 
 ### Numbers Chapter 19
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses and unto Aaron, saying,
+This is the ordinance of the law which the LORD hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein is no blemish, and upon which never came yoke:
+And ye shall give her unto Eleazar the priest, that he may bring her forth without the camp, and one shall slay her before his face:
+And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times:
+And one shall burn the heifer in his sight; her skin, and her flesh, and her blood, with her dung, shall he burn:
+And the priest shall take cedar wood, and hyssop, and scarlet, and cast it into the midst of the burning of the heifer.
+Then the priest shall wash his clothes, and he shall bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the even.
+And he that burneth her shall wash his clothes in water, and bathe his flesh in water, and shall be unclean until the even.
+And a man that is clean shall gather up the ashes of the heifer, and lay them up without the camp in a clean place, and it shall be kept for the congregation of the children of Israel for a water of separation: it is a purification for sin.
+And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute for ever.
+He that toucheth the dead body of any man shall be unclean seven days.
+He shall purify himself with it on the third day, and on the seventh day he shall be clean: but if he purify not himself the third day, then the seventh day he shall not be clean.
 
 ### Numbers Chapter 20
 
-*[Chapter text unavailable]*
+Then came the children of Israel, even the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there.
+And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron.
+And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before the LORD!
+And why have ye brought up the congregation of the LORD into this wilderness, that we and our cattle should die there?
+And wherefore have ye made us to come up out of Egypt, to bring us in unto this evil place? it is no place of seed, or of figs, or of vines, or of pomegranates; neither is there any water to drink.
+And Moses and Aaron went from the presence of the assembly unto the door of the tabernacle of the congregation, and they fell upon their faces: and the glory of the LORD appeared unto them.
+And the LORD spake unto Moses, saying,
+Take the rod, and gather thou the assembly together, thou, and Aaron thy brother, and speak ye unto the rock before their eyes; and it shall give forth his water, and thou shalt bring forth to them water out of the rock: so thou shalt give the congregation and their beasts drink.
+And Moses took the rod from before the LORD, as he commanded him.
+And Moses and Aaron gathered the congregation together before the rock, and he said unto them, Hear now, ye rebels; must we fetch you water out of this rock?
+And Moses lifted up his hand, and with his rod he smote the rock twice: and the water came out abundantly, and the congregation drank, and their beasts also.
+And the LORD spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land which I have given them.
+This is the water of Meribah; because the children of Israel strove with the LORD, and he was sanctified in them.
 
 ### Numbers Chapters 16-20: Contextual Analysis
 
