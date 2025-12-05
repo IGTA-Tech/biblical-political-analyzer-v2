@@ -8267,15 +8267,58 @@ And the children of Israel did according to all that the LORD commanded Moses: s
 
 ### Numbers Chapter 3
 
-*[Chapter text unavailable]*
+These also are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai.
+And these are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
+These are the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest's office.
+And Nadab and Abihu died before the LORD, when they offered strange fire before the LORD, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest's office in the sight of Aaron their father.
+And the LORD spake unto Moses, saying,
+Bring the tribe of Levi near, and present them before Aaron the priest, that they may minister unto him.
+And they shall keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle.
+And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle.
+And thou shalt give the Levites unto Aaron and to his sons: they are wholly given unto him out of the children of Israel.
+And thou shalt appoint Aaron and his sons, and they shall wait on their priest's office: and the stranger that cometh nigh shall be put to death.
+And the LORD spake unto Moses, saying,
+And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine;
+Because all the firstborn are mine; for on the day that I smote all the firstborn in the land of Egypt I hallowed unto me all the firstborn in Israel, both man and beast: mine shall they be: I am the LORD.
+And the LORD spake unto Moses in the wilderness of Sinai, saying,
+Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them.
+And Moses numbered them according to the word of the LORD, as he was commanded.
 
 ### Numbers Chapter 4
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses and unto Aaron, saying,
+Take the sum of the sons of Kohath from among the sons of Levi, after their families, by the house of their fathers,
+From thirty years old and upward even until fifty years old, all that enter into the host, to do the work in the tabernacle of the congregation.
+This shall be the service of the sons of Kohath in the tabernacle of the congregation, about the most holy things:
+And when the camp setteth forward, Aaron shall come, and his sons, and they shall take down the covering vail, and cover the ark of testimony with it:
+And shall put thereon the covering of badgers' skins, and shall spread over it a cloth wholly of blue, and shall put in the staves thereof.
+And upon the table of shewbread they shall spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls, and covers to cover withal: and the continual bread shall be thereon:
+And they shall spread upon them a cloth of scarlet, and cover the same with a covering of badgers' skins, and shall put in the staves thereof.
+And they shall take a cloth of blue, and cover the candlestick of the light, and his lamps, and his tongs, and his snuffdishes, and all the oil vessels thereof, wherewith they minister unto it:
+And they shall put it and all the vessels thereof within a covering of badgers' skins, and shall put it upon a bar.
+And upon the golden altar they shall spread a cloth of blue, and cover it with a covering of badgers' skins, and shall put to the staves thereof:
+And they shall take all the instruments of ministry, wherewith they minister in the sanctuary, and put them in a cloth of blue, and cover them with a covering of badgers' skins, and shall put them on a bar:
+And they shall take away the ashes from the altar, and spread a purple cloth thereon:
+And they shall put upon it all the vessels thereof, wherewith they minister about it, even the censers, the fleshhooks, and the shovels, and the basons, all the vessels of the altar; and they shall spread upon it a covering of badgers' skins, and put to the staves of it.
+And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath shall come to bear it: but they shall not touch any holy thing, lest they die. These things are the burden of the sons of Kohath in the tabernacle of the congregation.
 
 ### Numbers Chapter 5
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is defiled by the dead:
+Both male and female shall ye put out, without the camp shall ye put them; that they defile not their camps, in the midst whereof I dwell.
+And the children of Israel did so, and put them out without the camp: as the LORD spake unto Moses, so did the children of Israel.
+And the LORD spake unto Moses, saying,
+Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, to do a trespass against the LORD, and that person be guilty;
+Then they shall confess their sin which they have done: and he shall recompense his trespass with the principal thereof, and add unto it the fifth part thereof, and give it unto him against whom he hath trespassed.
+But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the LORD, even to the priest; beside the ram of the atonement, whereby an atonement shall be made for him.
+And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his.
+And every man's hallowed things shall be his: whatsoever any man giveth the priest, it shall be his.
+And the LORD spake unto Moses, saying,
+Speak unto the children of Israel, and say unto them, If any man's wife go aside, and commit a trespass against him,
+And a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and there be no witness against her, neither she be taken with the manner;
+And the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled:
+Then shall the man bring his wife unto the priest, and he shall bring her offering for her, the tenth part of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it is an offering of jealousy, an offering of memorial, bringing iniquity to remembrance.
 
 ### Numbers Chapters 1-5: Contextual Analysis
 
