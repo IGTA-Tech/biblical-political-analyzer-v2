@@ -9195,19 +9195,71 @@ for a memorial for the children of Israel before the LORD.
 
 ### Numbers Chapter 32
 
-*[Chapter text unavailable]*
+Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place was a place for cattle;
+The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,
+Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,
+Even the country which the LORD smote before the congregation of Israel, is a land for cattle, and thy servants have cattle:
+Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, and bring us not over Jordan.
+And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall ye sit here?
+And wherefore discourage ye the heart of the children of Israel from going over into the land which the LORD hath given them?
+Thus did your fathers, when I sent them from Kadesh-barnea to see the land.
+For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them.
+And the LORD's anger was kindled the same time, and he sware, saying,
+Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:
+Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the LORD.
+And the LORD's anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the LORD, was consumed.
+And, behold, ye are risen up in your fathers' stead, an increase of sinful men, to augment yet the fierce anger of the LORD toward Israel.
 
 ### Numbers Chapter 33
 
-*[Chapter text unavailable]*
+These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.
+And Moses wrote their goings out according to their journeys by the commandment of the LORD: and these are their journeys according to their goings out.
+And they departed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with an high hand in the sight of all the Egyptians.
+For the Egyptians buried all their firstborn, which the LORD had smitten among them: upon their gods also the LORD executed judgments.
+And the children of Israel removed from Rameses, and pitched in Succoth.
+And they departed from Succoth, and pitched in Etham, which is in the edge of the wilderness.
+And they removed from Etham, and turned again unto Pihahiroth, which is before Baalzephon: and they pitched before Migdol.
+And they departed from before Pihahiroth, and passed through the midst of the sea into the wilderness, and went three days' journey in the wilderness of Etham, and pitched in Marah.
+And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and threescore and ten palm trees; and they pitched there.
+And they removed from Elim, and encamped by the Red sea.
+And they removed from the Red sea, and encamped in the wilderness of Sin.
+And they took their journey out of the wilderness of Sin, and encamped in Dophkah.
+And they departed from Dophkah, and encamped in Alush.
+And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink.
 
 ### Numbers Chapter 34
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this is the land that shall fall unto you for an inheritance, even the land of Canaan with the coasts thereof:)
+Then your south quarter shall be from the wilderness of Zin along by the coast of Edom, and your south border shall be the outmost coast of the salt sea eastward:
+And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadeshbarnea, and shall go on to Hazaraddar, and pass on to Azmon:
+And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea.
+And as for the western border, ye shall even have the great sea for a border: this shall be your west border.
+And this shall be your north border: from the great sea ye shall point out for you mount Hor:
+From mount Hor ye shall point out your border unto the entrance of Hamath; and the goings forth of the border shall be to Zedad:
+And the border shall go on to Ziphron, and the goings out of it shall be at Hazarenan: this shall be your north border.
+And ye shall point out your east border from Hazarenan to Shepham:
+And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:
+And the border shall go down to Jordan, and the goings out of it shall be at the salt sea: this shall be your land with the coasts thereof round about.
+And Moses commanded the children of Israel, saying, This is the land which ye shall inherit by lot, which the LORD commanded to give unto the nine tribes, and to the half tribe:
+For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received their inheritance; and half the tribe of Manasseh have received their inheritance.
 
 ### Numbers Chapter 35
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying,
+Command the children of Israel, that they give unto the Levites of the inheritance of their possession cities to dwell in; and ye shall give also unto the Levites suburbs for the cities round about them.
+And the cities shall they have to dwell in; and the suburbs of them shall be for their cattle, and for their goods, and for all their beasts.
+And the suburbs of the cities, which ye shall give unto the Levites, shall reach from the wall of the city and outward a thousand cubits round about.
+And ye shall measure from without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and the city shall be in the midst: this shall be to them the suburbs of the cities.
+And among the cities which ye shall give unto the Levites there shall be six cities for refuge, which ye shall appoint for the manslayer, that he may flee thither: and to them ye shall add forty and two cities.
+So all the cities which ye shall give to the Levites shall be forty and eight cities: them shall ye give with their suburbs.
+And the cities which ye shall give shall be of the possession of the children of Israel: from them that have many ye shall give many; but from them that have few ye shall give few: every one shall give of his cities unto the Levites according to his inheritance which he inheriteth.
+And the LORD spake unto Moses, saying,
+Speak unto the children of Israel, and say unto them, When ye be come over Jordan into the land of Canaan;
+Then ye shall appoint you cities to be cities of refuge for you; that the slayer may flee thither, which killeth any person at unawares.
+And they shall be unto you cities for refuge from the avenger; that the manslayer die not, until he stand before the congregation in judgment.
+And of these cities which ye shall give six cities shall ye have for refuge.
+Ye shall give three cities on this side Jordan, and three cities shall ye give in the land of Canaan, which shall be cities of refuge.
 
 ### Numbers Chapters 31-35: Contextual Analysis
 
@@ -9226,7 +9278,19 @@ for a memorial for the children of Israel before the LORD.
 ---
 ### Numbers Chapter 36
 
-*[Chapter text unavailable]*
+And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:
+And they said, The LORD commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the LORD to give the inheritance of Zelophehad our brother unto his daughters.
+And if they be married to any of the sons of the other tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall be put to the inheritance of the tribe whereunto they are received: so shall it be taken from the lot of our inheritance.
+And when the jubile of the children of Israel shall be, then shall their inheritance be put unto the inheritance of the tribe whereunto they are received: so shall their inheritance be taken away from the inheritance of the tribe of our fathers.
+And Moses commanded the children of Israel according to the word of the LORD, saying, The tribe of the sons of Joseph hath said well.
+This is the thing which the LORD doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father shall they marry.
+So shall not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel shall keep himself to the inheritance of the tribe of his fathers.
+And every daughter, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers.
+Neither shall the inheritance remove from one tribe to another tribe; but every one of the tribes of the children of Israel shall keep himself to his own inheritance.
+Even as the LORD commanded Moses, so did the daughters of Zelophehad:
+For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father's brothers' sons:
+And they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father.
+These are the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho.
 
 ### Numbers Chapters 36-36: Contextual Analysis
 
