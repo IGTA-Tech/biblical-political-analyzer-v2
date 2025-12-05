@@ -8635,19 +8635,73 @@ This is the water of Meribah; because the children of Israel strove with the LOR
 ---
 ### Numbers Chapter 21
 
-*[Chapter text unavailable]*
+And when king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took some of them prisoners.
+And Israel vowed a vow unto the LORD, and said, If thou wilt indeed deliver this people into my hand, then I will utterly destroy their cities.
+And the LORD hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and he called the name of the place Hormah.
+And they journeyed from mount Hor by the way of the Red sea, to compass the land of Edom: and the soul of the people was much discouraged because of the way.
+And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for there is no bread, neither is there any water; and our soul loatheth this light bread.
+And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.
+Therefore the people came to Moses, and said, We have sinned, for we have spoken against the LORD, and against thee; pray unto the LORD, that he take away the serpents from us. And Moses prayed for the people.
+And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.
+And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.
+And the children of Israel set forward, and pitched in Oboth.
+And they journeyed from Oboth, and pitched at Ijeabarim, in the wilderness which is before Moab, toward the sunrising.
+From thence they removed, and pitched in the valley of Zared.
+From thence they removed, and pitched on the other side of Arnon, which is in the wilderness that cometh out of the coasts of the Amorites: for Arnon is the border of Moab, between Moab and the Amorites.
+Wherefore it is said in the book of the wars of the LORD, What he did in the Red sea, and in the brooks of Arnon.
 
 ### Numbers Chapter 22
 
-*[Chapter text unavailable]*
+And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan by Jericho.
+And Balak the son of Zippor saw all that Israel had done to the Amorites.
+And Moab was sore afraid of the people, because they were many: and Moab was distressed because of the children of Israel.
+And Moab said unto the elders of Midian, Now shall this company lick up all that are round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor was king of the Moabites at that time.
+He sent messengers therefore unto Balaam the son of Beor to Pethor, which is by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:
+Come now therefore, I pray thee, curse me this people; for they are too mighty for me: peradventure I shall prevail, that we may smite them, and that I may drive them out of the land: for I wot that he whom thou blessest is blessed, and he whom thou cursest is cursed.
+And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spake unto him the words of Balak.
+And he said unto them, Lodge here this night, and I will bring you word again, as the LORD shall speak unto me: and the princes of Moab abode with Balaam.
+And God came unto Balaam, and said, What men are these with thee?
+And Balaam said unto God, Balak the son of Zippor, king of Moab, hath sent unto me, saying,
+Behold, there is a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out.
+And God said unto Balaam, Thou shalt not go with them; thou shalt not curse the people: for they are blessed.
+And Balaam rose up in the morning, and said unto the princes of Balak, Get you into your land: for the LORD refuseth to give me leave to go with you.
 
 ### Numbers Chapter 23
 
-*[Chapter text unavailable]*
+And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams.
+And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram.
+And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the LORD will come to meet me: and whatsoever he sheweth me I will tell thee. And he went to an high place.
+And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon every altar a bullock and a ram.
+And the LORD put a word in Balaam's mouth, and said, Return unto Balak, and thus thou shalt speak.
+And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab.
+And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, saying, Come, curse me Jacob, and come, defy Israel.
+How shall I curse, whom God hath not cursed? or how shall I defy, whom the LORD hath not defied?
+For from the top of the rocks I see him, and from the hills I behold him: lo, the people shall dwell alone, and shall not be reckoned among the nations.
+Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!
+And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed them altogether.
+And he answered and said, Must I not take heed to speak that which the LORD hath put in my mouth?
+And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence.
+And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar.
 
 ### Numbers Chapter 24
 
-*[Chapter text unavailable]*
+And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.
+And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him.
+And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:
+He hath said, which heard the words of God, which saw the vision of the Almighty, falling into a trance, but having his eyes open:
+How goodly are thy tents, O Jacob, and thy tabernacles, O Israel!
+As the valleys are they spread forth, as gardens by the river's side, as the trees of lign aloes which the LORD hath planted, and as cedar trees beside the waters.
+He shall pour the water out of his buckets, and his seed shall be in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted.
+God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows.
+He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesseth thee, and cursed is he that curseth thee.
+And Balak's anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed them these three times.
+Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the LORD hath kept thee back from honour.
+And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,
+If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do either good or bad of mine own mind; but what the LORD saith, that will I speak?
+And now, behold, I go unto my people: come therefore, and I will advertise thee what this people shall do to thy people in the latter days.
+And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:
+He hath said, which heard the words of God, and knew the knowledge of the most High, which saw the vision of the Almighty, falling into a trance, but having his eyes open:
+I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.
 
 ### Numbers Chapter 25
 
