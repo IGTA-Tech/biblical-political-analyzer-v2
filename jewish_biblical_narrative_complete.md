@@ -6432,23 +6432,81 @@ And the priest shall make an atonement for him as touching his sin that he hath 
 ---
 ### Leviticus Chapter 6
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+If a soul sin, and commit a trespass against the LORD, and lie unto his neighbour in that which was delivered him to keep, or in fellowship, or in a thing taken away by violence, or hath deceived his neighbour;
+Or have found that which was lost, and lieth concerning it, and sweareth falsely; in any of all these that a man doeth, sinning therein:
+Then it shall be, because he hath sinned, and is guilty, that he shall restore that which he took violently away, or the thing which he hath deceitfully gotten, or that which was delivered him to keep, or the lost thing which he found,
+Or all that about which he hath sworn falsely; he shall even restore it in the principal, and shall add the fifth part more thereto, and give it unto him to whom it appertaineth, in the day of his trespass offering.
+And he shall bring his trespass offering unto the LORD, a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest:
+And the priest shall make an atonement for him before the LORD: and it shall be forgiven him for any thing of all that he hath done in trespassing therein.
+And the LORD spake unto Moses, saying,
+Command Aaron and his sons, saying, This is the law of the burnt offering: It is the burnt offering, because of the burning upon the altar all night unto the morning, and the fire of the altar shall be burning in it.
+And the priest shall put on his linen garment, and his linen breeches shall he put upon his flesh, and take up the ashes which the fire hath consumed with the burnt offering on the altar, and he shall put them beside the altar.
+And he shall put off his garments, and put on other garments, and carry forth the ashes without the camp unto a clean place.
+And the fire upon the altar shall be burning in it; it shall not be put out: and the priest shall burn wood on it every morning, and lay the burnt offering in order upon it; and he shall burn thereon the fat of the peace offerings.
+The fire shall ever be burning upon the altar; it shall never go out.
+
 
 ### Leviticus Chapter 7
 
-*[Chapter text unavailable]*
+Likewise this is the law of the trespass offering: it is most holy.
+In the place where they kill the burnt offering shall they kill the trespass offering: and the blood thereof shall he sprinkle round about upon the altar.
+And he shall offer of it all the fat thereof; the rump, and the fat that covereth the inwards,
+And the two kidneys, and the fat that is on them, which is by the flanks, and the caul that is above the liver, with the kidneys, it shall he take away:
+And the priest shall burn them upon the altar for an offering made by fire unto the LORD: it is a trespass offering.
+Every male among the priests shall eat thereof: it shall be eaten in the holy place: it is most holy.
+As the sin offering is, so is the trespass offering: there is one law for them: the priest that maketh atonement therewith shall have it.
+And the priest that offereth any man's burnt offering, even the priest shall have to himself the skin of the burnt offering which he hath offered.
+And all the meat offering that is baken in the oven, and all that is dressed in the fryingpan, and in the pan, shall be the priest's that offereth it.
+And every meat offering, mingled with oil, and dry, shall all the sons of Aaron have, one as much as another.
+And this is the law of the sacrifice of peace offerings, which he shall offer unto the LORD.
+If he offer it for a thanksgiving, then he shall offer with the sacrifice of thanksgiving unleavened cakes mingled with oil, and unleavened wafers anointed with oil, and cakes mingled with oil, of fine flour, fried.
+
 
 ### Leviticus Chapter 8
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Take Aaron and his sons with him, and the garments, and the anointing oil, and a bullock for the sin offering, and two rams, and a basket of unleavened bread;
+And gather thou all the congregation together unto the door of the tabernacle of the congregation.
+And Moses did as the LORD commanded him; and the assembly was gathered together unto the door of the tabernacle of the congregation.
+And Moses said unto the congregation, This is the thing which the LORD commanded to be done.
+And Moses brought Aaron and his sons, and washed them with water.
+And he put upon him the coat, and girded him with the girdle, and clothed him with the robe, and put the ephod upon him, and he girded him with the curious girdle of the ephod, and bound it unto him therewith.
+And he put the breastplate upon him: also he put in the breastplate the Urim and the Thummim.
+And he put the mitre upon his head; also upon the mitre, even upon his forefront, did he put the golden plate, the holy crown; as the LORD commanded Moses.
+And Moses took the anointing oil, and anointed the tabernacle and all that was therein, and sanctified them.
+And he sprinkled thereof upon the altar seven times, and anointed the altar and all his vessels, both the laver and his foot, to sanctify them.
+And he poured of the anointing oil upon Aaron's head, and anointed him, to sanctify him.
+
 
 ### Leviticus Chapter 9
 
-*[Chapter text unavailable]*
+And it came to pass on the eighth day, that Moses called Aaron and his sons, and the elders of Israel;
+And he said unto Aaron, Take thee a young calf for a sin offering, and a ram for a burnt offering, without blemish, and offer them before the LORD.
+And unto the children of Israel thou shalt speak, saying, Take ye a kid of the goats for a sin offering; and a calf and a lamb, both of the first year, without blemish, for a burnt offering;
+Also a bullock and a ram for peace offerings, to sacrifice before the LORD; and a meat offering mingled with oil: for to day the LORD will appear unto you.
+And they brought that which Moses commanded before the tabernacle of the congregation: and all the congregation drew near and stood before the LORD.
+And Moses said, This is the thing which the LORD commanded that ye should do: and the glory of the LORD shall appear unto you.
+And Moses said unto Aaron, Go unto the altar, and offer thy sin offering, and thy burnt offering, and make an atonement for thyself, and for the people: and offer the offering of the people, and make an atonement for them; as the LORD commanded.
+Aaron therefore went unto the altar, and slew the calf of the sin offering, which was for himself.
+And the sons of Aaron brought the blood unto him: and he dipped his finger in the blood, and put it upon the horns of the altar, and poured out the blood at the bottom of the altar:
+And the fire came out from before the LORD, and consumed upon the altar the burnt offering and the fat: which when all the people saw, they shouted, and fell on their faces.
+
 
 ### Leviticus Chapter 10
 
-*[Chapter text unavailable]*
+And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the LORD, which he commanded them not.
+And there went out fire from the LORD, and devoured them, and they died before the LORD.
+Then Moses said unto Aaron, This is it that the LORD spake, saying, I will be sanctified in them that come nigh me, and before all the people I will be glorified. And Aaron held his peace.
+And Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said unto them, Come near, carry your brethren from before the sanctuary out of the camp.
+So they went near, and carried them in their coats out of the camp; as Moses had said.
+And Moses said unto Aaron, and unto Eleazar and unto Ithamar, his sons, Uncover not your heads, neither rend your clothes; lest ye die, and lest wrath come upon all the people: but let your brethren, the whole house of Israel, bewail the burning which the LORD hath kindled.
+And ye shall not go out from the door of the tabernacle of the congregation, lest ye die: for the anointing oil of the LORD is upon you. And they did according to the word of Moses.
+And the LORD spake unto Aaron, saying,
+Do not drink wine nor strong drink, thou, nor thy sons with thee, when ye go into the tabernacle of the congregation, lest ye die: it shall be a statute for ever throughout your generations:
+And that ye may put difference between holy and unholy, and between unclean and clean;
+And that ye may teach the children of Israel all the statutes which the LORD hath spoken unto them by the hand of Moses.
+
 
 ### Leviticus Chapters 6-10: Contextual Analysis
 
