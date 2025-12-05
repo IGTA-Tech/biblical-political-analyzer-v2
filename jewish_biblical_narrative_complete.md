@@ -8337,23 +8337,84 @@ Then shall the man bring his wife unto the priest, and he shall bring her offeri
 ---
 ### Numbers Chapter 6
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Speak unto the children of Israel, and say unto them, When either man or woman shall separate themselves to vow a vow of a Nazarite, to separate themselves unto the LORD:
+He shall separate himself from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried.
+All the days of his separation shall he eat nothing that is made of the vine tree, from the kernels even to the husk.
+All the days of the vow of his separation there shall no razor come upon his head: until the days be fulfilled, in the which he separateth himself unto the LORD, he shall be holy, and shall let the locks of the hair of his head grow.
+All the days that he separateth himself unto the LORD he shall come at no dead body.
+He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die: because the consecration of his God is upon his head.
+All the days of his separation he is holy unto the LORD.
+And if any man die very suddenly by him, and he hath defiled the head of his consecration; then he shall shave his head in the day of his cleansing, on the seventh day shall he shave it.
+And the LORD spake unto Moses, saying,
+Speak unto Aaron and unto his sons, saying, On this wise ye shall bless the children of Israel, saying unto them,
+The LORD bless thee, and keep thee:
+The LORD make his face shine upon thee, and be gracious unto thee:
+The LORD lift up his countenance upon thee, and give thee peace.
+And they shall put my name upon the children of Israel, and I will bless them.
 
 ### Numbers Chapter 7
 
-*[Chapter text unavailable]*
+And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them;
+That the princes of Israel, heads of the house of their fathers, who were the princes of the tribes, and were over them that were numbered, offered:
+And they brought their offering before the LORD, six covered wagons, and twelve oxen; a wagon for two of the princes, and for each one an ox: and they brought them before the tabernacle.
+And the LORD spake unto Moses, saying,
+Take it of them, that they may be to do the service of the tabernacle of the congregation; and thou shalt give them unto the Levites, to every man according to his service.
+And Moses took the wagons and the oxen, and gave them unto the Levites.
+Two wagons and four oxen he gave unto the sons of Gershon, according to their service:
+And four wagons and eight oxen he gave unto the sons of Merari, according unto their service, under the hand of Ithamar the son of Aaron the priest.
+But unto the sons of Kohath he gave none: because the service of the sanctuary belonging unto them was that they should bear upon their shoulders.
+And the princes offered for dedicating of the altar in the day that it was anointed, even the princes offered their offering before the altar.
+And the LORD said unto Moses, They shall offer their offering, each prince on his day, for the dedicating of the altar.
 
 ### Numbers Chapter 8
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Speak unto Aaron and say unto him, When thou lightest the lamps, the seven lamps shall give light over against the candlestick.
+And Aaron did so; he lighted the lamps thereof over against the candlestick, as the LORD commanded Moses.
+And this work of the candlestick was of beaten gold, unto the shaft thereof, unto the flowers thereof, was beaten work: according unto the pattern which the LORD had shewed Moses, so he made the candlestick.
+And the LORD spake unto Moses, saying,
+Take the Levites from among the children of Israel, and cleanse them.
+And thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and so make themselves clean.
+Then let them take a young bullock with his meat offering, even fine flour mingled with oil, and another young bullock shalt thou take for a sin offering.
+And thou shalt bring the Levites before the tabernacle of the congregation: and thou shalt gather the whole assembly of the children of Israel together:
+And thou shalt bring the Levites before the LORD: and the children of Israel shall put their hands upon the Levites:
+And Aaron shall offer the Levites before the LORD for an offering of the children of Israel, that they may execute the service of the LORD.
+And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one for a sin offering, and the other for a burnt offering, unto the LORD, to make an atonement for the Levites.
+And thou shalt set the Levites before Aaron, and before his sons, and offer them for an offering unto the LORD.
+Thus shalt thou separate the Levites from among the children of Israel: and the Levites shall be mine.
 
 ### Numbers Chapter 9
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,
+Let the children of Israel also keep the passover at his appointed season.
+In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it.
+And Moses spake unto the children of Israel, that they should keep the passover.
+And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the LORD commanded Moses, so did the children of Israel.
+And there were certain men, who were defiled by the dead body of a man, that they could not keep the passover on that day: and they came before Moses and before Aaron on that day:
+And those men said unto him, We are defiled by the dead body of a man: wherefore are we kept back, that we may not offer an offering of the LORD in his appointed season among the children of Israel?
+And Moses said unto them, Stand still, and I will hear what the LORD will command concerning you.
+And the LORD spake unto Moses, saying,
+Speak unto the children of Israel, saying, If any man of you or of your posterity shall be unclean by reason of a dead body, or be in a journey afar off, yet he shall keep the passover unto the LORD.
+The fourteenth day of the second month at even they shall keep it, and eat it with unleavened bread and bitter herbs.
+They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it.
+But the man that is clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the LORD in his appointed season, that man shall bear his sin.
 
 ### Numbers Chapter 10
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps.
+And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation.
+And if they blow but with one trumpet, then the princes, which are heads of the thousands of Israel, shall gather themselves unto thee.
+When ye blow an alarm, then the camps that lie on the east parts shall go forward.
+When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys.
+But when the congregation is to be gathered together, ye shall blow, but ye shall not sound an alarm.
+And the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an ordinance for ever throughout your generations.
+And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before the LORD your God, and ye shall be saved from your enemies.
+Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I am the LORD your God.
+And it came to pass on the twentieth day of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony.
+And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran.
+And they first took their journey according to the commandment of the LORD by the hand of Moses.
 
 ### Numbers Chapters 6-10: Contextual Analysis
 
