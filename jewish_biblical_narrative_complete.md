@@ -5122,7 +5122,28 @@ Worship practices during this period included [religious practices]. Theological
 ---
 ### Exodus Chapter 1
 
-*[Chapter text unavailable]*
+Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.
+Reuben, Simeon, Levi, and Judah,
+Issachar, Zebulun, and Benjamin,
+Dan, and Naphtali, Gad, and Asher.
+And all the souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt already.
+And Joseph died, and all his brethren, and all that generation.
+And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them.
+Now there arose up a new king over Egypt, which knew not Joseph.
+And he said unto his people, Behold, the people of the children of Israel are more and mightier than we:
+Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land.
+Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.
+But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.
+And the Egyptians made the children of Israel to serve with rigour:
+And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, was with rigour.
+And the king of Egypt spake to the Hebrew midwives, of which the name of the one was Shiphrah, and the name of the other Puah:
+And he said, When ye do the office of a midwife to the Hebrew women, and see them upon the stools; if it be a son, then ye shall kill him: but if it be a daughter, then she shall live.
+But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive.
+And the king of Egypt called for the midwives, and said unto them, Why have ye done this thing, and have saved the men children alive?
+And the midwives said unto Pharaoh, Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwives come in unto them.
+Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty.
+And it came to pass, because the midwives feared God, that he made them houses.
+And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive.
 
 ### Exodus Chapter 2
 
@@ -5971,19 +5992,109 @@ part of an ephah.
 
 ### Exodus Chapter 17
 
-*[Chapter text unavailable]*
+And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and there was no water for the people to drink.
+Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the LORD?
+And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore is this that thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst?
+And Moses cried unto the LORD, saying, What shall I do unto this people? they be almost ready to stone me.
+And the LORD said unto Moses, Go on before the people, and take with thee of the elders of Israel; and thy rod, wherewith thou smotest the river, take in thine hand, and go.
+Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.
+And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the LORD, saying, Is the LORD among us, or not?
+Then came Amalek, and fought with Israel in Rephidim.
+And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to morrow I will stand on the top of the hill with the rod of God in mine hand.
+So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill.
+And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, Amalek prevailed.
+But Moses hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun.
+And Joshua discomfited Amalek and his people with the edge of the sword.
+And the LORD said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven.
+And Moses built an altar, and called the name of it Jehovahnissi:
+For he said, Because the LORD hath sworn that the LORD will have war with Amalek from generation to generation.
 
 ### Exodus Chapter 18
 
-*[Chapter text unavailable]*
+When Jethro, the priest of Midian, Moses' father in law, heard of all that God had done for Moses, and for Israel his people, and that the LORD had brought Israel out of Egypt;
+Then Jethro, Moses' father in law, took Zipporah, Moses' wife, after he had sent her back,
+And her two sons; of which the name of the one was Gershom; for he said, I have been an alien in a strange land:
+And the name of the other was Eliezer; for the God of my father, said he, was mine help, and delivered me from the sword of Pharaoh:
+And Jethro, Moses' father in law, came with his sons and his wife unto Moses into the wilderness, where he encamped at the mount of God:
+And he said unto Moses, I thy father in law Jethro am come unto thee, and thy wife, and her two sons with her.
+And Moses went out to meet his father in law, and did obeisance, and kissed him; and they asked each other of their welfare; and they came into the tent.
+And Moses told his father in law all that the LORD had done unto Pharaoh and to the Egyptians for Israel's sake, and all the travail that had come upon them by the way, and how the LORD delivered them.
+And Jethro rejoiced for all the goodness which the LORD had done to Israel, whom he had delivered out of the hand of the Egyptians.
+And Jethro said, Blessed be the LORD, who hath delivered you out of the hand of the Egyptians, and out of the hand of Pharaoh, who hath delivered the people from under the hand of the Egyptians.
+Now I know that the LORD is greater than all gods: for in the thing wherein they dealt proudly he was above them.
+And Jethro, Moses' father in law, took a burnt offering and sacrifices for God: and Aaron came, and all the elders of Israel, to eat bread with Moses' father in law before God.
+And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning unto the evening.
+And when Moses' father in law saw all that he did to the people, he said, What is this thing that thou doest to the people? why sittest thou thyself alone, and all the people stand by thee from morning unto even?
+And Moses said unto his father in law, Because the people come unto me to enquire of God:
+When they have a matter, they come unto me; and I judge between one and another, and I do make them know the statutes of God, and his laws.
+And Moses' father in law said unto him, The thing that thou doest is not good.
+Thou wilt surely wear away, both thou, and this people that is with thee: for this thing is too heavy for thee; thou art not able to perform it thyself alone.
+Hearken now unto my voice, I will give thee counsel, and God shall be with thee: Be thou for the people to God-ward, that thou mayest bring the causes unto God:
+And thou shalt teach them ordinances and laws, and shalt shew them the way wherein they must walk, and the work that they must do.
+Moreover thou shalt provide out of all the people able men, such as fear God, men of truth, hating covetousness; and place such over them, to be rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens:
+And let them judge the people at all seasons: and it shall be, that every great matter they shall bring unto thee, but every small matter they shall judge: so shall it be easier for thyself, and they shall bear the burden with thee.
+If thou shalt do this thing, and God command thee so, then thou shalt be able to endure, and all this people shall also go to their place in peace.
+So Moses hearkened to the voice of his father in law, and did all that he had said.
+And Moses chose able men out of all Israel, and made them heads over the people, rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.
+And they judged the people at all seasons: the hard causes they brought unto Moses, but every small matter they judged themselves.
+And Moses let his father in law depart; and he went his way into his own land.
 
 ### Exodus Chapter 19
 
-*[Chapter text unavailable]*
+In the third month, when the children of Israel were gone forth out of the land of Egypt, the same day came they into the wilderness of Sinai.
+For they were departed from Rephidim, and were come to the desert of Sinai, and had pitched in the wilderness; and there Israel camped before the mount.
+And Moses went up unto God, and the LORD called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel;
+Ye have seen what I did unto the Egyptians, and how I bare you on eagles' wings, and brought you unto myself.
+Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine:
+And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.
+And Moses came and called for the elders of the people, and laid before their faces all these words which the LORD commanded him.
+And all the people answered together, and said, All that the LORD hath spoken we will do. And Moses returned the words of the people unto the LORD.
+And the LORD said unto Moses, Lo, I come unto thee in a thick cloud, that the people may hear when I speak with thee, and believe thee for ever. And Moses told the words of the people unto the LORD.
+And the LORD said unto Moses, Go unto the people, and sanctify them to day and to morrow, and let them wash their clothes,
+And be ready against the third day: for the third day the LORD will come down in the sight of all the people upon mount Sinai.
+And thou shalt set bounds unto the people round about, saying, Take heed to yourselves, that ye go not up into the mount, or touch the border of it: whosoever toucheth the mount shall be surely put to death:
+There shall not an hand touch it, but he shall surely be stoned, or shot through; whether it be beast or man, it shall not live: when the trumpet soundeth long, they shall come up to the mount.
+And Moses went down from the mount unto the people, and sanctified the people; and they washed their clothes.
+And he said unto the people, Be ready against the third day: come not at your wives.
+And it came to pass on the third day in the morning, that there were thunders and lightnings, and a thick cloud upon the mount, and the voice of the trumpet exceeding loud; so that all the people that was in the camp trembled.
+And Moses brought forth the people out of the camp to meet with God; and they stood at the nether part of the mount.
+And mount Sinai was altogether on a smoke, because the LORD descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly.
+And when the voice of the trumpet sounded long, and waxed louder and louder, Moses spake, and God answered him by a voice.
+And the LORD came down upon mount Sinai, on the top of the mount: and the LORD called Moses up to the top of the mount; and Moses went up.
+And the LORD said unto Moses, Go down, charge the people, lest they break through unto the LORD to gaze, and many of them perish.
+And let the priests also, which come near to the LORD, sanctify themselves, lest the LORD break forth upon them.
+And Moses said unto the LORD, The people cannot come up to mount Sinai: for thou chargedst us, saying, Set bounds about the mount, and sanctify it.
+And the LORD said unto him, Away, get thee down, and thou shalt come up, thou, and Aaron with thee: but let not the priests and the people break through to come up unto the LORD, lest he break forth upon them.
+So Moses went down unto the people, and spake unto them.
 
 ### Exodus Chapter 20
 
-*[Chapter text unavailable]*
+And God spake all these words, saying,
+I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.
+Thou shalt have no other gods before me.
+Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.
+Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;
+And shewing mercy unto thousands of them that love me, and keep my commandments.
+Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.
+Remember the sabbath day, to keep it holy.
+Six days shalt thou labour, and do all thy work:
+But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:
+For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.
+Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.
+Thou shalt not kill.
+Thou shalt not commit adultery.
+Thou shalt not steal.
+Thou shalt not bear false witness against thy neighbour.
+Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour's.
+And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw it, they removed, and stood afar off.
+And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die.
+And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not.
+And the people stood afar off, and Moses drew near unto the thick darkness where God was.
+And the LORD said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have talked with you from heaven.
+Ye shall not make with me gods of silver, neither shall ye make unto you gods of gold.
+An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee.
+And if thou wilt make me an altar of stone, thou shalt not build it of hewn stone: for if thou lift up thy tool upon it, thou hast polluted it.
+Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon.
 
 ### Exodus Chapters 16-20: Contextual Analysis
 
@@ -6002,23 +6113,176 @@ part of an ephah.
 ---
 ### Exodus Chapter 21
 
-*[Chapter text unavailable]*
+Now these are the judgments which thou shalt set before them.
+If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.
+If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.
+If his master have given him a wife, and she have born him sons or daughters; the wife and her children shall be her master's, and he shall go out by himself.
+And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:
+Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him for ever.
+And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do.
+If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her.
+And if he have betrothed her unto his son, he shall deal with her after the manner of daughters.
+If he take him another wife; her food, her raiment, and her duty of marriage, shall he not diminish.
+And if he do not these three unto her, then shall she go out free without money.
+He that smiteth a man, so that he die, shall be surely put to death.
+And if a man lie not in wait, but God deliver him into his hand; then I will appoint thee a place whither he shall flee.
+But if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die.
+And he that smiteth his father, or his mother, shall be surely put to death.
+And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death.
+And he that curseth his father, or his mother, shall surely be put to death.
+And if men strive together, and one smite another with a stone, or with his fist, and he die not, but keepeth his bed:
+If he rise again, and walk abroad upon his staff, then shall he that smote him be quit: only he shall pay for the loss of his time, and shall cause him to be thoroughly healed.
+And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.
+Notwithstanding, if he continue a day or two, he shall not be punished: for he is his money.
+If men strive, and hurt a woman with child, so that her fruit depart from her, and yet no mischief follow: he shall be surely punished, according as the woman's husband will lay upon him; and he shall pay as the judges determine.
+And if any mischief follow, then thou shalt give life for life,
+Eye for eye, tooth for tooth, hand for hand, foot for foot,
+Burning for burning, wound for wound, stripe for stripe.
+And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye's sake.
+And if he smite out his manservant's tooth, or his maidservant's tooth; he shall let him go free for his tooth's sake.
+If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox shall be quit.
+But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death.
+If there be laid on him a sum of money, then he shall give for the ransom of his life whatsoever is laid upon him.
+Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him.
+If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned.
+And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein;
+The owner of the pit shall make it good, and give money unto the owner of them; and the dead beast shall be his.
+And if one man's ox hurt another's, that he die; then they shall sell the live ox, and divide the money of it; and the dead ox also they shall divide.
+Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own.
 
 ### Exodus Chapter 22
 
-*[Chapter text unavailable]*
+If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.
+If a thief be found breaking up, and be smitten that he die, there shall no blood be shed for him.
+If the sun be risen upon him, there shall be blood shed for him; for he should make full restitution; if he have nothing, then he shall be sold for his theft.
+If the theft be certainly found in his hand alive, whether it be ox, or ass, or sheep; he shall restore double.
+If a man shall cause a field or vineyard to be eaten, and shall put in his beast, and shall feed in another man's field; of the best of his own field, and of the best of his own vineyard, shall he make restitution.
+If fire break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field, be consumed therewith; he that kindled the fire shall surely make restitution.
+If a man shall deliver unto his neighbour money or stuff to keep, and it be stolen out of the man's house; if the thief be found, let him pay double.
+If the thief be not found, then the master of the house shall be brought unto the judges, to see whether he have put his hand unto his neighbour's goods.
+For all manner of trespass, whether it be for ox, for ass, for sheep, for raiment, or for any manner of lost thing which another challengeth to be his, the cause of both parties shall come before the judges; and whom the judges shall condemn, he shall pay double unto his neighbour.
+If a man deliver unto his neighbour an ass, or an ox, or a sheep, or any beast, to keep; and it die, or be hurt, or driven away, no man seeing it:
+Then shall an oath of the LORD be between them both, that he hath not put his hand unto his neighbour's goods; and the owner of it shall accept thereof, and he shall not make it good.
+And if it be stolen from him, he shall make restitution unto the owner thereof.
+If it be torn in pieces, then let him bring it for witness, and he shall not make good that which was torn.
+And if a man borrow ought of his neighbour, and it be hurt, or die, the owner thereof being not with it, he shall surely make it good.
+But if the owner thereof be with it, he shall not make it good: if it be an hired thing, it came for his hire.
+And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife.
+If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins.
+Thou shalt not suffer a witch to live.
+Whosoever lieth with a beast shall surely be put to death.
+He that sacrificeth unto any god, save unto the LORD only, he shall be utterly destroyed.
+Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in the land of Egypt.
+Ye shall not afflict any widow, or fatherless child.
+If thou afflict them in any wise, and they cry at all unto me, I will surely hear their cry;
+And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.
+If thou lend money to any of my people that is poor by thee, thou shalt not be to him as an usurer, neither shalt thou lay upon him usury.
+If thou at all take thy neighbour's raiment to pledge, thou shalt deliver it unto him by that the sun goeth down:
+For that is his covering only, it is his raiment for his skin: wherein shall he sleep? and it shall come to pass, when he crieth unto me, that I will hear; for I am gracious.
+Thou shalt not revile the gods, nor curse the ruler of thy people.
+Thou shalt not delay to offer the first of thy ripe fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me.
+Likewise shalt thou do with thine oxen, and with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me.
+And ye shall be holy men unto me: neither shall ye eat any flesh that is torn of beasts in the field; ye shall cast it to the dogs.
 
 ### Exodus Chapter 23
 
-*[Chapter text unavailable]*
+Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.
+Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to wrest judgment:
+Neither shalt thou countenance a poor man in his cause.
+If thou meet thine enemy's ox or his ass going astray, thou shalt surely bring it back to him again.
+If thou see the ass of him that hateth thee lying under his burden, and wouldest forbear to help him, thou shalt surely help with him.
+Thou shalt not wrest the judgment of thy poor in his cause.
+Keep thee far from a false matter; and the innocent and righteous slay thou not: for I will not justify the wicked.
+And thou shalt take no gift: for the gift blindeth the wise, and perverteth the words of the righteous.
+Also thou shalt not oppress a stranger: for ye know the heart of a stranger, seeing ye were strangers in the land of Egypt.
+And six years thou shalt sow thy land, and shalt gather in the fruits thereof:
+But the seventh year thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, and with thy oliveyard.
+Six days thou shalt do thy work, and on the seventh day thou shalt rest: that thine ox and thine ass may rest, and the son of thy handmaid, and the stranger, may be refreshed.
+And in all things that I have said unto you be circumspect: and make no mention of the name of other gods, neither let it be heard out of thy mouth.
+Three times thou shalt keep a feast unto me in the year.
+Thou shalt keep the feast of unleavened bread: (thou shalt eat unleavened bread seven days, as I commanded thee, in the time appointed of the month Abib; for in it thou camest out from Egypt: and none shall appear before me empty:)
+And the feast of harvest, the firstfruits of thy labours, which thou hast sown in the field: and the feast of ingathering, which is in the end of the year, when thou hast gathered in thy labours out of the field.
+Three times in the year all thy males shall appear before the LORD God.
+Thou shalt not offer the blood of my sacrifice with leavened bread; neither shall the fat of my sacrifice remain until the morning.
+The first of the firstfruits of thy land thou shalt bring into the house of the LORD thy God. Thou shalt not seethe a kid in his mother's milk.
+Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.
+Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name is in him.
+But if thou shalt indeed obey his voice, and do all that I speak; then I will be an enemy unto thine enemies, and an adversary unto thine adversaries.
+For mine Angel shall go before thee, and bring thee in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, the Hivites, and the Jebusites: and I will cut them off.
+Thou shalt not bow down to their gods, nor serve them, nor do after their works: but thou shalt utterly overthrow them, and quite break down their images.
+And ye shall serve the LORD your God, and he shall bless thy bread, and thy water; and I will take sickness away from the midst of thee.
+There shall nothing cast their young, nor be barren, in thy land: the number of thy days I will fulfil.
+I will send my fear before thee, and will destroy all the people to whom thou shalt come, and I will make all thine enemies turn their backs unto thee.
+And I will send hornets before thee, which shall drive out the Hivite, the Canaanite, and the Hittite, from before thee.
+I will not drive them out from before thee in one year; lest the land become desolate, and the beast of the field multiply against thee.
+By little and little I will drive them out from before thee, until thou be increased, and inherit the land.
+And I will set thy bounds from the Red sea even unto the sea of the Philistines, and from the desert unto the river: for I will deliver the inhabitants of the land into your hand; and thou shalt drive them out before thee.
+Thou shalt make no covenant with them, nor with their gods.
+They shall not dwell in thy land, lest they make thee sin against me: for if thou serve their gods, it will surely be a snare unto thee.
 
 ### Exodus Chapter 24
 
-*[Chapter text unavailable]*
+And he said unto Moses, Come up unto the LORD, thou, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship ye afar off.
+And Moses alone shall come near the LORD: but they shall not come nigh; neither shall the people go up with him.
+And Moses came and told the people all the words of the LORD, and all the judgments: and all the people answered with one voice, and said, All the words which the LORD hath said will we do.
+And Moses wrote all the words of the LORD, and rose up early in the morning, and builded an altar under the hill, and twelve pillars, according to the twelve tribes of Israel.
+And he sent young men of the children of Israel, which offered burnt offerings, and sacrificed peace offerings of oxen unto the LORD.
+And Moses took half of the blood, and put it in basons; and half of the blood he sprinkled on the altar.
+And he took the book of the covenant, and read in the audience of the people: and they said, All that the LORD hath said will we do, and be obedient.
+And Moses took the blood, and sprinkled it on the people, and said, Behold the blood of the covenant, which the LORD hath made with you concerning all these words.
+Then went up Moses, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel:
+And they saw the God of Israel: and there was under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in his clearness.
+And upon the nobles of the children of Israel he laid not his hand: also they saw God, and did eat and drink.
+And the LORD said unto Moses, Come up to me into the mount, and be there: and I will give thee tables of stone, and a law, and commandments which I have written; that thou mayest teach them.
+And Moses rose up, and his minister Joshua: and Moses went up into the mount of God.
+And he said unto the elders, Tarry ye here for us, until we come again unto you: and, behold, Aaron and Hur are with you: if any man have any matters to do, let him come unto them.
+And Moses went up into the mount, and a cloud covered the mount.
+And the glory of the LORD abode upon mount Sinai, and the cloud covered it six days: and the seventh day he called unto Moses out of the midst of the cloud.
+And the sight of the glory of the LORD was like devouring fire on the top of the mount in the eyes of the children of Israel.
+And Moses went into the midst of the cloud, and gat him up into the mount: and Moses was in the mount forty days and forty nights.
 
 ### Exodus Chapter 25
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Speak unto the children of Israel, that they bring me an offering: of every man that giveth it willingly with his heart ye shall take my offering.
+And this is the offering which ye shall take of them; gold, and silver, and brass,
+And blue, and purple, and scarlet, and fine linen, and goats' hair,
+And rams' skins dyed red, and badgers' skins, and shittim wood,
+Oil for the light, spices for anointing oil, and for sweet incense,
+Onyx stones, and stones to be set in the ephod, and in the breastplate.
+And let them make me a sanctuary; that I may dwell among them.
+According to all that I shew thee, after the pattern of the tabernacle, and the pattern of all the instruments thereof, even so shall ye make it.
+And they shall make an ark of shittim wood: two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof.
+And thou shalt overlay it with pure gold, within and without shalt thou overlay it, and shalt make upon it a crown of gold round about.
+And thou shalt cast four rings of gold for it, and put them in the four corners thereof; and two rings shall be in the one side of it, and two rings in the other side of it.
+And thou shalt make staves of shittim wood, and overlay them with gold.
+And thou shalt put the staves into the rings by the sides of the ark, that the ark may be borne with them.
+The staves shall be in the rings of the ark: they shall not be taken from it.
+And thou shalt put into the ark the testimony which I shall give thee.
+And thou shalt make a mercy seat of pure gold: two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof.
+And thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat.
+And make one cherub on the one end, and the other cherub on the other end: even of the mercy seat shall ye make the cherubims on the two ends thereof.
+And the cherubims shall stretch forth their wings on high, covering the mercy seat with their wings, and their faces shall look one to another; toward the mercy seat shall the faces of the cherubims be.
+And thou shalt put the mercy seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee.
+And there I will meet with thee, and I will commune with thee from above the mercy seat, from between the two cherubims which are upon the ark of the testimony, of all things which I will give thee in commandment unto the children of Israel.
+Thou shalt also make a table of shittim wood: two cubits shall be the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof.
+And thou shalt overlay it with pure gold, and make thereto a crown of gold round about.
+And thou shalt make unto it a border of an hand breadth round about, and thou shalt make a golden crown to the border thereof round about.
+And thou shalt make for it four rings of gold, and put the rings in the four corners that are on the four feet thereof.
+Over against the border shall the rings be for places of the staves to bear the table.
+And thou shalt make the staves of shittim wood, and overlay them with gold, that the table may be borne with them.
+And thou shalt make the dishes thereof, and spoons thereof, and covers thereof, and bowls thereof, to cover withal: of pure gold shalt thou make them.
+And thou shalt set upon the table shewbread before me alway.
+And thou shalt make a candlestick of pure gold: of beaten work shall the candlestick be made: his shaft, and his branches, his bowls, his knops, and his flowers, shall be of the same.
+And six branches shall come out of the sides of it; three branches of the candlestick out of the one side, and three branches of the candlestick out of the other side:
+Three bowls made like unto almonds, with a knop and a flower in one branch; and three bowls made like almonds in the other branch, with a knop and a flower: so in the six branches that come out of the candlestick.
+And in the candlestick shall be four bowls made like unto almonds, with their knops and their flowers.
+And there shall be a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches that proceed out of the candlestick.
+Their knops and their branches shall be of the same: all it shall be one beaten work of pure gold.
+And thou shalt make the seven lamps thereof: and they shall light the lamps thereof, that they may give light over against it.
+And the tongs thereof, and the snuffdishes thereof, shall be of pure gold.
+Of a talent of pure gold shall he make it, with all these vessels.
+And look that thou make them after their pattern, which was shewed thee in the mount.
 
 ### Exodus Chapters 21-25: Contextual Analysis
 
