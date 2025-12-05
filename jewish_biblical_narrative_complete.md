@@ -6322,23 +6322,98 @@ And Moses did look upon all the work, and, behold, they have done it as the LORD
 ---
 ### Leviticus Chapter 1
 
-*[Chapter text unavailable]*
+And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,
+Speak unto the children of Israel, and say unto them, If any man of you bring an offering unto the LORD, ye shall bring your offering of the cattle, even of the herd, and of the flock.
+If his offering be a burnt sacrifice of the herd, let him offer a male without blemish: he shall offer it of his own voluntary will at the door of the tabernacle of the congregation before the LORD.
+And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him.
+And he shall kill the bullock before the LORD: and the priests, Aaron's sons, shall bring the blood, and sprinkle the blood round about upon the altar that is by the door of the tabernacle of the congregation.
+And he shall flay the burnt offering, and cut it into his pieces.
+And the sons of Aaron the priest shall put fire upon the altar, and lay the wood in order upon the fire:
+And the priests, Aaron's sons, shall lay the parts, the head, and the fat, in order upon the wood that is on the fire which is upon the altar:
+But his inwards and his legs shall he wash in water: and the priest shall burn all on the altar, to be a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD.
+And if his offering be of the flocks, namely, of the sheep, or of the goats, for a burnt sacrifice; he shall bring it a male without blemish.
+And he shall kill it on the side of the altar northward before the LORD: and the priests, Aaron's sons, shall sprinkle his blood round about upon the altar.
+And he shall cut it into his pieces, with his head and his fat: and the priest shall lay them in order on the wood that is on the fire which is upon the altar:
+But he shall wash the inwards and the legs with water: and the priest shall bring it all, and burn it upon the altar: it is a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD.
+And if the burnt sacrifice for his offering to the LORD be of fowls, then he shall bring his offering of turtledoves, or of young pigeons.
+And the priest shall bring it unto the altar, and wring off his head, and burn it on the altar; and the blood thereof shall be wrung out at the side of the altar:
+And he shall pluck away his crop with his feathers, and cast it beside the altar on the east part, by the place of the ashes:
+And he shall cleave it with the wings thereof, but shall not divide it asunder: and the priest shall burn it upon the altar, upon the wood that is upon the fire: it is a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD.
+
 
 ### Leviticus Chapter 2
 
-*[Chapter text unavailable]*
+And when any will offer a meat offering unto the LORD, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon:
+And he shall bring it to Aaron's sons the priests: and he shall take thereout his handful of the flour thereof, and of the oil thereof, with all the frankincense thereof; and the priest shall burn the memorial of it upon the altar, to be an offering made by fire, of a sweet savour unto the LORD:
+And the remnant of the meat offering shall be Aaron's and his sons': it is a thing most holy of the offerings of the LORD made by fire.
+And if thou bring an oblation of a meat offering baken in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil.
+And if thy oblation be a meat offering baken in a pan, it shall be of fine flour unleavened, mingled with oil.
+Thou shalt part it in pieces, and pour oil thereon: it is a meat offering.
+And if thy oblation be a meat offering baken in the fryingpan, it shall be made of fine flour with oil.
+And thou shalt bring the meat offering that is made of these things unto the LORD: and when it is presented unto the priest, he shall bring it unto the altar.
+And the priest shall take from the meat offering a memorial thereof, and shall burn it upon the altar: it is an offering made by fire, of a sweet savour unto the LORD.
+And that which is left of the meat offering shall be Aaron's and his sons': it is a thing most holy of the offerings of the LORD made by fire.
+No meat offering, which ye shall bring unto the LORD, shall be made with leaven: for ye shall burn no leaven, nor any honey, in any offering of the LORD made by fire.
+As for the oblation of the firstfruits, ye shall offer them unto the LORD: but they shall not be burnt on the altar for a sweet savour.
+And every oblation of thy meat offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meat offering: with all thine offerings thou shalt offer salt.
+And if thou offer a meat offering of thy firstfruits unto the LORD, thou shalt offer for the meat offering of thy firstfruits green ears of corn dried by the fire, even corn beaten out of full ears.
+And thou shalt put oil upon it, and lay frankincense thereon: it is a meat offering.
+And the priest shall burn the memorial of it, part of the beaten corn thereof, and part of the oil thereof, with all the frankincense thereof: it is an offering made by fire unto the LORD.
+
 
 ### Leviticus Chapter 3
 
-*[Chapter text unavailable]*
+And if his oblation be a sacrifice of peace offering, if he offer it of the herd; whether it be a male or female, he shall offer it without blemish before the LORD.
+And he shall lay his hand upon the head of his offering, and kill it at the door of the tabernacle of the congregation: and Aaron's sons the priests shall sprinkle the blood upon the altar round about.
+And he shall offer of the sacrifice of the peace offering an offering made by fire unto the LORD; the fat that covereth the inwards, and all the fat that is upon the inwards,
+And the two kidneys, and the fat that is on them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away.
+And Aaron's sons shall burn it on the altar upon the burnt sacrifice, which is upon the wood that is on the fire: it is an offering made by fire, of a sweet savour unto the LORD.
+And if his offering for a sacrifice of peace offering unto the LORD be of the flock; male or female, he shall offer it without blemish.
+If he offer a lamb for his offering, then shall he offer it before the LORD.
+And he shall lay his hand upon the head of his offering, and kill it before the tabernacle of the congregation: and Aaron's sons shall sprinkle the blood thereof round about upon the altar.
+And he shall offer of the sacrifice of the peace offering an offering made by fire unto the LORD; the fat thereof, and the whole rump, it shall he take off hard by the backbone; and the fat that covereth the inwards, and all the fat that is upon the inwards,
+And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away.
+And the priest shall burn it upon the altar: it is the food of the offering made by fire unto the LORD.
+And if his offering be a goat, then he shall offer it before the LORD.
+And he shall lay his hand upon the head of it, and kill it before the tabernacle of the congregation: and the sons of Aaron shall sprinkle the blood thereof upon the altar round about.
+And he shall offer thereof his offering, even an offering made by fire unto the LORD; the fat that covereth the inwards, and all the fat that is upon the inwards,
+And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away.
+And the priest shall burn them upon the altar: it is the food of the offering made by fire for a sweet savour: all the fat is the LORD's.
+It shall be a perpetual statute for your generations throughout all your dwellings, that ye eat neither fat nor blood.
+
 
 ### Leviticus Chapter 4
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the LORD concerning things which ought not to be done, and shall do against any of them:
+If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the LORD for a sin offering.
+And he shall bring the bullock unto the door of the tabernacle of the congregation before the LORD; and shall lay his hand upon the bullock's head, and kill the bullock before the LORD.
+And the priest that is anointed shall take of the bullock's blood, and bring it to the tabernacle of the congregation:
+And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the LORD, before the vail of the sanctuary.
+And the priest shall put some of the blood upon the horns of the altar of sweet incense before the LORD, which is in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering, which is at the door of the tabernacle of the congregation.
+And he shall take off from it all the fat of the bullock for the sin offering; the fat that covereth the inwards, and all the fat that is upon the inwards,
+And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away,
+As it was taken off from the bullock of the sacrifice of peace offerings: and the priest shall burn them upon the altar of the burnt offering.
+And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,
+Even the whole bullock shall he carry forth without the camp unto a clean place, where the ashes are poured out, and burn him on the wood with fire: where the ashes are poured out shall he be burnt.
+
 
 ### Leviticus Chapter 5
 
-*[Chapter text unavailable]*
+And if a soul sin, and hear the voice of swearing, and is a witness, whether he hath seen or known of it; if he do not utter it, then he shall bear his iniquity.
+Or if a soul touch any unclean thing, whether it be a carcase of an unclean beast, or a carcase of unclean cattle, or the carcase of unclean creeping things, and if it be hidden from him; he also shall be unclean, and guilty.
+Or if he touch the uncleanness of man, whatsoever uncleanness it be that a man shall be defiled withal, and it be hid from him; when he knoweth of it, then he shall be guilty.
+Or if a soul swear, pronouncing with his lips to do evil, or to do good, whatsoever it be that a man shall pronounce with an oath, and it be hid from him; when he knoweth of it, then he shall be guilty in one of these.
+And it shall be, when he shall be guilty in one of these things, that he shall confess that he hath sinned in that thing:
+And he shall bring his trespass offering unto the LORD for his sin which he hath sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin.
+And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the LORD; one for a sin offering, and the other for a burnt offering.
+And he shall bring them unto the priest, who shall offer that which is for the sin offering first, and wring off his head from his neck, but shall not divide it asunder:
+And he shall sprinkle of the blood of the sin offering upon the side of the altar; and the rest of the blood shall be wrung out at the bottom of the altar: it is a sin offering.
+And he shall offer the second for a burnt offering, according to the manner: and the priest shall make an atonement for him for his sin which he hath sinned, and it shall be forgiven him.
+But if he be not able to bring two turtledoves, or two young pigeons, then he that sinned shall bring for his offering the tenth part of an ephah of fine flour for a sin offering; he shall put no oil upon it, neither shall he put any frankincense thereon: for it is a sin offering.
+Then shall he bring it to the priest, and the priest shall take his handful of it, even a memorial thereof, and burn it on the altar, according to the offerings made by fire unto the LORD: it is a sin offering.
+And the priest shall make an atonement for him as touching his sin that he hath sinned in one of these, and it shall be forgiven him: and the remnant shall be the priest's, as a meat offering.
+
 
 ### Leviticus Chapters 1-5: Contextual Analysis
 
