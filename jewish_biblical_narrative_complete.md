@@ -7330,23 +7330,90 @@ And that ye may teach the children of Israel all the statutes which the LORD hat
 ---
 ### Leviticus Chapter 11
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses and to Aaron, saying unto them,
+Speak unto the children of Israel, saying, These are the beasts which ye shall eat among all the beasts that are on the earth.
+Whatsoever parteth the hoof, and is clovenfooted, and cheweth the cud, among the beasts, that shall ye eat.
+Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: as the camel, because he cheweth the cud, but divideth not the hoof; he is unclean unto you.
+And the coney, because he cheweth the cud, but divideth not the hoof; he is unclean unto you.
+And the hare, because he cheweth the cud, but divideth not the hoof; he is unclean unto you.
+And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he is unclean to you.
+Of their flesh shall ye not eat, and their carcase shall ye not touch; they are unclean to you.
+These shall ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat.
+And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which is in the waters, they shall be an abomination unto you:
+They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination.
+Whatsoever hath no fins nor scales in the waters, that shall be an abomination unto you.
+And these are they which ye shall have in abomination among the fowls; they shall not be eaten, they are an abomination: the eagle, and the ossifrage, and the ospray,
+And the vulture, and the kite after his kind;
+Every raven after his kind;
+And the owl, and the night hawk, and the cuckow, and the hawk after his kind,
+And the little owl, and the cormorant, and the great owl,
+And the swan, and the pelican, and the gier eagle,
+And the stork, the heron after her kind, and the lapwing, and the bat.
+All fowls that creep, going upon all four, shall be an abomination unto you.
+Yet these may ye eat of every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth;
+Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind.
+But all other flying creeping things, which have four feet, shall be an abomination unto you.
 
 ### Leviticus Chapter 12
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.
+And in the eighth day the flesh of his foreskin shall be circumcised.
+And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.
+But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.
+And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:
+Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female.
+And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.
 
 ### Leviticus Chapter 13
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses and Aaron, saying,
+When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:
+And the priest shall look on the plague in the skin of the flesh: and when the hair in the plague is turned white, and the plague in sight be deeper than the skin of his flesh, it is a plague of leprosy: and the priest shall look on him, and pronounce him unclean.
+If the bright spot be white in the skin of his flesh, and in sight be not deeper than the skin, and the hair thereof be not turned white; then the priest shall shut up him that hath the plague seven days:
+And the priest shall look on him the seventh day: and, behold, if the plague in his sight be at a stay, and the plague spread not in the skin; then the priest shall shut him up seven days more:
+And the priest shall look on him again the seventh day: and, behold, if the plague be somewhat dark, and the plague spread not in the skin, the priest shall pronounce him clean: it is but a scab: and he shall wash his clothes, and be clean.
+But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:
+And if the priest see that, behold, the scab spreadeth in the skin, then the priest shall pronounce him unclean: it is a leprosy.
+When the plague of leprosy is in a man, then he shall be brought unto the priest;
+And the priest shall see him: and, behold, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;
+It is an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he is unclean.
+And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of him that hath the plague from his head even to his foot, wheresoever the priest looketh;
+Then the priest shall consider: and, behold, if the leprosy have covered all his flesh, he shall pronounce him clean that hath the plague: it is all turned white: he is clean.
 
 ### Leviticus Chapter 14
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+This shall be the law of the leper in the day of his cleansing: He shall be brought unto the priest:
+And the priest shall go forth out of the camp; and the priest shall look, and, behold, if the plague of leprosy be healed in the leper;
+Then shall the priest command to take for him that is to be cleansed two birds alive and clean, and cedar wood, and scarlet, and hyssop:
+And the priest shall command that one of the birds be killed in an earthen vessel over running water:
+As for the living bird, he shall take it, and the cedar wood, and the scarlet, and the hyssop, and shall dip them and the living bird in the blood of the bird that was killed over the running water:
+And he shall sprinkle upon him that is to be cleansed from the leprosy seven times, and shall pronounce him clean, and shall let the living bird loose into the open field.
+And he that is to be cleansed shall wash his clothes, and shave off all his hair, and wash himself in water, that he may be clean: and after that he shall come into the camp, and shall tarry abroad out of his tent seven days.
+But it shall be on the seventh day, that he shall shave all his hair off his head and his beard and his eyebrows, even all his hair he shall shave off: and he shall wash his clothes, also he shall wash his flesh in water, and he shall be clean.
+And on the eighth day he shall take two he lambs without blemish, and one ewe lamb of the first year without blemish, and three tenth deals of fine flour for a meat offering, mingled with oil, and one log of oil.
+And the priest that maketh him clean shall present the man that is to be made clean, and those things, before the LORD, at the door of the tabernacle of the congregation:
+And the priest shall take one he lamb, and offer him for a trespass offering, and the log of oil, and wave them for a wave offering before the LORD:
+And he shall slay the lamb in the place where he shall kill the sin offering and the burnt offering, in the holy place: for as the sin offering is the priest's, so is the trespass offering: it is most holy.
 
 ### Leviticus Chapter 15
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses and to Aaron, saying,
+Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, because of his issue he is unclean.
+And this shall be his uncleanness in his issue: whether his flesh run with his issue, or his flesh be stopped from his issue, it is his uncleanness.
+Every bed, whereon he lieth that hath the issue, is unclean: and every thing, whereon he sitteth, shall be unclean.
+And whosoever toucheth his bed shall wash his clothes, and bathe himself in water, and be unclean until the even.
+And he that sitteth on any thing whereon he sat that hath the issue shall wash his clothes, and bathe himself in water, and be unclean until the even.
+And he that toucheth the flesh of him that hath the issue shall wash his clothes, and bathe himself in water, and be unclean until the even.
+And if he that hath the issue spit upon him that is clean; then he shall wash his clothes, and bathe himself in water, and be unclean until the even.
+And what saddle soever he rideth upon that hath the issue shall be unclean.
+And whosoever toucheth any thing that was under him shall be unclean until the even: and he that beareth any of those things shall wash his clothes, and bathe himself in water, and be unclean until the even.
+And whomsoever he toucheth that hath the issue, and hath not rinsed his hands in water, he shall wash his clothes, and bathe himself in water, and be unclean until the even.
+And the vessel of earth, that he toucheth which hath the issue, shall be broken: and every vessel of wood shall be rinsed in water.
+And when he that hath an issue is cleansed of his issue; then he shall number to himself seven days for his cleansing, and wash his clothes, and bathe his flesh in running water, and shall be clean.
+And on the eighth day he shall take to him two turtledoves, or two young pigeons, and come before the LORD unto the door of the tabernacle of the congregation, and give them unto the priest:
+And the priest shall offer them, the one for a sin offering, and the other for a burnt offering; and the priest shall make an atonement for him before the LORD for his issue.
 
 ### Leviticus Chapters 11-15: Contextual Analysis
 
@@ -7365,23 +7432,101 @@ And that ye may teach the children of Israel all the statutes which the LORD hat
 ---
 ### Leviticus Chapter 16
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;
+And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.
+Thus shall Aaron come into the holy place: with a young bullock for a sin offering, and a ram for a burnt offering.
+He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these are holy garments; therefore shall he wash his flesh in water, and so put them on.
+And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one ram for a burnt offering.
+And Aaron shall offer his bullock of the sin offering, which is for himself, and make an atonement for himself, and for his house.
+And he shall take the two goats, and present them before the LORD at the door of the tabernacle of the congregation.
+And Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the scapegoat.
+And Aaron shall bring the goat upon which the LORD's lot fell, and offer him for a sin offering.
+But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, and to let him go for a scapegoat into the wilderness.
+And Aaron shall bring the bullock of the sin offering, which is for himself, and shall make an atonement for himself, and for his house, and shall kill the bullock of the sin offering which is for himself:
+And he shall take a censer full of burning coals of fire from off the altar before the LORD, and his hands full of sweet incense beaten small, and bring it within the vail:
+And he shall put the incense upon the fire before the LORD, that the cloud of the incense may cover the mercy seat that is upon the testimony, that he die not:
+And he shall take of the blood of the bullock, and sprinkle it with his finger upon the mercy seat eastward; and before the mercy seat shall he sprinkle of the blood with his finger seven times.
+Then shall he kill the goat of the sin offering, that is for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat:
+And he shall make an atonement for the holy place, because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness.
+And there shall be no man in the tabernacle of the congregation when he goeth in to make an atonement in the holy place, until he come out, and have made an atonement for himself, and for his household, and for all the congregation of Israel.
 
 ### Leviticus Chapter 17
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them; This is the thing which the LORD hath commanded, saying,
+What man soever there be of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth it out of the camp,
+And bringeth it not unto the door of the tabernacle of the congregation, to offer an offering unto the LORD before the tabernacle of the LORD; blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people:
+To the end that the children of Israel may bring their sacrifices, which they offer in the open field, even that they may bring them unto the LORD, unto the door of the tabernacle of the congregation, unto the priest, and offer them for peace offerings unto the LORD.
+And the priest shall sprinkle the blood upon the altar of the LORD at the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the LORD.
+And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations.
+And thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,
+And bringeth it not unto the door of the tabernacle of the congregation, to offer it unto the LORD; even that man shall be cut off from among his people.
+And whatsoever man there be of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people.
+For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul.
+Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood.
+And whatsoever man there be of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.
+For it is the life of all flesh; the blood of it is for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh is the blood thereof: whosoever eateth it shall be cut off.
+And every soul that eateth that which died of itself, or that which was torn with beasts, whether it be one of your own country, or a stranger, he shall both wash his clothes, and bathe himself in water, and be unclean until the even: then shall he be clean.
+But if he wash them not, nor bathe his flesh; then he shall bear his iniquity.
 
 ### Leviticus Chapter 18
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Speak unto the children of Israel, and say unto them, I am the LORD your God.
+After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances.
+Ye shall do my judgments, and keep mine ordinances, to walk therein: I am the LORD your God.
+Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I am the LORD.
+None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the LORD.
+The nakedness of thy father, or the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness.
+The nakedness of thy father's wife shalt thou not uncover: it is thy father's nakedness.
+The nakedness of thy sister, the daughter of thy father, or daughter of thy mother, whether she be born at home, or born abroad, even their nakedness thou shalt not uncover.
+The nakedness of thy son's daughter, or of thy daughter's daughter, even their nakedness thou shalt not uncover: for theirs is thine own nakedness.
+The nakedness of thy father's wife's daughter, begotten of thy father, she is thy sister, thou shalt not uncover her nakedness.
+Thou shalt not uncover the nakedness of thy father's sister: she is thy father's near kinswoman.
+Thou shalt not uncover the nakedness of thy mother's sister: for she is thy mother's near kinswoman.
+Thou shalt not uncover the nakedness of thy father's brother, thou shalt not approach to his wife: she is thine aunt.
+Thou shalt not uncover the nakedness of thy daughter in law: she is thy son's wife; thou shalt not uncover her nakedness.
+Thou shalt not uncover the nakedness of thy brother's wife: it is thy brother's nakedness.
 
 ### Leviticus Chapter 19
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the LORD your God am holy.
+Ye shall fear every man his mother, and his father, and keep my sabbaths: I am the LORD your God.
+Turn ye not unto idols, nor make to yourselves molten gods: I am the LORD your God.
+And if ye offer a sacrifice of peace offerings unto the LORD, ye shall offer it at your own will.
+It shall be eaten the same day ye offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire.
+And if it be eaten at all on the third day, it is abominable; it shall not be accepted.
+Therefore every one that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the LORD: and that soul shall be cut off from among his people.
+And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest.
+And thou shalt not glean thy vineyard, neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger: I am the LORD your God.
+Ye shall not steal, neither deal falsely, neither lie one to another.
+And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I am the LORD.
+Thou shalt not defraud thy neighbour, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning.
+Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but shalt fear thy God: I am the LORD.
+Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honor the person of the mighty: but in righteousness shalt thou judge thy neighbour.
+Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour; I am the LORD.
+Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.
+Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the LORD.
 
 ### Leviticus Chapter 20
 
-*[Chapter text unavailable]*
+And the LORD spake unto Moses, saying,
+Again, thou shalt say to the children of Israel, Whosoever he be of the children of Israel, or of the strangers that sojourn in Israel, that giveth any of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones.
+And I will set my face against that man, and will cut him off from among his people; because he hath given of his seed unto Molech, to defile my sanctuary, and to profane my holy name.
+And if the people of the land do any ways hide their eyes from the man, when he giveth of his seed unto Molech, and kill him not:
+Then I will set my face against that man, and against his family, and will cut him off, and all that go a whoring after him, to commit whoredom with Molech, from among their people.
+And the soul that turneth after such as have familiar spirits, and after wizards, to go a whoring after them, I will even set my face against that soul, and will cut him off from among his people.
+Sanctify yourselves therefore, and be ye holy: for I am the LORD your God.
+And ye shall keep my statutes, and do them: I am the LORD which sanctify you.
+For every one that curseth his father or his mother shall be surely put to death: he hath cursed his father or his mother; his blood shall be upon him.
+And the man that committeth adultery with another man's wife, even he that committeth adultery with his neighbour's wife, the adulterer and the adulteress shall surely be put to death.
+And the man that lieth with his father's wife hath uncovered his father's nakedness: both of them shall surely be put to death; their blood shall be upon them.
+And if a man lie with his daughter in law, both of them shall surely be put to death: they have wrought confusion; their blood shall be upon them.
+If a man also lie with mankind, as he lieth with a woman, both of them have committed an abomination: they shall surely be put to death; their blood shall be upon them.
+And if a man take a wife and her mother, it is wickedness: they shall be burnt with fire, both he and they; that there be no wickedness among you.
+And if a man lie with a beast, he shall surely be put to death: and ye shall slay the beast.
+And if a woman approach unto any beast, and lie down thereto, thou shalt kill the woman, and the beast: they shall surely be put to death; their blood shall be upon them.
 
 ### Leviticus Chapters 16-20: Contextual Analysis
 
@@ -7400,7 +7545,30 @@ And that ye may teach the children of Israel all the statutes which the LORD hat
 ---
 ### Leviticus Chapter 21
 
-*[Chapter text unavailable]*
+And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:
+But for his kin, that is near unto him, that is, for his mother, and for his father, and for his son, and for his daughter, and for his brother.
+And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled.
+But he shall not defile himself, being a chief man among his people, to profane himself.
+They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh.
+They shall be holy unto their God, and not profane the name of their God: for the offerings of the LORD made by fire, and the bread of their God, they do offer: therefore they shall be holy.
+They shall not take a wife that is a whore, or profane; neither shall they take a woman put away from her husband: for he is holy unto his God.
+Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the LORD, which sanctify you, am holy.
+And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire.
+And he that is the high priest among his brethren, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, shall not uncover his head, nor rend his clothes;
+Neither shall he go in to any dead body, nor defile himself for his father, or for his mother;
+Neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him: I am the LORD.
+And he shall take a wife in her virginity.
+A widow, or a divorced woman, or profane, or an harlot, these shall he not take: but he shall take a virgin of his own people to wife.
+Neither shall he profane his seed among his people: for I the LORD do sanctify him.
+And the LORD spake unto Moses, saying,
+Speak unto Aaron, saying, Whosoever he be of thy seed in their generations that hath any blemish, let him not approach to offer the bread of his God.
+For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,
+Or a man that is brokenfooted, or brokenhanded,
+Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;
+No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the LORD made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God.
+He shall eat the bread of his God, both of the most holy, and of the holy.
+Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the LORD do sanctify them.
+And Moses told it unto Aaron, and to his sons, and unto all the children of Israel.
 
 ### Leviticus Chapter 22
 
