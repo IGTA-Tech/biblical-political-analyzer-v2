@@ -4538,19 +4538,127 @@ is Esau the father of the Edomites.
 
 ### Genesis Chapter 37
 
-*[Chapter text unavailable]*
+And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan.
+These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brethren; and the lad was with the sons of Bilhah, and with the sons of Zilpah, his father's wives: and Joseph brought unto his father their evil report.
+Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colours.
+And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him.
+And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more.
+And he said unto them, Hear, I pray you, this dream which I have dreamed:
+For, behold, we were binding sheaves in the field, and, lo, my sheaf arose, and also stood upright; and, behold, your sheaves stood round about, and made obeisance to my sheaf.
+And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words.
+And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.
+And he told it to his father, and to his brethren: and his father rebuked him, and said unto him, What is this dream that thou hast dreamed? Shall I and thy mother and thy brethren indeed come to bow down ourselves to thee to the earth?
+And his brethren envied him; but his father observed the saying.
+And his brethren went to feed their father's flock in Shechem.
+And Israel said unto Joseph, Do not thy brethren feed the flock in Shechem? come, and I will send thee unto them. And he said to him, Here am I.
+And he said to him, Go, I pray thee, see whether it be well with thy brethren, and well with the flocks; and bring me word again. So he sent him out of the vale of Hebron, and he came to Shechem.
+And a certain man found him, and, behold, he was wandering in the field: and the man asked him, saying, What seekest thou?
+And he said, I seek my brethren: tell me, I pray thee, where they feed their flocks.
+And the man said, They are departed hence; for I heard them say, Let us go to Dothan. And Joseph went after his brethren, and found them in Dothan.
+And when they saw him afar off, even before he came near unto them, they conspired against him to slay him.
+And they said one to another, Behold, this dreamer cometh.
+Come now therefore, and let us slay him, and cast him into some pit, and we will say, Some evil beast hath devoured him: and we shall see what will become of his dreams.
+And Reuben heard it, and he delivered him out of their hands; and said, Let us not kill him.
+And Reuben said unto them, Shed no blood, but cast him into this pit that is in the wilderness, and lay no hand upon him; that he might rid him out of their hands, to deliver him to his father again.
+And it came to pass, when Joseph was come unto his brethren, that they stript Joseph out of his coat, his coat of many colours that was on him;
+And they took him, and cast him into a pit: and the pit was empty, there was no water in it.
+And they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a company of Ishmeelites came from Gilead with their camels bearing spicery and balm and myrrh, going to carry it down to Egypt.
+And Judah said unto his brethren, What profit is it if we slay our brother, and conceal his blood?
+Come, and let us sell him to the Ishmeelites, and let not our hand be upon him; for he is our brother and our flesh. And his brethren were content.
+Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty pieces of silver: and they brought Joseph into Egypt.
+And Reuben returned unto the pit; and, behold, Joseph was not in the pit; and he rent his clothes.
+And he returned unto his brethren, and said, The child is not; and I, whither shall I go?
+And they took Joseph's coat, and killed a kid of the goats, and dipped the coat in the blood;
+And they sent the coat of many colours, and they brought it to their father; and said, This have we found: know now whether it be thy son's coat or no.
+And he knew it, and said, It is my son's coat; an evil beast hath devoured him; Joseph is without doubt rent in pieces.
+And Jacob rent his clothes, and put sackcloth upon his loins, and mourned for his son many days.
+And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him.
+And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh's, and captain of the guard.
 
 ### Genesis Chapter 38
 
-*[Chapter text unavailable]*
+And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name was Hirah.
+And Judah saw there a daughter of a certain Canaanite, whose name was Shuah; and he took her, and went in unto her.
+And she conceived, and bare a son; and he called his name Er.
+And she conceived again, and bare a son; and she called his name Onan.
+And she yet again conceived, and bare a son; and called his name Shelah: and he was at Chezib, when she bare him.
+And Judah took a wife for Er his firstborn, whose name was Tamar.
+And Er, Judah's firstborn, was wicked in the sight of the LORD; and the LORD slew him.
+And Judah said unto Onan, Go in unto thy brother's wife, and marry her, and raise up seed to thy brother.
+And Onan knew that the seed should not be his; and it came to pass, when he went in unto his brother's wife, that he spilled it on the ground, lest that he should give seed to his brother.
+And the thing which he did displeased the LORD: wherefore he slew him also.
+Then said Judah to Tamar his daughter in law, Remain a widow at thy father's house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren did. And Tamar went and dwelt in her father's house.
+And in process of time the daughter of Shuah Judah's wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite.
+And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep.
+And she put her widow's garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which is by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife.
+When Judah saw her, he thought her to be an harlot; because she had covered her face.
+And he turned unto her by the way, and said, Go to, I pray thee, let me come in unto thee; (for he knew not that she was his daughter in law.) And she said, What wilt thou give me, that thou mayest come in unto me?
+And he said, I will send thee a kid from the flock. And she said, Wilt thou give me a pledge, till thou send it?
+And he said, What pledge shall I give thee? And she said, Thy signet, and thy bracelets, and thy staff that is in thine hand. And he gave it her, and came in unto her, and she conceived by him.
+And she arose, and went away, and laid by her vail from her, and put on the garments of her widowhood.
+And Judah sent the kid by the hand of his friend the Adullamite, to receive his pledge from the woman's hand: but he found her not.
+Then he asked the men of that place, saying, Where is the harlot, that was openly by the way side? And they said, There was no harlot in this place.
+And he returned to Judah, and said, I cannot find her; and also the men of the place said, that there was no harlot in this place.
+And Judah said, Let her take it to her, lest we be shamed: behold, I sent this kid, and thou hast not found her.
+And it came to pass about three months after, that it was told Judah, saying, Tamar thy daughter in law hath played the harlot; and also, behold, she is with child by whoredom. And Judah said, Bring her forth, and let her be burnt.
+When she was brought forth, she sent to her father in law, saying, By the man, whose these are, am I with child: and she said, Discern, I pray thee, whose are these, the signet, and bracelets, and staff.
+And Judah acknowledged them, and said, She hath been more righteous than I; because that I gave her not to Shelah my son. And he knew her again no more.
+And it came to pass in the time of her travail, that, behold, twins were in her womb.
+And it came to pass, when she travailed, that the one put out his hand: and the midwife took and bound upon his hand a scarlet thread, saying, This came out first.
+And it came to pass, as he drew back his hand, that, behold, his brother came out: and she said, How hast thou broken forth? this breach be upon thee: therefore his name was called Pharez.
+And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah.
 
 ### Genesis Chapter 39
 
-*[Chapter text unavailable]*
+And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.
+And the LORD was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian.
+And his master saw that the LORD was with him, and that the LORD made all that he did to prosper in his hand.
+And Joseph found grace in his sight, and he served him: and he made him overseer over his house, and all that he had he put into his hand.
+And it came to pass from the time that he had made him overseer in his house, and over all that he had, that the LORD blessed the Egyptian's house for Joseph's sake; and the blessing of the LORD was upon all that he had in the house, and in the field.
+And he left all that he had in Joseph's hand; and he knew not ought he had, save the bread which he did eat. And Joseph was a goodly person, and well favoured.
+And it came to pass after these things, that his master's wife cast her eyes upon Joseph; and she said, Lie with me.
+But he refused, and said unto his master's wife, Behold, my master wotteth not what is with me in the house, and he hath committed all that he hath to my hand;
+There is none greater in this house than I; neither hath he kept back any thing from me but thee, because thou art his wife: how then can I do this great wickedness, and sin against God?
+And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, or to be with her.
+And it came to pass about this time, that Joseph went into the house to do his business; and there was none of the men of the house there within.
+And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.
+And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,
+That she called unto the men of her house, and spake unto them, saying, See, he hath brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:
+And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out.
+And she laid up his garment by her, until his lord came home.
+And she spake unto him according to these words, saying, The Hebrew servant, which thou hast brought unto us, came in unto me to mock me:
+And it came to pass, as I lifted up my voice and cried, that he left his garment with me, and fled out.
+And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did thy servant to me; that his wrath was kindled.
+And Joseph's master took him, and put him into the prison, a place where the king's prisoners were bound: and he was there in the prison.
+But the LORD was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison.
+And the keeper of the prison committed to Joseph's hand all the prisoners that were in the prison; and whatsoever they did there, he was the doer of it.
+The keeper of the prison looked not to any thing that was under his hand; because the LORD was with him, and that which he did, the LORD made it to prosper.
 
 ### Genesis Chapter 40
 
-*[Chapter text unavailable]*
+And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt.
+And Pharaoh was wroth against two of his officers, against the chief of the butlers, and against the chief of the bakers.
+And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph was bound.
+And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward.
+And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which were bound in the prison.
+And Joseph came in unto them in the morning, and looked upon them, and, behold, they were sad.
+And he asked Pharaoh's officers that were with him in the ward of his lord's house, saying, Wherefore look ye so sadly to day?
+And they said unto him, We have dreamed a dream, and there is no interpreter of it. And Joseph said unto them, Do not interpretations belong to God? tell me them, I pray you.
+And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine was before me;
+And in the vine were three branches: and it was as though it budded, and her blossoms shot forth; and the clusters thereof brought forth ripe grapes:
+And Pharaoh's cup was in my hand: and I took the grapes, and pressed them into Pharaoh's cup, and I gave the cup into Pharaoh's hand.
+And Joseph said unto him, This is the interpretation of it: The three branches are three days:
+Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy place: and thou shalt deliver Pharaoh's cup into his hand, after the former manner when thou wast his butler.
+But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house:
+For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon.
+When the chief baker saw that the interpretation was good, he said unto Joseph, I also was in my dream, and, behold, I had three white baskets on my head:
+And in the uppermost basket there was of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head.
+And Joseph answered and said, This is the interpretation thereof: The three baskets are three days:
+Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee.
+And it came to pass the third day, which was Pharaoh's birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants.
+And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh's hand:
+But he hanged the chief baker: as Joseph had interpreted to them.
+Yet did not the chief butler remember Joseph, but forgat him.
 
 ### Genesis Chapters 36-40: Contextual Analysis
 
@@ -4630,19 +4738,149 @@ And all countries came into Egypt to Joseph for to buy corn; because that the fa
 
 ### Genesis Chapter 42
 
-*[Chapter text unavailable]*
+Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?
+And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die.
+And Joseph's ten brethren went down to buy corn in Egypt.
+But Benjamin, Joseph's brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him.
+And the sons of Israel came to buy corn among those that came: for the famine was in the land of Canaan.
+And Joseph was the governor over the land, and he it was that sold to all the people of the land: and Joseph's brethren came, and bowed down themselves before him with their faces to the earth.
+And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food.
+And Joseph knew his brethren, but they knew not him.
+And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye are spies; to see the nakedness of the land ye are come.
+And they said unto him, Nay, my lord, but to buy food are thy servants come.
+We are all one man's sons; we are true men, thy servants are no spies.
+And he said unto them, Nay, but to see the nakedness of the land ye are come.
+And they said, Thy servants are twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest is this day with our father, and one is not.
+And Joseph said unto them, That is it that I spake unto you, saying, Ye are spies:
+Hereby ye shall be proved: By the life of Pharaoh ye shall not go forth hence, except your youngest brother come hither.
+Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether there be any truth in you: or else by the life of Pharaoh surely ye are spies.
+And he put them all together into ward three days.
+And Joseph said unto them the third day, This do, and live; for I fear God:
+If ye be true men, let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses:
+But bring your youngest brother unto me; so shall your words be verified, and ye shall not die. And they did so.
+And they said one to another, We are verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us.
+And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and ye would not hear? therefore, behold, also his blood is required.
+And they knew not that Joseph understood them; for he spake unto them by an interpreter.
+And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes.
+Then Joseph commanded to fill their sacks with corn, and to restore every man's money into his sack, and to give them provision for the way: and thus did he unto them.
+And they laded their asses with the corn, and departed thence.
+And as one of them opened his sack to give his ass provender in the inn, he espied his money; for, behold, it was in his sack's mouth.
+And he said unto his brethren, My money is restored; and, lo, it is even in my sack: and their heart failed them, and they were afraid, saying one to another, What is this that God hath done unto us?
+And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,
+The man, who is the lord of the land, spake roughly to us, and took us for spies of the country.
+And we said unto him, We are true men; we are no spies:
+We be twelve brethren, sons of our father; one is not, and the youngest is this day with our father in the land of Canaan.
+And the man, the lord of the country, said unto us, Hereby shall I know that ye are true men; leave one of your brethren here with me, and take food for the famine of your households, and be gone:
+And bring your youngest brother unto me: then shall I know that ye are no spies, but that ye are true men: so will I deliver you your brother, and ye shall traffick in the land.
+And it came to pass as they emptied their sacks, that, behold, every man's bundle of money was in his sack: and when both they and their father saw the bundles of money, they were afraid.
+And Jacob their father said unto them, Me have ye bereaved of my children: Joseph is not, and Simeon is not, and ye will take Benjamin away: all these things are against me.
+And Reuben spake unto his father, saying, Slay my two sons, if I bring him not to thee: deliver him into my hand, and I will bring him to thee again.
+And he said, My son shall not go down with you; for his brother is dead, and he is left alone: if mischief befall him by the way in the which ye go, then shall ye bring down my gray hairs with sorrow to the grave.
 
 ### Genesis Chapter 43
 
-*[Chapter text unavailable]*
+And the famine was sore in the land.
+And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food.
+And Judah spake unto him, saying, The man did solemnly protest unto us, saying, Ye shall not see my face, except your brother be with you.
+If thou wilt send our brother with us, we will go down and buy thee food:
+But if thou wilt not send him, we will not go down: for the man said unto us, Ye shall not see my face, except your brother be with you.
+And Israel said, Wherefore dealt ye so ill with me, as to tell the man whether ye had yet a brother?
+And they said, The man asked us straitly of our state, and of our kindred, saying, Is your father yet alive? have ye another brother? and we told him according to the tenor of these words: could we certainly know that he would say, Bring your brother down?
+And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, and also our little ones.
+I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then let me bear the blame for ever:
+For except we had lingered, surely now we had returned this second time.
+And their father Israel said unto them, If it must be so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:
+And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry it again in your hand; peradventure it was an oversight:
+Take also your brother, and arise, go again unto the man:
+And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved of my children, I am bereaved.
+And the men took that present, and they took double money in their hand, and Benjamin; and rose up, and went down to Egypt, and stood before Joseph.
+And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring these men home, and slay, and make ready; for these men shall dine with me at noon.
+And the man did as Joseph bade; and the man brought the men into Joseph's house.
+And the men were afraid, because they were brought into Joseph's house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses.
+And they came near to the steward of Joseph's house, and they communed with him at the door of the house,
+And said, O sir, we came indeed down at the first time to buy food:
+And it came to pass, when we came to the inn, that we opened our sacks, and, behold, every man's money was in the mouth of his sack, our money in full weight: and we have brought it again in our hand.
+And other money have we brought down in our hands to buy food: we cannot tell who put our money in our sacks.
+And he said, Peace be to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them.
+And the man brought the men into Joseph's house, and gave them water, and they washed their feet; and he gave their asses provender.
+And they made ready the present against Joseph came at noon: for they heard that they should eat bread there.
+And when Joseph came home, they brought him the present which was in their hand into the house, and bowed themselves to him to the earth.
+And he asked them of their welfare, and said, Is your father well, the old man of whom ye spake? Is he yet alive?
+And they answered, Thy servant our father is in good health, he is yet alive. And they bowed down their heads, and made obeisance.
+And he lifted up his eyes, and saw his brother Benjamin, his mother's son, and said, Is this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son.
+And Joseph made haste; for his bowels did yearn upon his brother: and he sought where to weep; and he entered into his chamber, and wept there.
+And he washed his face, and went out, and refrained himself, and said, Set on bread.
+And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that is an abomination unto the Egyptians.
+And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another.
+And he took and sent messes unto them from before him: but Benjamin's mess was five times so much as any of theirs. And they drank, and were merry with him.
 
 ### Genesis Chapter 44
 
-*[Chapter text unavailable]*
+And he commanded the steward of his house, saying, Fill the men's sacks with food, as much as they can carry, and put every man's money in his sack's mouth.
+And put my cup, the silver cup, in the sack's mouth of the youngest, and his corn money. And he did according to the word that Joseph had spoken.
+As soon as the morning was light, the men were sent away, they and their asses.
+And when they were gone out of the city, and not yet far off, Joseph said unto his steward, Up, follow after the men; and when thou dost overtake them, say unto them, Wherefore have ye rewarded evil for good?
+Is not this it in which my lord drinketh, and whereby indeed he divineth? ye have done evil in so doing.
+And he overtook them, and he spake unto them these same words.
+And they said unto him, Wherefore saith my lord these words? God forbid that thy servants should do according to this thing:
+Behold, the money, which we found in our sacks' mouths, we brought again unto thee out of the land of Canaan: how then should we steal out of thy lord's house silver or gold?
+With whomsoever of thy servants it be found, both let him die, and we also will be my lord's bondmen.
+And he said, Now also let it be according unto your words; he with whom it is found shall be my servant; and ye shall be blameless.
+Then they speedily took down every man his sack to the ground, and opened every man his sack.
+And he searched, and began at the eldest, and left at the youngest: and the cup was found in Benjamin's sack.
+Then they rent their clothes, and laded every man his ass, and returned to the city.
+And Judah and his brethren came to Joseph's house; for he was yet there: and they fell before him on the ground.
+And Joseph said unto them, What deed is this that ye have done? wot ye not that such a man as I can certainly divine?
+And Judah said, What shall we say unto my lord? what shall we speak? or how shall we clear ourselves? God hath found out the iniquity of thy servants: behold, we are my lord's servants, both we, and he also with whom the cup is found.
+And he said, God forbid that I should do so: but the man in whose hand the cup is found, he shall be my servant; and as for you, get you up in peace unto your father.
+Then Judah came near unto him, and said, Oh my lord, let thy servant, I pray thee, speak a word in my lord's ears, and let not thine anger burn against thy servant: for thou art even as Pharaoh.
+My lord asked his servants, saying, Have ye a father, or a brother?
+And we said unto my lord, We have a father, an old man, and a child of his old age, a little one; and his brother is dead, and he alone is left of his mother, and his father loveth him.
+And thou saidst unto thy servants, Bring him down unto me, that I may set mine eyes upon him.
+And we said unto my lord, The lad cannot leave his father: for if he should leave his father, his father would die.
+And thou saidst unto thy servants, Except your youngest brother come down with you, ye shall see my face no more.
+And it came to pass when we came up unto thy servant my father, we told him the words of my lord.
+And our father said, Go again, and buy us a little food.
+And we said, We cannot go down: if our youngest brother be with us, then will we go down: for we may not see the man's face, except our youngest brother be with us.
+And thy servant my father said unto us, Ye know that my wife bare me two sons:
+And the one went out from me, and I said, Surely he is torn in pieces; and I saw him not since:
+And if ye take this also from me, and mischief befall him, ye shall bring down my gray hairs with sorrow to the grave.
+Now therefore when I come to thy servant my father, and the lad be not with us; seeing that his life is bound up in the lad's life;
+It shall come to pass, when he seeth that the lad is not with us, that he will die: and thy servants shall bring down the gray hairs of thy servant our father with sorrow to the grave.
+For thy servant became surety for the lad unto my father, saying, If I bring him not unto thee, then I shall bear the blame to my father for ever.
+Now therefore, I pray thee, let thy servant abide instead of the lad a bondman to my lord; and let the lad go up with his brethren.
+For how shall I go up to my father, and the lad be not with me? lest peradventure I see the evil that shall come on my father.
 
 ### Genesis Chapter 45
 
-*[Chapter text unavailable]*
+Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren.
+And he wept aloud: and the Egyptians and the house of Pharaoh heard.
+And Joseph said unto his brethren, I am Joseph; doth my father yet live? And his brethren could not answer him; for they were troubled at his presence.
+And Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I am Joseph your brother, whom ye sold into Egypt.
+Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before you to preserve life.
+For these two years hath the famine been in the land: and yet there are five years, in the which there shall neither be earing nor harvest.
+And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.
+So now it was not you that sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt.
+Haste ye, and go up to my father, and say unto him, Thus saith thy son Joseph, God hath made me lord of all Egypt: come down unto me, tarry not:
+And thou shalt dwell in the land of Goshen, and thou shalt be near unto me, thou, and thy children, and thy children's children, and thy flocks, and thy herds, and all that thou hast:
+And there will I nourish thee; for yet there are five years of famine; lest thou, and thy household, and all that thou hast, come to poverty.
+And, behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaketh unto you.
+And ye shall tell my father of all my glory in Egypt, and of all that ye have seen; and ye shall haste and bring down my father hither.
+And he fell upon his brother Benjamin's neck, and wept; and Benjamin wept upon his neck.
+Moreover he kissed all his brethren, and wept upon them: and after that his brethren talked with him.
+And the fame thereof was heard in Pharaoh's house, saying, Joseph's brethren are come: and it pleased Pharaoh well, and his servants.
+And Pharaoh said unto Joseph, Say unto thy brethren, This do ye; lade your beasts, and go, get you unto the land of Canaan;
+And take your father and your households, and come unto me: and I will give you the good of the land of Egypt, and ye shall eat the fat of the land.
+Now thou art commanded, this do ye; take you wagons out of the land of Egypt for your little ones, and for your wives, and bring your father, and come.
+Also regard not your stuff; for the good of all the land of Egypt is yours.
+And the children of Israel did so: and Joseph gave them wagons, according to the commandment of Pharaoh, and gave them provision for the way.
+To all of them he gave each man changes of raiment; but to Benjamin he gave three hundred pieces of silver, and five changes of raiment.
+And to his father he sent after this manner; ten asses laden with the good things of Egypt, and ten she asses laden with corn and bread and meat for his father by the way.
+So he sent his brethren away, and they departed: and he said unto them, See that ye fall not out by the way.
+And they went up out of Egypt, and came into the land of Canaan unto Jacob their father,
+And told him, saying, Joseph is yet alive, and he is governor over all the land of Egypt. And Jacob's heart fainted, for he believed them not.
+And they told him all the words of Joseph, which he had said unto them: and when he saw the wagons which Joseph had sent to carry him, the spirit of Jacob their father revived:
+And Israel said, It is enough; Joseph my son is yet alive: I will go and see him before I die.
 
 ### Genesis Chapters 41-45: Contextual Analysis
 
@@ -4661,23 +4899,164 @@ And all countries came into Egypt to Joseph for to buy corn; because that the fa
 ---
 ### Genesis Chapter 46
 
-*[Chapter text unavailable]*
+And Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the God of his father Isaac.
+And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here am I.
+And he said, I am God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation:
+I will go down with thee into Egypt; and I will also surely bring thee up again: and Joseph shall put his hand upon thine eyes.
+And Jacob rose up from Beer-sheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.
+And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him:
+His sons, and his sons' sons with him, his daughters, and his sons' daughters, and all his seed brought he with him into Egypt.
+And these are the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob's firstborn.
+And the sons of Reuben; Hanoch, and Phallu, and Hezron, and Carmi.
+And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman.
+And the sons of Levi; Gershon, Kohath, and Merari.
+And the sons of Judah; Er, and Onan, and Shelah, and Pharez, and Zarah: but Er and Onan died in the land of Canaan. And the sons of Pharez were Hezron and Hamul.
+And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron.
+And the sons of Zebulun; Sered, and Elon, and Jahleel.
+These be the sons of Leah, which she bare unto Jacob in Padan-aram, with his daughter Dinah: all the souls of his sons and his daughters were thirty and three.
+And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.
+And the sons of Asher; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel.
+These are the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare unto Jacob, even sixteen souls.
+The sons of Rachel Jacob's wife; Joseph, and Benjamin.
+And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Poti-pherah priest of On bare unto him.
+And the sons of Benjamin were Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi, and Rosh, Muppim, and Huppim, and Ard.
+These are the sons of Rachel, which were born to Jacob: all the souls were fourteen.
+And the sons of Dan; Hushim.
+And the sons of Naphtali; Jahzeel, and Guni, and Jezer, and Shillem.
+These are the sons of Bilhah, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls were seven.
+All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob's sons' wives, all the souls were threescore and six;
+And the sons of Joseph, which were born him in Egypt, were two souls: all the souls of the house of Jacob, which came into Egypt, were threescore and ten.
+And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen.
+And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself unto him; and he fell on his neck, and wept on his neck a good while.
+And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou art yet alive.
+And Joseph said unto his brethren, and unto his father's house, I will go up, and shew Pharaoh, and say unto him, My brethren, and my father's house, which were in the land of Canaan, are come unto me;
+And the men are shepherds, for their trade hath been to feed cattle; and they have brought their flocks, and their herds, and all that they have.
+And it shall come to pass, when Pharaoh shall call you, and shall say, What is your occupation?
+That ye shall say, Thy servants' trade hath been about cattle from our youth even until now, both we, and also our fathers: that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.
 
 ### Genesis Chapter 47
 
-*[Chapter text unavailable]*
+Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen.
+And he took some of his brethren, even five men, and presented them unto Pharaoh.
+And Pharaoh said unto his brethren, What is your occupation? And they said unto Pharaoh, Thy servants are shepherds, both we, and also our fathers.
+They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine is sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen.
+And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:
+The land of Egypt is before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest any men of activity among them, then make them rulers over my cattle.
+And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh.
+And Pharaoh said unto Jacob, How old art thou?
+And Jacob said unto Pharaoh, The days of the years of my pilgrimage are an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage.
+And Jacob blessed Pharaoh, and went out from before Pharaoh.
+And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
+And Joseph nourished his father, and his brethren, and all his father's household, with bread, according to their families.
+And there was no bread in all the land; for the famine was very sore, so that the land of Egypt and all the land of Canaan fainted by reason of the famine.
+And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh's house.
+And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth.
+And Joseph said, Give your cattle; and I will give you for your cattle, if money fail.
+And they brought their cattle unto Joseph: and Joseph gave them bread in exchange for horses, and for the flocks, and for the cattle of the herds, and for the asses: and he fed them with bread for all their cattle for that year.
+When that year was ended, they came unto him the second year, and said unto him, We will not hide it from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:
+Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give us seed, that we may live, and not die, that the land be not desolate.
+And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh's.
+And as for the people, he removed them to cities from one end of the borders of Egypt even to the other end thereof.
+Only the land of the priests bought he not; for the priests had a portion assigned them of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands.
+Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, here is seed for you, and ye shall sow the land.
+And it shall come to pass in the increase, that ye shall give the fifth part unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones.
+And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh's servants.
+And Joseph made it a law over the land of Egypt unto this day, that Pharaoh should have the fifth part; except the land of the priests only, which became not Pharaoh's.
+And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly.
+And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years.
+And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:
+But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said.
+And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed's head.
 
 ### Genesis Chapter 48
 
-*[Chapter text unavailable]*
+And it came to pass after these things, that one told Joseph, Behold, thy father is sick: and he took with him his two sons, Manasseh and Ephraim.
+And one told Jacob, and said, Behold, thy son Joseph cometh unto thee: and Israel strengthened himself, and sat upon the bed.
+And Jacob said unto Joseph, God Almighty appeared unto me at Luz in the land of Canaan, and blessed me,
+And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee for an everlasting possession.
+And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, are mine; as Reuben and Simeon, they shall be mine.
+And thy issue, which thou begettest after them, shall be thine, and shall be called after the name of their brethren in their inheritance.
+And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet there was but a little way to come unto Ephrath: and I buried her there in the way of Ephrath; the same is Bethlehem.
+And Israel beheld Joseph's sons, and said, Who are these?
+And Joseph said unto his father, They are my sons, whom God hath given me in this place. And he said, Bring them, I pray thee, unto me, and I will bless them.
+Now the eyes of Israel were dim for age, so that he could not see. And he brought them near unto him; and he kissed them, and embraced them.
+And Israel said unto Joseph, I had not thought to see thy face: and, lo, God hath shewed me also thy seed.
+And Joseph brought them out from between his knees, and he bowed himself with his face to the earth.
+And Joseph took them both, Ephraim in his right hand toward Israel's left hand, and Manasseh in his left hand toward Israel's right hand, and brought them near unto him.
+And Israel stretched out his right hand, and laid it upon Ephraim's head, who was the younger, and his left hand upon Manasseh's head, guiding his hands wittingly; for Manasseh was the firstborn.
+And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day,
+The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth.
+And when Joseph saw that his father laid his right hand upon the head of Ephraim, it displeased him: and he held up his father's hand, to remove it from Ephraim's head unto Manasseh's head.
+And Joseph said unto his father, Not so, my father: for this is the firstborn; put thy right hand upon his head.
+And his father refused, and said, I know it, my son, I know it: he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations.
+And he blessed them that day, saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh.
+And Israel said unto Joseph, Behold, I die: but God shall be with you, and bring you again unto the land of your fathers.
+Moreover I have given to thee one portion above thy brethren, which I took out of the hand of the Amorite with my sword and with my bow.
 
 ### Genesis Chapter 49
 
-*[Chapter text unavailable]*
+And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.
+Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father.
+Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:
+Unstable as water, thou shalt not excel; because thou wentest up to thy father's bed; then defiledst thou it: he went up to my couch.
+Simeon and Levi are brethren; instruments of cruelty are in their habitations.
+O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall.
+Cursed be their anger, for it was fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel.
+Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies; thy father's children shall bow down before thee.
+Judah is a lion's whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?
+The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be.
+Binding his foal unto the vine, and his ass's colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:
+His eyes shall be red with wine, and his teeth white with milk.
+Zebulun shall dwell at the haven of the sea; and he shall be for an haven of ships; and his border shall be unto Zidon.
+Issachar is a strong ass couching down between two burdens:
+And he saw that rest was good, and the land that it was pleasant; and bowed his shoulder to bear, and became a servant unto tribute.
+Dan shall judge his people, as one of the tribes of Israel.
+Dan shall be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward.
+I have waited for thy salvation, O LORD.
+Gad, a troop shall overcome him: but he shall overcome at the last.
+Out of Asher his bread shall be fat, and he shall yield royal dainties.
+Naphtali is a hind let loose: he giveth goodly words.
+Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall:
+The archers have sorely grieved him, and shot at him, and hated him:
+But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from thence is the shepherd, the stone of Israel:)
+Even by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb:
+The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren.
+Benjamin shall ravin as a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.
+All these are the twelve tribes of Israel: and this is it that their father spake unto them, and blessed them; every one according to his blessing he blessed them.
+And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite,
+In the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace.
+There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.
+The purchase of the field and of the cave that is therein was from the children of Heth.
+And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.
 
 ### Genesis Chapter 50
 
-*[Chapter text unavailable]*
+And Joseph fell upon his father's face, and wept upon him, and kissed him.
+And Joseph commanded his servants the physicians to embalm his father: and the physicians embalmed Israel.
+And forty days were fulfilled for him; for so are fulfilled the days of those which are embalmed: and the Egyptians mourned for him threescore and ten days.
+And when the days of his mourning were past, Joseph spake unto the house of Pharaoh, saying, If now I have found grace in your eyes, speak, I pray you, in the ears of Pharaoh, saying,
+My father made me swear, saying, Lo, I die: in my grave which I have digged for me in the land of Canaan, there shalt thou bury me. Now therefore let me go up, I pray thee, and bury my father, and I will come again.
+And Pharaoh said, Go up, and bury thy father, according as he made thee swear.
+And Joseph went up to bury his father: and with him went up all the servants of Pharaoh, the elders of his house, and all the elders of the land of Egypt,
+And all the house of Joseph, and his brethren, and his father's house: only their little ones, and their flocks, and their herds, they left in the land of Goshen.
+And there went up with him both chariots and horsemen: and it was a very great company.
+And they came to the threshingfloor of Atad, which is beyond Jordan, and there they mourned with a great and very sore lamentation: and he made a mourning for his father seven days.
+And when the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said, This is a grievous mourning to the Egyptians: wherefore the name of it was called Abel-mizraim, which is beyond Jordan.
+And his sons did unto him according as he commanded them:
+For his sons carried him into the land of Canaan, and buried him in the cave of the field of Machpelah, which Abraham bought with the field for a possession of a buryingplace of Ephron the Hittite, before Mamre.
+And Joseph returned into Egypt, he, and his brethren, and all that went up with him to bury his father, after he had buried his father.
+And when Joseph's brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him.
+And they sent a messenger unto Joseph, saying, Thy father did command before he died, saying,
+So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him.
+And his brethren also went and fell down before his face; and they said, Behold, we be thy servants.
+And Joseph said unto them, Fear not: for am I in the place of God?
+But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.
+Now therefore fear ye not: I will nourish you, and your little ones. And he comforted them, and spake kindly unto them.
+And Joseph dwelt in Egypt, he, and his father's house: and Joseph lived an hundred and ten years.
+And Joseph saw Ephraim's children of the third generation: the children also of Machir the son of Manasseh were brought up upon Joseph's knees.
+And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob.
+And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence.
+So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.
 
 ### Genesis Chapters 46-50: Contextual Analysis
 
