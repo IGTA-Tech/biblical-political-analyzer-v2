@@ -253,5 +253,25 @@ All searches performed with grep on `jewish_biblical_narrative_enhanced.md`.
 
 ---
 
+## ACTION TAKEN: FILE CONSOLIDATION
+
+**Date:** 2025-12-06
+
+### Problem Identified
+Two narrative files existed:
+- `jewish_biblical_narrative_complete.md` (2.1 MB) - OLD template with placeholder contextual analyses
+- `jewish_biblical_narrative_enhanced.md` (5.3 MB) - CURRENT file with filled contextual analyses
+
+### Action Taken
+**DELETED:** `jewish_biblical_narrative_complete.md`
+
+### Reason
+The "complete" file was an outdated template version containing placeholder text like `[summary of what happens]` instead of actual scholarly content. The "enhanced" file contains the real work with fully written contextual analyses (295 total).
+
+### Single Working File
+**`jewish_biblical_narrative_enhanced.md`** is now the ONLY narrative file.
+
+---
+
 **Report Status:** VERIFIED (Triple-Checked)
 **Last Updated:** 2025-12-06
