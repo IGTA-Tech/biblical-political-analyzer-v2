@@ -1,0 +1,309 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom CSS Variables */
+:root {
+  --faith-parchment: #F5F1E8;
+  --faith-ink: #2C2416;
+  --faith-gold: #C9A227;
+  --faith-burgundy: #722F37;
+  --faith-sage: #5C7A5C;
+  --faith-stone: #6B6B6B;
+  --faith-cream: #FDF8EE;
+}
+
+/* Base Styles */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+      Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+
+  /* Scrollbar Styling */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: var(--faith-parchment);
+    border-radius: 4px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: var(--faith-stone);
+    border-radius: 4px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--faith-ink);
+  }
+
+  /* Selection Styling */
+  ::selection {
+    background-color: var(--faith-gold);
+    color: var(--faith-ink);
+  }
+}
+
+/* Component Styles */
+@layer components {
+  /* Timeline specific styles */
+  .timeline-container {
+    @apply relative overflow-hidden rounded-lg border border-faith-stone/20;
+  }
+
+  .timeline-axis text {
+    @apply text-xs fill-faith-ink;
+    font-family: Georgia, serif;
+  }
+
+  .timeline-axis line,
+  .timeline-axis path {
+    @apply stroke-faith-stone/50;
+  }
+
+  .timeline-grid-line {
+    @apply stroke-faith-stone/10;
+    stroke-dasharray: 4, 4;
+  }
+
+  /* Event marker animations */
+  .event-marker {
+    @apply transition-all duration-200 ease-out;
+  }
+
+  .event-marker:hover {
+    transform: scale(1.2);
+  }
+
+  .event-marker-pulse {
+    animation: pulse 2s infinite;
+  }
+
+  @keyframes pulse {
+    0% {
+      opacity: 0.6;
+      transform: scale(1);
+    }
+    50% {
+      opacity: 0.3;
+      transform: scale(1.5);
+    }
+    100% {
+      opacity: 0.6;
+      transform: scale(1);
+    }
+  }
+
+  /* Era bar styles */
+  .era-band {
+    @apply transition-all duration-200;
+  }
+
+  .era-band:hover {
+    filter: brightness(0.95);
+  }
+
+  /* Card styles */
+  .event-card {
+    @apply bg-white rounded-lg shadow-xl border border-faith-stone/20 p-4;
+    animation: fadeIn 0.2s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  /* Button styles */
+  .btn-primary {
+    @apply px-4 py-2 bg-faith-burgundy text-white rounded-md;
+    @apply hover:bg-faith-burgundy/90 transition-colors;
+    @apply focus:outline-none focus:ring-2 focus:ring-faith-burgundy focus:ring-offset-2;
+  }
+
+  .btn-secondary {
+    @apply px-4 py-2 bg-white border border-faith-stone/30 text-faith-ink rounded-md;
+    @apply hover:bg-faith-parchment transition-colors;
+    @apply focus:outline-none focus:ring-2 focus:ring-faith-gold focus:ring-offset-2;
+  }
+
+  .btn-icon {
+    @apply p-2 rounded-md transition-colors;
+    @apply hover:bg-faith-gold/20;
+    @apply focus:outline-none focus:ring-2 focus:ring-faith-gold;
+  }
+
+  /* Filter chip styles */
+  .filter-chip {
+    @apply inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs;
+    @apply border transition-all duration-150;
+  }
+
+  .filter-chip-active {
+    @apply shadow-sm;
+  }
+
+  /* Input styles */
+  .input-field {
+    @apply w-full px-3 py-2 border border-faith-stone/30 rounded-md;
+    @apply text-faith-ink bg-white;
+    @apply focus:outline-none focus:ring-2 focus:ring-faith-gold/50 focus:border-faith-gold;
+  }
+
+  /* Loading spinner */
+  .spinner {
+    @apply animate-spin rounded-full border-b-2 border-faith-burgundy;
+  }
+
+  /* Tooltip */
+  .tooltip {
+    @apply absolute z-50 px-2 py-1 text-xs text-white bg-faith-ink rounded;
+    @apply shadow-lg pointer-events-none;
+    animation: tooltipFade 0.15s ease-out;
+  }
+
+  @keyframes tooltipFade {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+}
+
+/* Utility styles */
+@layer utilities {
+  /* Line clamp utilities */
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* Text shadow for readability */
+  .text-shadow {
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Backdrop blur fallback */
+  .backdrop-blur-sm {
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+  }
+
+  /* Hide scrollbar but keep functionality */
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Prevent text selection during drag */
+  .select-none-important {
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+  }
+}
+
+/* D3 specific overrides */
+.x-axis .domain {
+  stroke: var(--faith-stone);
+  opacity: 0.5;
+}
+
+.x-axis .tick line {
+  stroke: var(--faith-stone);
+  opacity: 0.3;
+}
+
+.x-axis .tick text {
+  fill: var(--faith-ink);
+  font-family: Georgia, serif;
+  font-size: 11px;
+}
+
+/* SVG styles */
+svg {
+  overflow: visible;
+}
+
+svg text {
+  font-family: Georgia, serif;
+}
+
+/* Print styles */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+
+  .timeline-container {
+    break-inside: avoid;
+  }
+
+  .event-card {
+    box-shadow: none;
+    border: 1px solid #ccc;
+  }
+}
+
+/* Responsive utilities */
+@media (max-width: 640px) {
+  .timeline-container {
+    overflow-x: auto;
+  }
+
+  .x-axis .tick text {
+    font-size: 9px;
+  }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  :root {
+    --faith-ink: #000000;
+    --faith-stone: #333333;
+  }
+
+  .event-marker {
+    stroke-width: 2;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
