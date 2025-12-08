@@ -58,6 +58,57 @@ load_dotenv(ENV_PATH)
 logger.info(f"Loading environment from: {ENV_PATH}")
 
 # ===============================================================================
+# API KEYS AND CONSTANTS (for research scripts)
+# ===============================================================================
+
+# Perplexity
+PERPLEXITY_API_KEY = os.getenv("PERPLEXITY_API_KEY")
+PERPLEXITY_MODEL = "sonar"
+PERPLEXITY_BASE_URL = "https://api.perplexity.ai"
+PERPLEXITY_RPM = 20
+
+# Semantic Scholar
+SEMANTIC_SCHOLAR_API_KEY = os.getenv("SEMANTIC_SCHOLAR_API_KEY")
+SEMANTIC_SCHOLAR_BASE_URL = "https://api.semanticscholar.org/graph/v1"
+SEMANTIC_SCHOLAR_RPM = 100
+SEMANTIC_SCHOLAR_RPS = 1  # 1 request per second limit
+
+# CORE
+CORE_API_KEY = os.getenv("CORE_API_KEY")
+CORE_BASE_URL = "https://api.core.ac.uk/v3"
+CORE_RPM = 30
+
+# OpenAlex
+OPENALEX_EMAIL = os.getenv("OPENALEX_EMAIL", "user@example.com")
+OPENALEX_BASE_URL = "https://api.openalex.org"
+OPENALEX_RPM = 100
+
+# Internet Archive
+INTERNET_ARCHIVE_ACCESS_KEY = os.getenv("INTERNET_ARCHIVE_ACCESS_KEY")
+INTERNET_ARCHIVE_SECRET_KEY = os.getenv("INTERNET_ARCHIVE_SECRET_KEY")
+INTERNET_ARCHIVE_BASE_URL = "https://archive.org"
+INTERNET_ARCHIVE_RPM = 30
+
+# API.Bible
+API_BIBLE_KEY = os.getenv("API_BIBLE_KEY")
+API_BIBLE_URL = os.getenv("API_BIBLE_URL", "https://rest.api.bible/v1")
+API_BIBLE_RPM = 100
+
+# Sefaria (no key needed)
+SEFARIA_BASE_URL = os.getenv("SEFARIA_BASE_URL", "https://www.sefaria.org/api")
+SEFARIA_RPM = 60
+
+# Firecrawl
+FIRECRAWL_API_KEY = os.getenv("FIRECRAWL_API_KEY")
+FIRECRAWL_BASE_URL = "https://api.firecrawl.dev/v1"
+FIRECRAWL_RPM = 20
+
+# Jina Reader
+JINA_API_KEY = os.getenv("JINA_API_KEY")
+JINA_READER_PREFIX = os.getenv("JINA_READER_PREFIX", "https://r.jina.ai/")
+JINA_RPM = 60
+
+# ===============================================================================
 # DATA DIRECTORIES
 # ===============================================================================
 
@@ -254,7 +305,7 @@ class PerplexityClient:
         self.base_url = "https://api.perplexity.ai"
 
     @rate_limited("perplexity")
-    def search(self, query: str, model: str = "llama-3.1-sonar-small-128k-online") -> Dict[str, Any]:
+    def search(self, query: str, model: str = "sonar") -> Dict[str, Any]:
         """Perform a research query using Perplexity."""
         response = requests.post(
             f"{self.base_url}/chat/completions",
@@ -280,7 +331,7 @@ class PerplexityClient:
                     "Content-Type": "application/json"
                 },
                 json={
-                    "model": "llama-3.1-sonar-small-128k-online",
+                    "model": "sonar",
                     "messages": [{"role": "user", "content": "Say 'connected' in one word."}]
                 },
                 timeout=30
