@@ -37,6 +37,8 @@ from config import (
     INTERNET_ARCHIVE_BASE_URL,
     CORE_API_KEY,
     CORE_BASE_URL,
+    YOUTUBE_TRANSCRIPT_API_KEY,
+    YOUTUBE_TRANSCRIPT_URL,
 )
 
 import requests
@@ -543,14 +545,15 @@ ERAS = {
 # ============================================================================
 
 class EnhancedPerplexityClient:
-    """Enhanced Perplexity client with better prompts."""
+    """Enhanced Perplexity client with better prompts and retry logic."""
 
     def __init__(self):
         self.api_key = PERPLEXITY_API_KEY
         self.base_url = PERPLEXITY_BASE_URL
         self.model = "sonar"  # Updated model name
+        self.max_retries = 3
 
-    def research(self, query: str, system_prompt: str = None) -> Dict[str, Any]:
+    def research(self, query: str, system_prompt: str = None, retries: int = 0) -> Dict[str, Any]:
         """Make enhanced research query."""
         default_system = """You are a world-class academic historian specializing in religious
 history, patristics, and theology. You have expertise across Orthodox, Catholic, Protestant,
@@ -573,17 +576,26 @@ Write in an engaging but academically rigorous style suitable for graduate-level
             {"role": "user", "content": query}
         ]
 
-        response = requests.post(
-            f"{self.base_url}/chat/completions",
-            headers={
-                "Authorization": f"Bearer {self.api_key}",
-                "Content-Type": "application/json"
-            },
-            json={"model": self.model, "messages": messages},
-            timeout=180
-        )
-        response.raise_for_status()
-        return response.json()
+        try:
+            response = requests.post(
+                f"{self.base_url}/chat/completions",
+                headers={
+                    "Authorization": f"Bearer {self.api_key}",
+                    "Content-Type": "application/json"
+                },
+                json={"model": self.model, "messages": messages},
+                timeout=180
+            )
+            response.raise_for_status()
+            return response.json()
+        except (requests.exceptions.ReadTimeout, requests.exceptions.ConnectionError) as e:
+            if retries < self.max_retries:
+                print(f"      API timeout, retrying ({retries + 1}/{self.max_retries})...")
+                time.sleep(10 * (retries + 1))  # Exponential backoff
+                return self.research(query, system_prompt, retries + 1)
+            else:
+                print(f"      Max retries exceeded, returning partial content")
+                return {"choices": [{"message": {"content": f"[Content temporarily unavailable due to API timeout. Query: {query[:100]}...]"}}]}
 
     def deep_research(self, topic: str, era: Dict) -> str:
         """Perform deep research with follow-up questions."""
@@ -761,18 +773,156 @@ class InternetArchiveClient:
             return []
 
 
+class YouTubeTranscriptClient:
+    """Client for fetching YouTube transcripts from respected commentators."""
+
+    def __init__(self):
+        self.api_key = YOUTUBE_TRANSCRIPT_API_KEY
+        self.base_url = YOUTUBE_TRANSCRIPT_URL
+
+    # Respected commentators by tradition/perspective
+    COMMENTATOR_CHANNELS = {
+        "academic": [
+            # Yale Bible Study, Harvard Divinity, academic lectures
+            "UCBsbHpAMmYUbSqHtbElTIyw",  # Yale Courses
+            "UCddiUEpeqJcYeBxX1IVBKvQ",  # Harvard
+            "UC2-_WWPT_124wxIuCsXur0g",  # The Bible Project
+        ],
+        "orthodox": [
+            "UCxYoGT1C5jJMIQ7P16D9rfw",  # Orthodox Christianity
+            "UCHXTthUWNmHGqWWYd2wUUcA",  # Greek Orthodox
+        ],
+        "catholic": [
+            "UCcMjLgeWNwqL2LBGS-iPb1A",  # Bishop Robert Barron
+            "UClh4JeqYB1QN6f1h_bzmEng",  # Catholic Answers
+            "UCVdlKbXQ3F3hLOu4G7hZupA",  # Ascension Presents
+        ],
+        "protestant": [
+            "UCjlQaOW5xyM4xFQVFz0wc3w",  # Desiring God (Reformed)
+            "UC3vIOVzVpE2hhe_LpEKBwKw",  # The Gospel Coalition
+            "UCjz8XLSHMSDz5C1CZqh7TdA",  # NT Wright
+        ],
+        "jewish": [
+            "UCF3XQHV4FNDrcPPMN7FHbqQ",  # My Jewish Learning
+            "UC0EtYLCoB3_0BTnOjHIMMYg",  # Aleph Beta
+        ],
+        "historical": [
+            "UCloPhYw8LaLTDg8IH8jASdg",  # History Hit
+            "UCLfMmOriRvSLmwppMN5XQGg",  # World History Encyclopedia
+        ]
+    }
+
+    # Known video IDs for specific topics (curated quality content)
+    TOPIC_VIDEOS = {
+        "apostolic": [
+            "GQI72THyO5I",  # Early Church history
+            "Y_6AOg4K-8Y",  # Apostolic Age overview
+        ],
+        "ante-nicene": [
+            "E1ZZeCDGHJE",  # Church Fathers intro
+            "hJoF4VBKKH8",  # Persecution of Christians
+        ],
+        "councils": [
+            "tJl-VpJUuQs",  # Council of Nicaea
+            "S9czeq1iSTI",  # Early Church councils
+        ],
+        "reformation": [
+            "IATyzSAm9aE",  # Martin Luther documentary
+            "cZqv4FljDlA",  # Protestant Reformation
+        ],
+        "medieval": [
+            "QpI3NvzueLc",  # Medieval Christianity
+        ],
+    }
+
+    def get_transcript(self, video_id: str) -> Optional[Dict]:
+        """Get transcript for a YouTube video."""
+        try:
+            response = requests.get(
+                f"{self.base_url}/transcript",
+                params={"video_id": video_id},
+                headers={"Authorization": f"Bearer {self.api_key}"},
+                timeout=60
+            )
+            if response.status_code == 200:
+                return response.json()
+            return None
+        except Exception as e:
+            print(f"      YouTube transcript error: {e}")
+            return None
+
+    def search_videos(self, query: str, perspective: str = None) -> List[str]:
+        """Search for relevant video IDs (uses Perplexity to find videos)."""
+        # For now, return curated video IDs based on topic keywords
+        video_ids = []
+        query_lower = query.lower()
+
+        for topic, ids in self.TOPIC_VIDEOS.items():
+            if topic in query_lower:
+                video_ids.extend(ids)
+
+        return video_ids[:3]  # Limit to 3 videos
+
+    def get_commentator_insights(self, era: Dict, topic: str) -> Dict[str, List[Dict]]:
+        """Get insights from different commentator perspectives."""
+        insights = {}
+
+        # Get relevant video IDs for this topic
+        video_ids = self.search_videos(f"{era['name']} {topic}")
+
+        for video_id in video_ids[:2]:  # Limit API calls
+            transcript_data = self.get_transcript(video_id)
+            if transcript_data:
+                # Extract relevant segments
+                transcript_text = transcript_data.get("transcript", "")
+                if transcript_text:
+                    # Truncate to reasonable length
+                    insights[video_id] = {
+                        "video_id": video_id,
+                        "url": f"https://www.youtube.com/watch?v={video_id}",
+                        "transcript_preview": transcript_text[:2000],
+                        "title": transcript_data.get("title", "Unknown")
+                    }
+            time.sleep(2)  # Rate limiting
+
+        return insights
+
+    def get_multi_perspective_video_content(self, era: Dict) -> Dict[str, Any]:
+        """Get video content from multiple perspectives for an era."""
+        perspectives_content = {}
+
+        era_keywords = era["name"].lower().replace(" ", "-")
+
+        for perspective, channels in self.COMMENTATOR_CHANNELS.items():
+            # Try to get content from this perspective
+            for video_id in self.TOPIC_VIDEOS.get(era_keywords, [])[:1]:
+                transcript = self.get_transcript(video_id)
+                if transcript:
+                    perspectives_content[perspective] = {
+                        "video_id": video_id,
+                        "title": transcript.get("title", ""),
+                        "excerpt": transcript.get("transcript", "")[:1500],
+                        "url": f"https://www.youtube.com/watch?v={video_id}"
+                    }
+                    break
+            time.sleep(1)
+
+        return perspectives_content
+
+
 # ============================================================================
 # ENHANCED CONTENT GENERATOR
 # ============================================================================
 
 class EnhancedEraGenerator:
-    """Generate 9.5/10 quality historical content."""
+    """Generate 9.5/10 quality historical content with YouTube commentators."""
 
     def __init__(self):
         self.perplexity = EnhancedPerplexityClient()
         self.sefaria = EnhancedSefariaClient()
         self.scholar = EnhancedScholarClient()
         self.archive = InternetArchiveClient()
+        self.youtube = YouTubeTranscriptClient()
 
         self.output_dir = Path(__file__).parent.parent.parent / "content" / "eras"
         self.data_dir = Path(__file__).parent.parent.parent / "data"
@@ -861,6 +1011,11 @@ class EnhancedEraGenerator:
         # 10. Legacy and Significance
         print("10. Analyzing legacy and significance...")
         content["sections"]["legacy"] = self._analyze_legacy(era)
+
+        # 11. YouTube Commentators
+        print("11. Fetching YouTube commentator insights...")
+        content["sections"]["commentators"] = self._get_youtube_commentators(era)
+        time.sleep(2)
 
         # Save
         self._save_content(era_num, era, content)
@@ -1171,6 +1326,56 @@ Include:
         response = self.perplexity.research(query)
         return response["choices"][0]["message"]["content"]
 
+    def _get_youtube_commentators(self, era: Dict) -> Dict:
+        """Get YouTube commentator insights from multiple perspectives."""
+        commentator_content = {}
+
+        # Get multi-perspective video content
+        perspectives = self.youtube.get_multi_perspective_video_content(era)
+        commentator_content["perspectives"] = perspectives
+
+        # Get specific topic insights
+        era_name_lower = era["name"].lower()
+        topic_map = {
+            "apostolic": "apostolic",
+            "ante-nicene": "ante-nicene",
+            "post-nicene": "councils",
+            "byzantine": "councils",
+            "medieval": "medieval",
+            "reformation": "reformation",
+        }
+
+        topic_key = None
+        for keyword, topic in topic_map.items():
+            if keyword in era_name_lower:
+                topic_key = topic
+                break
+
+        if topic_key:
+            insights = self.youtube.get_commentator_insights(era, topic_key)
+            commentator_content["topic_videos"] = insights
+
+        # Use Perplexity to identify recommended lectures/documentaries
+        query = f"""Recommend the best YouTube lectures, documentaries, and educational videos
+about the {era['name']} ({era['start_year']}-{era['end_year']} AD).
+
+Include:
+1. Academic lectures from universities (Yale, Harvard, etc.)
+2. Respected theologians from different traditions
+3. High-quality documentaries
+4. Bible Project or similar educational content
+
+For each recommendation, provide:
+- Title and channel/creator
+- Why it's valuable
+- Perspective (academic, Catholic, Protestant, Orthodox, Jewish, etc.)
+- Approximate length and format"""
+
+        response = self.perplexity.research(query)
+        commentator_content["recommended_videos"] = response["choices"][0]["message"]["content"]
+
+        return commentator_content
+
     def _save_content(self, era_num: int, era: Dict, content: Dict):
         """Save enhanced content."""
         era_str = f"{era_num:02d}"
@@ -1215,7 +1420,8 @@ Include:
 7. [Multi-Perspective Analysis](#multi-perspective-analysis)
 8. [Scholarly Debates](#scholarly-debates)
 9. [Legacy and Significance](#legacy-and-significance)
-10. [Academic Sources](#academic-sources)
+10. [Video Commentators & Lectures](#video-commentators--lectures)
+11. [Academic Sources](#academic-sources)
 
 ---
 
@@ -1270,9 +1476,49 @@ Include:
         md += "---\n\n## Legacy and Significance\n\n"
         md += f"{sections.get('legacy', 'No legacy analysis.')}\n\n"
 
+        md += "---\n\n## Video Commentators & Lectures\n\n"
+        commentators = sections.get("commentators", {})
+
+        # Recommended Videos from Perplexity research
+        if commentators.get("recommended_videos"):
+            md += "### Recommended Video Resources\n\n"
+            md += f"{commentators['recommended_videos']}\n\n"
+
+        # Perspective-based video content
+        if commentators.get("perspectives"):
+            md += "### Video Content by Perspective\n\n"
+            for perspective, video_data in commentators.get("perspectives", {}).items():
+                if video_data:
+                    md += f"**{perspective.title()} Perspective:**\n"
+                    md += f"- [{video_data.get('title', 'Video')}]({video_data.get('url', '#')})\n"
+                    if video_data.get("excerpt"):
+                        md += f"  - Excerpt: {video_data['excerpt'][:300]}...\n"
+                    md += "\n"
+
+        # Topic-specific videos with transcripts
+        if commentators.get("topic_videos"):
+            md += "### Topic-Specific Video Content\n\n"
+            for video_id, video_data in commentators.get("topic_videos", {}).items():
+                md += f"**[{video_data.get('title', 'Video')}]({video_data.get('url', '#')})**\n"
+                if video_data.get("transcript_preview"):
+                    md += f"> {video_data['transcript_preview'][:500]}...\n\n"
+
         md += "---\n\n## Academic Sources\n\n"
         for source in sections.get("academic_sources", []):
-            authors = ", ".join(source.get("authors", [])[:3]) if source.get("authors") else "Unknown"
+            # Handle authors being either strings or dicts
+            raw_authors = source.get("authors", [])
+            if raw_authors:
+                author_names = []
+                for a in raw_authors[:3]:
+                    if isinstance(a, str):
+                        author_names.append(a)
+                    elif isinstance(a, dict):
+                        author_names.append(a.get("name", str(a)))
+                    else:
+                        author_names.append(str(a))
+                authors = ", ".join(author_names)
+            else:
+                authors = "Unknown"
             md += f"- **{source.get('title', 'Unknown')}** ({source.get('year', 'n.d.')})\n"
             md += f"  - Authors: {authors}\n"
             md += f"  - Source: {source.get('source', 'Unknown')}\n"

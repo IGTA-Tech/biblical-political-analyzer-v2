@@ -108,6 +108,11 @@ JINA_API_KEY = os.getenv("JINA_API_KEY")
 JINA_READER_PREFIX = os.getenv("JINA_READER_PREFIX", "https://r.jina.ai/")
 JINA_RPM = 60
 
+# YouTube Transcript
+YOUTUBE_TRANSCRIPT_API_KEY = os.getenv("YOUTUBE_TRANSCRIPT_API_KEY")
+YOUTUBE_TRANSCRIPT_URL = os.getenv("YOUTUBE_TRANSCRIPT_URL", "https://www.youtube-transcript.io/api")
+YOUTUBE_TRANSCRIPT_RPM = 30
+
 # ===============================================================================
 # DATA DIRECTORIES
 # ===============================================================================
