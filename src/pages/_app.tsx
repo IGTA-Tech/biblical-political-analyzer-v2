@@ -42,30 +42,54 @@ export default function App({ Component, pageProps }: AppProps) {
               </Link>
 
               {/* Navigation Links */}
-              <div className="flex items-center space-x-6">
+              <div className="flex items-center space-x-4">
                 <Link
                   href="/"
-                  className={`hover:text-biblical-gold transition-colors ${
+                  className={`hover:text-biblical-gold transition-colors text-sm ${
                     isActive('/') ? 'text-biblical-gold font-semibold' : ''
                   }`}
                 >
-                  About This Project
+                  About
+                </Link>
+                <Link
+                  href="/bible-explorer"
+                  className={`hover:text-biblical-gold transition-colors text-sm ${
+                    isActive('/bible-explorer') ? 'text-biblical-gold font-semibold' : ''
+                  }`}
+                >
+                  Bible Explorer
+                </Link>
+                <Link
+                  href="/people-explorer"
+                  className={`hover:text-biblical-gold transition-colors text-sm ${
+                    isActive('/people-explorer') ? 'text-biblical-gold font-semibold' : ''
+                  }`}
+                >
+                  People
+                </Link>
+                <Link
+                  href="/timeline"
+                  className={`hover:text-biblical-gold transition-colors text-sm ${
+                    isActive('/timeline') ? 'text-biblical-gold font-semibold' : ''
+                  }`}
+                >
+                  Timeline
+                </Link>
+                <Link
+                  href="/comparative-views"
+                  className={`hover:text-biblical-gold transition-colors text-sm ${
+                    isActive('/comparative-views') ? 'text-biblical-gold font-semibold' : ''
+                  }`}
+                >
+                  Compare
                 </Link>
                 <Link
                   href="/analyze"
-                  className={`hover:text-biblical-gold transition-colors ${
+                  className={`hover:text-biblical-gold transition-colors text-sm ${
                     isActive('/analyze') ? 'text-biblical-gold font-semibold' : ''
                   }`}
                 >
                   Analyze
-                </Link>
-                <Link
-                  href="/what-this-does"
-                  className={`hover:text-biblical-gold transition-colors ${
-                    isActive('/what-this-does') ? 'text-biblical-gold font-semibold' : ''
-                  }`}
-                >
-                  How It Works
                 </Link>
               </div>
             </div>
