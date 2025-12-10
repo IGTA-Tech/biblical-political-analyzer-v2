@@ -3,9 +3,21 @@
  * Compare different theological perspectives and traditions
  */
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
+
+interface SearchResult {
+  id: string;
+  book: string;
+  chapter: number;
+  verse_start: number;
+  verse_end: number;
+  text: string;
+  testament: string;
+  themes: string[];
+  similarity: number;
+}
 
 // Sample comparative data
 const PERSPECTIVES = {
@@ -119,6 +131,30 @@ export default function ComparativeViewsPage() {
   const [traditionType, setTraditionType] = useState<TraditionType>('all');
   const [selectedTopic, setSelectedTopic] = useState<string | null>(null);
   const [selectedTraditions, setSelectedTraditions] = useState<string[]>([]);
+  const [topicVerses, setTopicVerses] = useState<SearchResult[]>([]);
+  const [versesLoading, setVersesLoading] = useState(false);
+
+  // Fetch related verses when a topic is selected
+  useEffect(() => {
+    if (selectedTopic) {
+      const fetchTopicVerses = async () => {
+        setVersesLoading(true);
+        try {
+          const response = await fetch(`/api/search?q=${encodeURIComponent(selectedTopic)}&limit=8`);
+          const data = await response.json();
+          if (data.success) {
+            setTopicVerses(data.results);
+          }
+        } catch (error) {
+          console.error('Error fetching topic verses:', error);
+        }
+        setVersesLoading(false);
+      };
+      fetchTopicVerses();
+    } else {
+      setTopicVerses([]);
+    }
+  }, [selectedTopic]);
 
   const toggleTradition = (name: string) => {
     setSelectedTraditions(prev =>
@@ -303,36 +339,96 @@ export default function ComparativeViewsPage() {
         )}
 
         {viewMode === 'topics' && (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {PERSPECTIVES.topics.map(topic => (
-              <div
-                key={topic.name}
-                onClick={() => setSelectedTopic(selectedTopic === topic.name ? null : topic.name)}
-                className={`card cursor-pointer hover:shadow-lg transition-all ${
-                  selectedTopic === topic.name ? 'ring-2 ring-biblical-gold' : ''
-                }`}
-              >
-                <h3 className="text-xl font-bold text-biblical-deepblue mb-2">{topic.name}</h3>
-                <p className="text-sm text-gray-600 mb-4">{topic.description}</p>
-                <div className="space-y-2">
-                  <h4 className="text-xs font-semibold text-gray-500 uppercase">Key Passages</h4>
-                  <div className="flex flex-wrap gap-1">
-                    {topic.passages.map(passage => (
-                      <span key={passage} className="px-2 py-0.5 bg-amber-100 text-amber-800 text-xs rounded">
-                        {passage}
-                      </span>
-                    ))}
+          <div>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {PERSPECTIVES.topics.map(topic => (
+                <div
+                  key={topic.name}
+                  onClick={() => setSelectedTopic(selectedTopic === topic.name ? null : topic.name)}
+                  className={`card cursor-pointer hover:shadow-lg transition-all ${
+                    selectedTopic === topic.name ? 'ring-2 ring-biblical-gold' : ''
+                  }`}
+                >
+                  <h3 className="text-xl font-bold text-biblical-deepblue mb-2">{topic.name}</h3>
+                  <p className="text-sm text-gray-600 mb-4">{topic.description}</p>
+                  <div className="space-y-2">
+                    <h4 className="text-xs font-semibold text-gray-500 uppercase">Key Passages</h4>
+                    <div className="flex flex-wrap gap-1">
+                      {topic.passages.map(passage => (
+                        <span key={passage} className="px-2 py-0.5 bg-amber-100 text-amber-800 text-xs rounded">
+                          {passage}
+                        </span>
+                      ))}
+                    </div>
                   </div>
+                  {selectedTopic === topic.name && (
+                    <div className="mt-4 pt-4 border-t border-gray-200 text-center">
+                      <span className="text-sm text-biblical-gold font-medium">Selected - See verses below</span>
+                    </div>
+                  )}
                 </div>
-                {selectedTopic === topic.name && (
-                  <div className="mt-4 pt-4 border-t border-gray-200">
-                    <button className="btn-primary w-full text-sm">
-                      Compare All Perspectives
-                    </button>
-                  </div>
-                )}
+              ))}
+            </div>
+
+            {/* Related Verses Section */}
+            {selectedTopic && (
+              <div className="mt-8">
+                <div className="card">
+                  <h3 className="text-xl font-bold text-biblical-deepblue mb-4">
+                    Related Verses: {selectedTopic}
+                  </h3>
+
+                  {versesLoading ? (
+                    <div className="flex items-center justify-center py-8">
+                      <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-biblical-gold"></div>
+                      <span className="ml-3 text-gray-600">Searching for relevant verses...</span>
+                    </div>
+                  ) : topicVerses.length > 0 ? (
+                    <div className="space-y-4">
+                      {topicVerses.map((verse) => (
+                        <div key={verse.id} className="p-4 bg-gray-50 rounded-lg border border-gray-200">
+                          <div className="flex items-center justify-between mb-2">
+                            <span className="font-semibold text-biblical-deepblue">
+                              {verse.book} {verse.chapter}:{verse.verse_start}
+                              {verse.verse_end !== verse.verse_start && `-${verse.verse_end}`}
+                            </span>
+                            <div className="flex items-center gap-2">
+                              <span className={`px-2 py-0.5 text-xs rounded ${
+                                verse.testament === 'OT'
+                                  ? 'bg-amber-100 text-amber-800'
+                                  : 'bg-blue-100 text-blue-800'
+                              }`}>
+                                {verse.testament === 'OT' ? 'Old Testament' : 'New Testament'}
+                              </span>
+                              {verse.similarity && (
+                                <span className="text-xs text-gray-500">
+                                  {Math.round(verse.similarity * 100)}% match
+                                </span>
+                              )}
+                            </div>
+                          </div>
+                          <p className="text-gray-700 italic">&ldquo;{verse.text}&rdquo;</p>
+                          {verse.themes && verse.themes.length > 0 && (
+                            <div className="mt-2 flex flex-wrap gap-1">
+                              {verse.themes.slice(0, 4).map(theme => (
+                                <span key={theme} className="px-2 py-0.5 bg-biblical-gold/10 text-biblical-deepblue text-xs rounded">
+                                  {theme}
+                                </span>
+                              ))}
+                            </div>
+                          )}
+                        </div>
+                      ))}
+                    </div>
+                  ) : (
+                    <div className="text-center py-8 text-gray-500">
+                      <p>No verses found for this topic yet.</p>
+                      <p className="text-sm mt-1">Database is still being populated with Bible verses.</p>
+                    </div>
+                  )}
+                </div>
               </div>
-            ))}
+            )}
           </div>
         )}
 
