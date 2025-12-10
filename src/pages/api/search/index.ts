@@ -70,7 +70,7 @@ export default async function handler(
     // This uses the pgvector extension's cosine distance operator
     const { data, error } = await supabaseAdmin.rpc('search_verses', {
       query_embedding: queryEmbedding,
-      match_threshold: 0.5,
+      match_threshold: 0.4,
       match_count: limit,
       filter_testament: testament || null,
       filter_book: book || null,
