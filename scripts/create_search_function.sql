@@ -5,6 +5,7 @@
 CREATE EXTENSION IF NOT EXISTS vector;
 
 -- Create the search function
+-- Note: Uses explicit casts to match table column types (varchar -> text)
 CREATE OR REPLACE FUNCTION search_verses(
   query_embedding vector(1536),
   match_threshold float DEFAULT 0.5,
@@ -31,14 +32,14 @@ BEGIN
   RETURN QUERY
   SELECT
     bp.id,
-    bp.book,
+    bp.book::text,
     bp.chapter,
     bp.verse_start,
     bp.verse_end,
-    bp.text,
-    bp.translation,
-    bp.testament,
-    bp.themes,
+    bp.text::text,
+    bp.translation::text,
+    bp.testament::text,
+    bp.themes::text[],
     1 - (bp.embedding <=> query_embedding) AS similarity
   FROM biblical_passages bp
   WHERE
