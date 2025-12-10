@@ -174,7 +174,8 @@ def main():
                     supabase.table("biblical_passages").insert({
                         "book": book_name,
                         "chapter": chapter_num,
-                        "verse": verse_num,
+                        "verse_start": verse_num,
+                        "verse_end": verse_num,
                         "text": verse_text,
                         "translation": "KJV",
                         "testament": testament,
