@@ -143,7 +143,7 @@ def main():
     for book_idx, book in enumerate(bible_data):
         abbrev = book.get("abbrev", "").lower()
         book_name = BOOK_NAMES.get(abbrev, abbrev.upper())
-        testament = "old" if book_name in OLD_TESTAMENT else "new"
+        testament = "OT" if book_name in OLD_TESTAMENT else "NT"
 
         chapters = book.get("chapters", [])
         print(f"\n[{book_idx+1}/{len(bible_data)}] {book_name} ({len(chapters)} chapters)")
