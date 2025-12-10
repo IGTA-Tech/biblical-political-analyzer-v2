@@ -3,9 +3,18 @@
  * Interactive Biblical timeline from Creation to Contemporary
  */
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
+
+interface Era {
+  id: string;
+  name: string;
+  dateRange: string;
+  filename: string;
+  size: number;
+  overview?: string;
+}
 
 // Timeline data covering Biblical and Post-Biblical history
 const TIMELINE_DATA = {
@@ -232,6 +241,31 @@ type TimelineTrack = 'biblical' | 'christianHistory' | 'jewishHistory';
 export default function TimelinePage() {
   const [track, setTrack] = useState<TimelineTrack>('biblical');
   const [expandedEra, setExpandedEra] = useState<string | null>(null);
+  const [apiEras, setApiEras] = useState<{ christian: Era[]; jewish: Era[] }>({ christian: [], jewish: [] });
+  const [loading, setLoading] = useState(false);
+
+  // Fetch era data from API for post-biblical tracks
+  useEffect(() => {
+    if (track !== 'biblical') {
+      setLoading(true);
+      fetch(`/api/timeline/eras?type=${track === 'christianHistory' ? 'christian' : 'jewish'}`)
+        .then(res => res.json())
+        .then(data => {
+          if (data.eras) {
+            if (track === 'christianHistory') {
+              setApiEras(prev => ({ ...prev, christian: data.eras }));
+            } else {
+              setApiEras(prev => ({ ...prev, jewish: data.eras }));
+            }
+          }
+          setLoading(false);
+        })
+        .catch(err => {
+          console.error('Error fetching eras:', err);
+          setLoading(false);
+        });
+    }
+  }, [track]);
 
   const currentTimeline = TIMELINE_DATA[track];
 

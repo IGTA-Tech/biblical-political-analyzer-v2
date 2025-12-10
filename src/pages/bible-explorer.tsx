@@ -8,6 +8,12 @@ import React, { useState, useEffect } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 
+interface BookContent {
+  title: string;
+  content: string;
+  subsections: { title: string; content: string }[];
+}
+
 // Bible structure data
 const BIBLE_STRUCTURE = {
   oldTestament: {
@@ -49,6 +55,27 @@ export default function BibleExplorerPage() {
   const [testament, setTestament] = useState<Testament>('all');
   const [selectedBook, setSelectedBook] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
+  const [bookContent, setBookContent] = useState<BookContent | null>(null);
+  const [loading, setLoading] = useState(false);
+
+  // Fetch book content when selected
+  useEffect(() => {
+    if (selectedBook) {
+      setLoading(true);
+      fetch(`/api/bible/${encodeURIComponent(selectedBook)}`)
+        .then(res => res.json())
+        .then(data => {
+          setBookContent(data);
+          setLoading(false);
+        })
+        .catch(err => {
+          console.error('Error fetching book:', err);
+          setLoading(false);
+        });
+    } else {
+      setBookContent(null);
+    }
+  }, [selectedBook]);
 
   const filterBooks = (books: string[]) => {
     if (!searchQuery) return books;
@@ -226,17 +253,25 @@ export default function BibleExplorerPage() {
             {/* Book Details Sidebar */}
             <div className="lg:col-span-1">
               <div className="card sticky top-4">
-                {selectedBook ? (
+                {loading ? (
+                  <div className="text-center py-8">
+                    <div className="animate-spin w-8 h-8 border-4 border-biblical-gold border-t-transparent rounded-full mx-auto mb-4"></div>
+                    <p className="text-gray-500">Loading {selectedBook}...</p>
+                  </div>
+                ) : selectedBook && bookContent ? (
                   <>
                     <h3 className="text-2xl font-bold text-biblical-deepblue mb-4">{selectedBook}</h3>
                     <div className="space-y-4">
-                      <div className="bg-amber-50 rounded-lg p-4">
-                        <h4 className="font-semibold text-amber-800 mb-2">Overview</h4>
-                        <p className="text-sm text-gray-700">
-                          Comprehensive analysis including historical context, archaeological evidence,
-                          cultural practices, political situation, and theological themes.
-                        </p>
-                      </div>
+                      {bookContent.subsections.length > 0 && (
+                        <div className="bg-amber-50 rounded-lg p-4">
+                          <h4 className="font-semibold text-amber-800 mb-2">Sections ({bookContent.subsections.length})</h4>
+                          <ul className="text-sm text-gray-700 space-y-1 max-h-48 overflow-y-auto">
+                            {bookContent.subsections.map((section, idx) => (
+                              <li key={idx} className="truncate">• {section.title}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
                       <div className="bg-blue-50 rounded-lg p-4">
                         <h4 className="font-semibold text-blue-800 mb-2">Available Analysis</h4>
                         <ul className="text-sm text-gray-700 space-y-1">
@@ -255,6 +290,10 @@ export default function BibleExplorerPage() {
                       </button>
                     </div>
                   </>
+                ) : selectedBook ? (
+                  <div className="text-center py-8">
+                    <p className="text-gray-500">Loading...</p>
+                  </div>
                 ) : (
                   <div className="text-center py-8">
                     <svg className="w-16 h-16 mx-auto text-gray-300 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">

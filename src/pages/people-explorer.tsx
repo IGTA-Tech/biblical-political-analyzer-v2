@@ -3,11 +3,11 @@
  * Explore Biblical characters, their journeys, relationships, and appearances
  */
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 
-// Sample Biblical characters data
+// Sample Biblical characters data (used as fallback)
 const BIBLICAL_CHARACTERS = {
   patriarchs: [
     { name: 'Abraham', title: 'Father of Faith', era: 'Patriarchal', books: ['Genesis'], appearances: 312, relations: ['Sarah', 'Isaac', 'Ishmael', 'Lot'] },
@@ -58,6 +58,26 @@ export default function PeopleExplorerPage() {
   const [category, setCategory] = useState<Category>('all');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedPerson, setSelectedPerson] = useState<Character | null>(null);
+  const [characters, setCharacters] = useState<Character[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  // Fetch characters from API
+  useEffect(() => {
+    fetch('/api/people')
+      .then(res => res.json())
+      .then(data => {
+        if (data.characters) {
+          setCharacters(data.characters);
+        }
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error('Error fetching people:', err);
+        // Fallback to static data
+        setCharacters(getAllCharacters());
+        setLoading(false);
+      });
+  }, []);
 
   const getAllCharacters = (): Character[] => {
     const all: Character[] = [];
@@ -68,9 +88,22 @@ export default function PeopleExplorerPage() {
   };
 
   const getFilteredCharacters = (): Character[] => {
-    let chars = category === 'all'
-      ? getAllCharacters()
-      : BIBLICAL_CHARACTERS[category as keyof typeof BIBLICAL_CHARACTERS] || [];
+    let chars = characters.length > 0 ? characters : getAllCharacters();
+
+    // Filter by category if not 'all'
+    if (category !== 'all') {
+      const categoryMap: Record<string, string[]> = {
+        patriarchs: ['patriarch', 'matriarch'],
+        kings: ['king', 'queen'],
+        prophets: ['prophet'],
+        newTestament: ['apostle', 'companion', 'messiah', 'family'],
+        women: ['matriarch', 'queen', 'judge'],
+      };
+      const validCategories = categoryMap[category] || [category];
+      chars = chars.filter(c =>
+        'category' in c ? validCategories.includes((c as any).category) : true
+      );
+    }
 
     if (searchQuery) {
       chars = chars.filter(c =>
