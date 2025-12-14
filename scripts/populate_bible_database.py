@@ -16,9 +16,11 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 import openai
 from supabase import create_client, Client
 
-# Load environment from .env file
+# Load environment from .env.local file (with fallback to .env)
 from dotenv import load_dotenv
-load_dotenv(Path(__file__).parent.parent / '.env')
+env_local = Path(__file__).parent.parent / '.env.local'
+env_file = Path(__file__).parent.parent / '.env'
+load_dotenv(env_local if env_local.exists() else env_file)
 
 # Configuration
 BATCH_SIZE = 20  # Process 20 verses at a time

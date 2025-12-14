@@ -49,3 +49,6 @@ ENV/
 *.swp
 *.swo
 *~
+
+# Local Netlify folder
+.netlify

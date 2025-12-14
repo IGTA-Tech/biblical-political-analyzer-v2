@@ -6,14 +6,39 @@
 import React, { useState, useEffect } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
+import EraDetailModal from '@/components/EraDetailModal';
 
-interface Era {
+interface KeyEvent {
+  title: string;
+  year: string;
+  description: string;
+}
+
+interface KeyFigure {
+  name: string;
+  role: string;
+}
+
+interface PerspectivesSummary {
+  catholic?: string;
+  orthodox?: string;
+  protestant?: string;
+  jewish?: string;
+  academic?: string;
+}
+
+interface ApiEra {
   id: string;
   name: string;
   dateRange: string;
+  tagline: string;
   filename: string;
   size: number;
-  overview?: string;
+  overview: string;
+  keyEvents: KeyEvent[];
+  keyFigures: KeyFigure[];
+  perspectives: PerspectivesSummary;
+  color: string;
 }
 
 // Timeline data covering Biblical and Post-Biblical history
@@ -241,22 +266,21 @@ type TimelineTrack = 'biblical' | 'christianHistory' | 'jewishHistory';
 export default function TimelinePage() {
   const [track, setTrack] = useState<TimelineTrack>('biblical');
   const [expandedEra, setExpandedEra] = useState<string | null>(null);
-  const [apiEras, setApiEras] = useState<{ christian: Era[]; jewish: Era[] }>({ christian: [], jewish: [] });
+  const [showPerspectives, setShowPerspectives] = useState<string | null>(null);
+  const [apiEras, setApiEras] = useState<{ christian: ApiEra[]; jewish: ApiEra[] }>({ christian: [], jewish: [] });
   const [loading, setLoading] = useState(false);
+  const [modalEra, setModalEra] = useState<{ id: string; type: 'christian' | 'jewish' } | null>(null);
 
   // Fetch era data from API for post-biblical tracks
   useEffect(() => {
-    if (track !== 'biblical') {
+    const type = track === 'christianHistory' ? 'christian' : track === 'jewishHistory' ? 'jewish' : null;
+    if (type && apiEras[type].length === 0) {
       setLoading(true);
-      fetch(`/api/timeline/eras?type=${track === 'christianHistory' ? 'christian' : 'jewish'}`)
+      fetch(`/api/timeline/eras?type=${type}`)
         .then(res => res.json())
         .then(data => {
           if (data.eras) {
-            if (track === 'christianHistory') {
-              setApiEras(prev => ({ ...prev, christian: data.eras }));
-            } else {
-              setApiEras(prev => ({ ...prev, jewish: data.eras }));
-            }
+            setApiEras(prev => ({ ...prev, [type]: data.eras }));
           }
           setLoading(false);
         })
@@ -265,9 +289,24 @@ export default function TimelinePage() {
           setLoading(false);
         });
     }
-  }, [track]);
+  }, [track, apiEras]);
 
-  const currentTimeline = TIMELINE_DATA[track];
+  // Get current timeline data - use API data for Christian/Jewish, hardcoded for Biblical
+  const getCurrentTimeline = () => {
+    if (track === 'biblical') {
+      return TIMELINE_DATA.biblical;
+    }
+    if (track === 'christianHistory') {
+      return apiEras.christian.length > 0 ? apiEras.christian : TIMELINE_DATA.christianHistory;
+    }
+    return apiEras.jewish.length > 0 ? apiEras.jewish : TIMELINE_DATA.jewishHistory;
+  };
+
+  const currentTimeline = getCurrentTimeline();
+  const isApiData = track !== 'biblical' && (
+    (track === 'christianHistory' && apiEras.christian.length > 0) ||
+    (track === 'jewishHistory' && apiEras.jewish.length > 0)
+  );
 
   return (
     <>
@@ -312,87 +351,223 @@ export default function TimelinePage() {
           </div>
         </div>
 
+        {/* Loading State */}
+        {loading && (
+          <div className="text-center py-8">
+            <div className="inline-block animate-spin rounded-full h-8 w-8 border-4 border-biblical-gold border-t-transparent"></div>
+            <p className="mt-2 text-gray-600">Loading era data...</p>
+          </div>
+        )}
+
         {/* Timeline */}
         <div className="relative">
           {/* Vertical Line */}
           <div className="absolute left-8 top-0 bottom-0 w-1 bg-gradient-to-b from-biblical-gold via-biblical-deepblue to-biblical-gold hidden md:block" />
 
           <div className="space-y-6">
-            {currentTimeline.map((period, periodIndex) => (
-              <div key={period.era} className="relative">
-                {/* Era Header */}
-                <button
-                  onClick={() => setExpandedEra(expandedEra === period.era ? null : period.era)}
-                  className={`w-full card hover:shadow-lg transition-all ${
-                    expandedEra === period.era ? 'ring-2 ring-biblical-gold' : ''
-                  }`}
-                >
-                  <div className="flex items-center gap-4">
-                    {/* Timeline Node */}
-                    <div className={`hidden md:flex w-12 h-12 rounded-full bg-${period.color}-500 items-center justify-center text-white font-bold text-lg flex-shrink-0`}>
-                      {periodIndex + 1}
-                    </div>
+            {currentTimeline.map((period: any, periodIndex: number) => {
+              // Handle both old format (era) and new API format (name)
+              const eraName = period.name || period.era;
+              const eraId = period.id || eraName;
+              const events = period.keyEvents || period.events || [];
+              const colorClass = period.color?.startsWith('bg-') ? period.color : `bg-${period.color}-500`;
 
-                    <div className="flex-grow text-left">
-                      <div className="flex items-center justify-between">
-                        <h3 className="text-xl font-bold text-biblical-deepblue">{period.era}</h3>
-                        <span className={`px-3 py-1 rounded-full text-sm font-medium bg-${period.color}-100 text-${period.color}-800`}>
-                          {period.dateRange}
-                        </span>
+              return (
+                <div key={eraId} className="relative">
+                  {/* Era Header */}
+                  <button
+                    onClick={() => setExpandedEra(expandedEra === eraId ? null : eraId)}
+                    className={`w-full card hover:shadow-lg transition-all ${
+                      expandedEra === eraId ? 'ring-2 ring-biblical-gold' : ''
+                    }`}
+                  >
+                    <div className="flex items-center gap-4">
+                      {/* Timeline Node */}
+                      <div className={`hidden md:flex w-12 h-12 rounded-full ${colorClass} items-center justify-center text-white font-bold text-lg flex-shrink-0`}>
+                        {periodIndex + 1}
                       </div>
-                      <p className="text-sm text-gray-500 mt-1">
-                        {period.events.length} key events
-                      </p>
-                    </div>
 
-                    <svg
-                      className={`w-6 h-6 text-gray-400 transition-transform ${
-                        expandedEra === period.era ? 'rotate-180' : ''
-                      }`}
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                    </svg>
-                  </div>
-                </button>
+                      <div className="flex-grow text-left">
+                        <div className="flex items-center justify-between flex-wrap gap-2">
+                          <h3 className="text-xl font-bold text-biblical-deepblue">{eraName}</h3>
+                          <span className={`px-3 py-1 rounded-full text-sm font-medium bg-amber-100 text-amber-800`}>
+                            {period.dateRange}
+                          </span>
+                        </div>
+                        {period.tagline && (
+                          <p className="text-sm text-gray-500 italic mt-1">{period.tagline}</p>
+                        )}
+                        <p className="text-sm text-gray-500 mt-1">
+                          {events.length} key events
+                          {period.keyFigures?.length > 0 && ` • ${period.keyFigures.length} key figures`}
+                        </p>
+                      </div>
 
-                {/* Events */}
-                {expandedEra === period.era && (
-                  <div className="mt-4 ml-0 md:ml-16 space-y-3 animation-fade-in">
-                    {period.events.map((event, eventIndex) => (
-                      <div
-                        key={event.title}
-                        className="card-biblical hover:shadow-md transition-shadow"
+                      <svg
+                        className={`w-6 h-6 text-gray-400 transition-transform flex-shrink-0 ${
+                          expandedEra === eraId ? 'rotate-180' : ''
+                        }`}
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
                       >
-                        <div className="flex items-start gap-4">
-                          <div className="flex-shrink-0 w-8 h-8 bg-amber-200 rounded-full flex items-center justify-center text-amber-800 font-bold text-sm">
-                            {eventIndex + 1}
-                          </div>
-                          <div className="flex-grow">
-                            <div className="flex items-center justify-between mb-1">
-                              <h4 className="font-semibold text-biblical-deepblue">{event.title}</h4>
-                              <span className="text-sm text-biblical-gold font-medium">{event.year}</span>
-                            </div>
-                            <p className="text-sm text-gray-600">{event.description}</p>
-                            {event.books.length > 0 && (
-                              <div className="flex flex-wrap gap-1 mt-2">
-                                {event.books.map(book => (
-                                  <span key={book} className="px-2 py-0.5 bg-amber-100 text-amber-800 text-xs rounded">
-                                    {book}
-                                  </span>
-                                ))}
-                              </div>
-                            )}
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                      </svg>
+                    </div>
+                  </button>
+
+                  {/* Expanded Content */}
+                  {expandedEra === eraId && (
+                    <div className="mt-4 ml-0 md:ml-16 space-y-4 animation-fade-in">
+                      {/* Overview (API data only) */}
+                      {period.overview && (
+                        <div className="card bg-gradient-to-r from-amber-50 to-white border-l-4 border-biblical-gold">
+                          <h4 className="font-semibold text-biblical-deepblue mb-2">Overview</h4>
+                          <p className="text-sm text-gray-700">{period.overview}</p>
+                          <div className="flex gap-3 mt-3">
+                            <button
+                              onClick={() => setModalEra({
+                                id: period.id,
+                                type: track === 'christianHistory' ? 'christian' : 'jewish'
+                              })}
+                              className="px-4 py-2 bg-biblical-deepblue text-white text-sm rounded-lg hover:bg-blue-800 transition-colors"
+                            >
+                              View Details
+                            </button>
+                            <Link
+                              href={`/era/${track === 'christianHistory' ? 'christian' : 'jewish'}/${period.id}`}
+                              className="px-4 py-2 border border-biblical-deepblue text-biblical-deepblue text-sm rounded-lg hover:bg-biblical-deepblue hover:text-white transition-colors"
+                            >
+                              Open Full Page →
+                            </Link>
                           </div>
                         </div>
+                      )}
+
+                      {/* Key Figures (API data only) */}
+                      {period.keyFigures?.length > 0 && (
+                        <div className="card">
+                          <h4 className="font-semibold text-biblical-deepblue mb-3">Key Figures</h4>
+                          <div className="flex flex-wrap gap-2">
+                            {period.keyFigures.map((figure: KeyFigure, idx: number) => (
+                              <span
+                                key={idx}
+                                className="px-3 py-1.5 bg-indigo-100 text-indigo-800 rounded-full text-sm"
+                                title={figure.role || undefined}
+                              >
+                                {figure.name}
+                                {figure.role && <span className="text-indigo-500 ml-1">• {figure.role}</span>}
+                              </span>
+                            ))}
+                          </div>
+                        </div>
+                      )}
+
+                      {/* Key Events */}
+                      <div className="card">
+                        <h4 className="font-semibold text-biblical-deepblue mb-3">Key Events</h4>
+                        <div className="space-y-3">
+                          {events.map((event: any, eventIndex: number) => (
+                            <div
+                              key={event.title}
+                              className="p-3 bg-amber-50 rounded-lg hover:bg-amber-100 transition-colors"
+                            >
+                              <div className="flex items-start gap-3">
+                                <div className="flex-shrink-0 w-7 h-7 bg-amber-200 rounded-full flex items-center justify-center text-amber-800 font-bold text-xs">
+                                  {eventIndex + 1}
+                                </div>
+                                <div className="flex-grow min-w-0">
+                                  <div className="flex items-center justify-between gap-2 mb-1">
+                                    <h5 className="font-medium text-biblical-deepblue">{event.title}</h5>
+                                    <span className="text-xs text-biblical-gold font-medium whitespace-nowrap">{event.year}</span>
+                                  </div>
+                                  <p className="text-sm text-gray-600">{event.description}</p>
+                                  {event.books?.length > 0 && (
+                                    <div className="flex flex-wrap gap-1 mt-2">
+                                      {event.books.map((book: string) => (
+                                        <span key={book} className="px-2 py-0.5 bg-amber-200 text-amber-800 text-xs rounded">
+                                          {book}
+                                        </span>
+                                      ))}
+                                    </div>
+                                  )}
+                                </div>
+                              </div>
+                            </div>
+                          ))}
+                        </div>
                       </div>
-                    ))}
-                  </div>
-                )}
-              </div>
-            ))}
+
+                      {/* Perspectives Summary (API data only) */}
+                      {period.perspectives && Object.keys(period.perspectives).length > 0 && (
+                        <div className="card">
+                          <div className="flex items-center justify-between mb-3">
+                            <h4 className="font-semibold text-biblical-deepblue">Tradition Perspectives</h4>
+                            <button
+                              onClick={() => setShowPerspectives(showPerspectives === eraId ? null : eraId)}
+                              className="text-sm text-biblical-deepblue hover:text-biblical-gold"
+                            >
+                              {showPerspectives === eraId ? 'Hide' : 'Show'} details
+                            </button>
+                          </div>
+                          <div className="flex flex-wrap gap-2 mb-3">
+                            {period.perspectives.catholic && (
+                              <span className="px-2 py-1 bg-purple-100 text-purple-700 text-xs rounded">Catholic</span>
+                            )}
+                            {period.perspectives.orthodox && (
+                              <span className="px-2 py-1 bg-blue-100 text-blue-700 text-xs rounded">Orthodox</span>
+                            )}
+                            {period.perspectives.protestant && (
+                              <span className="px-2 py-1 bg-green-100 text-green-700 text-xs rounded">Protestant</span>
+                            )}
+                            {period.perspectives.jewish && (
+                              <span className="px-2 py-1 bg-amber-100 text-amber-700 text-xs rounded">Jewish</span>
+                            )}
+                            {period.perspectives.academic && (
+                              <span className="px-2 py-1 bg-gray-100 text-gray-700 text-xs rounded">Academic</span>
+                            )}
+                          </div>
+                          {showPerspectives === eraId && (
+                            <div className="space-y-3 pt-3 border-t border-gray-100 animation-fade-in">
+                              {period.perspectives.catholic && (
+                                <div>
+                                  <span className="text-xs font-semibold text-purple-700 uppercase">Catholic:</span>
+                                  <p className="text-sm text-gray-600 mt-1">{period.perspectives.catholic}</p>
+                                </div>
+                              )}
+                              {period.perspectives.orthodox && (
+                                <div>
+                                  <span className="text-xs font-semibold text-blue-700 uppercase">Orthodox:</span>
+                                  <p className="text-sm text-gray-600 mt-1">{period.perspectives.orthodox}</p>
+                                </div>
+                              )}
+                              {period.perspectives.protestant && (
+                                <div>
+                                  <span className="text-xs font-semibold text-green-700 uppercase">Protestant:</span>
+                                  <p className="text-sm text-gray-600 mt-1">{period.perspectives.protestant}</p>
+                                </div>
+                              )}
+                              {period.perspectives.jewish && (
+                                <div>
+                                  <span className="text-xs font-semibold text-amber-700 uppercase">Jewish:</span>
+                                  <p className="text-sm text-gray-600 mt-1">{period.perspectives.jewish}</p>
+                                </div>
+                              )}
+                              {period.perspectives.academic && (
+                                <div>
+                                  <span className="text-xs font-semibold text-gray-700 uppercase">Academic:</span>
+                                  <p className="text-sm text-gray-600 mt-1">{period.perspectives.academic}</p>
+                                </div>
+                              )}
+                            </div>
+                          )}
+                        </div>
+                      )}
+                    </div>
+                  )}
+                </div>
+              );
+            })}
           </div>
         </div>
 
@@ -439,6 +614,16 @@ export default function TimelinePage() {
           </Link>
         </div>
       </div>
+
+      {/* Era Detail Modal */}
+      {modalEra && (
+        <EraDetailModal
+          eraId={modalEra.id}
+          type={modalEra.type}
+          isOpen={!!modalEra}
+          onClose={() => setModalEra(null)}
+        />
+      )}
     </>
   );
 }

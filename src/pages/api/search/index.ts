@@ -68,13 +68,12 @@ export default async function handler(
 
     // Build the RPC call for vector similarity search
     // This uses the pgvector extension's cosine distance operator
-    const { data, error } = await supabaseAdmin.rpc('search_verses', {
+    // Using type assertion since database types may not include all RPC functions
+    const { data, error } = await (supabaseAdmin.rpc as any)('search_biblical_passages', {
       query_embedding: queryEmbedding,
       match_threshold: 0.4,
       match_count: limit,
-      filter_testament: testament || null,
-      filter_book: book || null,
-      filter_theme: theme || null,
+      translation_filter: null,
     });
 
     if (error) {
