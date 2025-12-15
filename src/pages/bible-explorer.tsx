@@ -1,7 +1,7 @@
 /**
  * Bible Explorer Page
  * Browse the complete Biblical narrative with book selection,
- * chapter navigation, and contextual analysis
+ * chapter navigation, multi-version support, and AI study tools
  */
 
 import React, { useState, useEffect } from 'react';
@@ -27,6 +27,17 @@ interface SearchResult {
   similarity: number;
 }
 
+interface VerseComparison {
+  reference: string;
+  versions: { [key: string]: { text: string; name: string } };
+}
+
+interface StudyContent {
+  reference: string;
+  type: string;
+  content: string;
+}
+
 // Bible structure data
 const BIBLE_STRUCTURE = {
   oldTestament: {
@@ -45,6 +56,22 @@ const BIBLE_STRUCTURE = {
   },
 };
 
+const AVAILABLE_TRANSLATIONS = [
+  { code: 'kjv', name: 'King James Version', abbr: 'KJV' },
+  { code: 'asv', name: 'American Standard', abbr: 'ASV' },
+  { code: 'web', name: 'World English Bible', abbr: 'WEB' },
+  { code: 'bbe', name: 'Basic English', abbr: 'BBE' },
+  { code: 'ylt', name: "Young's Literal", abbr: 'YLT' },
+];
+
+const STUDY_TOOLS = [
+  { type: 'explain', label: 'Explain', icon: '💡', description: 'Simple explanation' },
+  { type: 'study-guide', label: 'Study Guide', icon: '📖', description: 'Full study guide' },
+  { type: 'discussion', label: 'Discussion', icon: '💬', description: 'Group questions' },
+  { type: 'context', label: 'Context', icon: '📜', description: 'Historical background' },
+  { type: 'application', label: 'Apply', icon: '🎯', description: 'Practical application' },
+];
+
 const HISTORICAL_PERIODS = [
   { id: 'primeval', name: 'Primeval History', range: 'Creation - Abraham', books: ['Genesis 1-11'] },
   { id: 'patriarchal', name: 'Patriarchal Period', range: '~2000-1700 BCE', books: ['Genesis 12-50'] },
@@ -60,7 +87,7 @@ const HISTORICAL_PERIODS = [
   { id: 'early-church', name: 'Early Church', range: '30-100 CE', books: ['Acts', 'Epistles'] },
 ];
 
-type ViewMode = 'books' | 'timeline' | 'themes' | 'search';
+type ViewMode = 'books' | 'timeline' | 'themes' | 'search' | 'verse-lookup' | 'study';
 type Testament = 'old' | 'new' | 'all';
 
 export default function BibleExplorerPage() {
@@ -73,6 +100,81 @@ export default function BibleExplorerPage() {
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
   const [searchLoading, setSearchLoading] = useState(false);
   const [searchPerformed, setSearchPerformed] = useState(false);
+
+  // Multi-version state
+  const [verseReference, setVerseReference] = useState('');
+  const [selectedTranslations, setSelectedTranslations] = useState(['kjv', 'web']);
+  const [verseComparison, setVerseComparison] = useState<VerseComparison[] | null>(null);
+  const [verseLoading, setVerseLoading] = useState(false);
+
+  // AI Study Tools state
+  const [studyReference, setStudyReference] = useState('');
+  const [studyType, setStudyType] = useState('explain');
+  const [studyContent, setStudyContent] = useState<StudyContent | null>(null);
+  const [studyLoading, setStudyLoading] = useState(false);
+
+  // Fetch verse in multiple translations
+  const fetchVerseComparison = async () => {
+    if (!verseReference) return;
+
+    setVerseLoading(true);
+    try {
+      const translations = selectedTranslations.join(',');
+      const res = await fetch(`/api/bible/verse?reference=${encodeURIComponent(verseReference)}&translations=${translations}&compare=true`);
+      const data = await res.json();
+
+      if (data.comparison) {
+        setVerseComparison(data.comparison);
+      } else if (data.translations) {
+        // Convert to comparison format
+        const comparison: VerseComparison[] = [];
+        const firstTrans = Object.values(data.translations)[0] as any[];
+        firstTrans.forEach((v: any, idx: number) => {
+          const comp: VerseComparison = {
+            reference: v.reference,
+            versions: {}
+          };
+          for (const [trans, verses] of Object.entries(data.translations)) {
+            const verse = (verses as any[])[idx];
+            if (verse) {
+              comp.versions[trans] = { text: verse.text, name: verse.translationName };
+            }
+          }
+          comparison.push(comp);
+        });
+        setVerseComparison(comparison);
+      }
+    } catch (err) {
+      console.error('Error fetching verse:', err);
+    } finally {
+      setVerseLoading(false);
+    }
+  };
+
+  // Fetch AI study content
+  const fetchStudyContent = async (reference?: string, type?: string) => {
+    const ref = reference || studyReference;
+    const studyToolType = type || studyType;
+    if (!ref) return;
+
+    setStudyLoading(true);
+    setStudyReference(ref);
+    setStudyType(studyToolType);
+    setViewMode('study');
+
+    try {
+      const res = await fetch(`/api/study?reference=${encodeURIComponent(ref)}&type=${studyToolType}`);
+      const data = await res.json();
+
+      if (data.content) {
+        setStudyContent(data);
+      }
+    } catch (err) {
+      console.error('Error fetching study content:', err);
+    } finally {
+      setStudyLoading(false);
+    }
+  };
 
   // Semantic search handler
   const handleSearch = async () => {
@@ -128,10 +230,19 @@ export default function BibleExplorerPage() {
   }, [selectedBook]);
 
   const filterBooks = (books: string[]) => {
-    if (!searchQuery) return books;
+    if (!searchQuery || viewMode !== 'books') return books;
     return books.filter(book =>
       book.toLowerCase().includes(searchQuery.toLowerCase())
     );
+  };
+
+  const toggleTranslation = (code: string) => {
+    setSelectedTranslations(prev => {
+      if (prev.includes(code)) {
+        return prev.length > 1 ? prev.filter(t => t !== code) : prev;
+      }
+      return [...prev, code];
+    });
   };
 
   const BookCard = ({ book, category }: { book: string; category: string }) => (
@@ -166,11 +277,76 @@ export default function BibleExplorerPage() {
     );
   };
 
+  // Verse card with study tools
+  const VerseCard = ({ result }: { result: SearchResult }) => {
+    const reference = `${result.book} ${result.chapter}:${result.verse_start}${result.verse_end !== result.verse_start ? `-${result.verse_end}` : ''}`;
+
+    return (
+      <div className="p-4 rounded-lg border border-gray-200 hover:border-biblical-gold hover:bg-amber-50 transition-all">
+        <div className="flex items-start justify-between gap-4">
+          <div className="flex-grow">
+            <div className="flex items-center gap-2 mb-2 flex-wrap">
+              <span className="text-lg font-semibold text-biblical-deepblue">{reference}</span>
+              <span className={`text-xs px-2 py-1 rounded ${
+                result.testament === 'OT' ? 'bg-amber-100 text-amber-800' : 'bg-blue-100 text-blue-800'
+              }`}>
+                {result.testament}
+              </span>
+              <span className="text-xs text-gray-400">{result.translation}</span>
+            </div>
+            <p className="text-gray-700 leading-relaxed mb-3">{result.text}</p>
+
+            {/* AI Study Tools */}
+            <div className="flex flex-wrap gap-2">
+              {STUDY_TOOLS.slice(0, 4).map(tool => (
+                <button
+                  key={tool.type}
+                  onClick={() => fetchStudyContent(reference, tool.type)}
+                  className="px-3 py-1 text-xs bg-gray-100 hover:bg-biblical-gold hover:text-white rounded-full transition-colors flex items-center gap-1"
+                  title={tool.description}
+                >
+                  <span>{tool.icon}</span>
+                  {tool.label}
+                </button>
+              ))}
+              <button
+                onClick={() => {
+                  setVerseReference(reference);
+                  setViewMode('verse-lookup');
+                  setTimeout(fetchVerseComparison, 100);
+                }}
+                className="px-3 py-1 text-xs bg-blue-100 hover:bg-blue-500 hover:text-white text-blue-700 rounded-full transition-colors"
+              >
+                Compare Versions
+              </button>
+            </div>
+
+            {result.themes && result.themes.length > 0 && (
+              <div className="mt-2 flex flex-wrap gap-1">
+                {result.themes.map((theme) => (
+                  <span key={theme} className="text-xs px-2 py-0.5 bg-gray-100 text-gray-600 rounded">
+                    {theme}
+                  </span>
+                ))}
+              </div>
+            )}
+          </div>
+          <div className="flex-shrink-0 text-right">
+            <div className="text-2xl font-bold text-biblical-gold">
+              {(result.similarity * 100).toFixed(0)}%
+            </div>
+            <div className="text-xs text-gray-400">match</div>
+          </div>
+        </div>
+      </div>
+    );
+  };
+
   return (
     <>
       <Head>
         <title>Bible Explorer - Biblical Political Analyzer</title>
-        <meta name="description" content="Explore the complete Biblical narrative with historical context, archaeological evidence, and scholarly analysis." />
+        <meta name="description" content="Explore the complete Biblical narrative with multi-version support, AI study tools, and semantic search." />
       </Head>
 
       <div className="section-container">
@@ -180,8 +356,8 @@ export default function BibleExplorerPage() {
             Bible Explorer
           </h1>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-            Explore the complete Biblical narrative from Genesis to Revelation with historical context,
-            archaeological evidence, and multi-perspective analysis.
+            Explore Scripture with multiple translations, AI-powered study tools,
+            and semantic search across 31,000+ verses.
           </p>
         </div>
 
@@ -192,16 +368,16 @@ export default function BibleExplorerPage() {
             <div className="text-sm text-gray-600">Books</div>
           </div>
           <div className="card text-center">
-            <div className="text-3xl font-bold text-biblical-gold">1,189</div>
-            <div className="text-sm text-gray-600">Chapters</div>
+            <div className="text-3xl font-bold text-biblical-gold">5</div>
+            <div className="text-sm text-gray-600">Translations</div>
           </div>
           <div className="card text-center">
             <div className="text-3xl font-bold text-biblical-gold">31,102</div>
             <div className="text-sm text-gray-600">Verses</div>
           </div>
           <div className="card text-center">
-            <div className="text-3xl font-bold text-biblical-gold">6.5MB</div>
-            <div className="text-sm text-gray-600">Analysis Content</div>
+            <div className="text-3xl font-bold text-biblical-gold">AI</div>
+            <div className="text-sm text-gray-600">Study Tools</div>
           </div>
         </div>
 
@@ -209,11 +385,11 @@ export default function BibleExplorerPage() {
         <div className="card mb-8">
           <div className="flex flex-wrap items-center justify-between gap-4">
             {/* View Mode Tabs */}
-            <div className="flex rounded-lg border border-gray-200 overflow-hidden">
+            <div className="flex flex-wrap rounded-lg border border-gray-200 overflow-hidden">
               {[
                 { id: 'books', label: 'By Book', icon: '📖' },
+                { id: 'verse-lookup', label: 'Verse Lookup', icon: '🔎' },
                 { id: 'timeline', label: 'Timeline', icon: '📅' },
-                { id: 'themes', label: 'Themes', icon: '🎯' },
                 { id: 'search', label: 'Search', icon: '🔍' },
               ].map(({ id, label, icon }) => (
                 <button
@@ -275,7 +451,200 @@ export default function BibleExplorerPage() {
           </div>
         </div>
 
-        {/* Main Content */}
+        {/* Verse Lookup View */}
+        {viewMode === 'verse-lookup' && (
+          <div className="card mb-8">
+            <h2 className="text-2xl font-bold text-biblical-deepblue mb-6">Compare Bible Versions</h2>
+
+            {/* Verse Input */}
+            <div className="flex flex-wrap gap-4 mb-6">
+              <div className="flex-grow">
+                <label className="block text-sm font-medium text-gray-700 mb-2">Enter Verse Reference</label>
+                <div className="flex gap-2">
+                  <input
+                    type="text"
+                    value={verseReference}
+                    onChange={(e) => setVerseReference(e.target.value)}
+                    placeholder="e.g., John 3:16 or Romans 8:28-30"
+                    className="input-field flex-grow"
+                    onKeyDown={(e) => e.key === 'Enter' && fetchVerseComparison()}
+                  />
+                  <button
+                    onClick={fetchVerseComparison}
+                    disabled={verseLoading || !verseReference}
+                    className="btn-primary px-6 disabled:opacity-50"
+                  >
+                    {verseLoading ? 'Loading...' : 'Compare'}
+                  </button>
+                </div>
+              </div>
+            </div>
+
+            {/* Translation Selector */}
+            <div className="mb-6">
+              <label className="block text-sm font-medium text-gray-700 mb-2">Select Translations to Compare</label>
+              <div className="flex flex-wrap gap-2">
+                {AVAILABLE_TRANSLATIONS.map(trans => (
+                  <button
+                    key={trans.code}
+                    onClick={() => toggleTranslation(trans.code)}
+                    className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
+                      selectedTranslations.includes(trans.code)
+                        ? 'bg-biblical-deepblue text-white'
+                        : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                    }`}
+                  >
+                    {trans.abbr}
+                    <span className="hidden md:inline ml-1 text-xs opacity-75">({trans.name})</span>
+                  </button>
+                ))}
+              </div>
+            </div>
+
+            {/* Comparison Results */}
+            {verseLoading ? (
+              <div className="text-center py-8">
+                <div className="animate-spin w-10 h-10 border-4 border-biblical-gold border-t-transparent rounded-full mx-auto mb-4"></div>
+                <p className="text-gray-500">Fetching verses...</p>
+              </div>
+            ) : verseComparison && verseComparison.length > 0 ? (
+              <div className="space-y-6">
+                {verseComparison.map((verse, idx) => (
+                  <div key={idx} className="border rounded-lg overflow-hidden">
+                    <div className="bg-biblical-deepblue text-white px-4 py-2 font-semibold">
+                      {verse.reference}
+                    </div>
+                    <div className="divide-y">
+                      {Object.entries(verse.versions).map(([code, data]) => (
+                        <div key={code} className="p-4 hover:bg-amber-50">
+                          <div className="flex items-center gap-2 mb-2">
+                            <span className="px-2 py-1 bg-biblical-gold text-white text-xs font-bold rounded">
+                              {code.toUpperCase()}
+                            </span>
+                            <span className="text-sm text-gray-500">{data.name}</span>
+                          </div>
+                          <p className="text-gray-800 leading-relaxed">{data.text}</p>
+                        </div>
+                      ))}
+                    </div>
+                    {/* Study Tools for this verse */}
+                    <div className="bg-gray-50 px-4 py-3 flex flex-wrap gap-2">
+                      {STUDY_TOOLS.map(tool => (
+                        <button
+                          key={tool.type}
+                          onClick={() => fetchStudyContent(verse.reference, tool.type)}
+                          className="px-3 py-1 text-xs bg-white border border-gray-200 hover:border-biblical-gold hover:bg-amber-50 rounded-full transition-colors flex items-center gap-1"
+                        >
+                          <span>{tool.icon}</span>
+                          {tool.label}
+                        </button>
+                      ))}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            ) : verseReference && !verseLoading ? (
+              <div className="text-center py-8 text-gray-500">
+                <p>Enter a verse reference and click Compare to see multiple translations.</p>
+                <p className="text-sm mt-2">Examples: "John 3:16", "Psalm 23:1-6", "Romans 8:28"</p>
+              </div>
+            ) : null}
+          </div>
+        )}
+
+        {/* AI Study View */}
+        {viewMode === 'study' && (
+          <div className="card mb-8">
+            <div className="flex items-center justify-between mb-6">
+              <h2 className="text-2xl font-bold text-biblical-deepblue">
+                AI Study Tools
+              </h2>
+              <button
+                onClick={() => setViewMode('search')}
+                className="text-sm text-gray-500 hover:text-biblical-deepblue"
+              >
+                ← Back to Search
+              </button>
+            </div>
+
+            {/* Study Type Selector */}
+            <div className="flex flex-wrap gap-2 mb-6">
+              {STUDY_TOOLS.map(tool => (
+                <button
+                  key={tool.type}
+                  onClick={() => {
+                    setStudyType(tool.type);
+                    if (studyReference) fetchStudyContent(studyReference, tool.type);
+                  }}
+                  className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors flex items-center gap-2 ${
+                    studyType === tool.type
+                      ? 'bg-biblical-deepblue text-white'
+                      : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                  }`}
+                >
+                  <span>{tool.icon}</span>
+                  {tool.label}
+                </button>
+              ))}
+            </div>
+
+            {/* Reference Input */}
+            <div className="flex gap-2 mb-6">
+              <input
+                type="text"
+                value={studyReference}
+                onChange={(e) => setStudyReference(e.target.value)}
+                placeholder="Enter verse reference (e.g., John 3:16)"
+                className="input-field flex-grow"
+                onKeyDown={(e) => e.key === 'Enter' && fetchStudyContent()}
+              />
+              <button
+                onClick={() => fetchStudyContent()}
+                disabled={studyLoading || !studyReference}
+                className="btn-primary px-6 disabled:opacity-50"
+              >
+                {studyLoading ? 'Generating...' : 'Generate'}
+              </button>
+            </div>
+
+            {/* Study Content */}
+            {studyLoading ? (
+              <div className="text-center py-12">
+                <div className="animate-spin w-12 h-12 border-4 border-biblical-gold border-t-transparent rounded-full mx-auto mb-4"></div>
+                <p className="text-gray-500">Generating {studyType} for {studyReference}...</p>
+                <p className="text-sm text-gray-400 mt-2">Using AI to create personalized study content</p>
+              </div>
+            ) : studyContent ? (
+              <div className="bg-amber-50 rounded-lg p-6">
+                <div className="flex items-center gap-2 mb-4">
+                  <span className="text-2xl">{STUDY_TOOLS.find(t => t.type === studyContent.type)?.icon}</span>
+                  <h3 className="text-xl font-bold text-biblical-deepblue">{studyContent.reference}</h3>
+                  <span className="px-2 py-1 bg-biblical-gold text-white text-xs rounded capitalize">
+                    {studyContent.type.replace('-', ' ')}
+                  </span>
+                </div>
+                <div
+                  className="prose prose-sm max-w-none text-gray-700"
+                  dangerouslySetInnerHTML={{
+                    __html: studyContent.content
+                      .replace(/\*\*([^*]+)\*\*/g, '<strong class="text-biblical-deepblue">$1</strong>')
+                      .replace(/### ([^\n]+)/g, '<h3 class="text-lg font-semibold text-biblical-deepblue mt-4 mb-2">$1</h3>')
+                      .replace(/## ([^\n]+)/g, '<h2 class="text-xl font-bold text-biblical-deepblue mt-6 mb-3">$1</h2>')
+                      .replace(/\n- /g, '<br/>• ')
+                      .replace(/\n\d+\. /g, (match) => `<br/>${match.trim()} `)
+                      .replace(/\n\n/g, '</p><p class="mb-3">')
+                  }}
+                />
+              </div>
+            ) : (
+              <div className="text-center py-12 text-gray-500">
+                <p>Select a study tool and enter a verse reference to generate AI-powered study content.</p>
+              </div>
+            )}
+          </div>
+        )}
+
+        {/* Books View */}
         {viewMode === 'books' && (
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
             {/* Book List */}
@@ -332,27 +701,32 @@ export default function BibleExplorerPage() {
                         </div>
                       )}
                       <div className="bg-blue-50 rounded-lg p-4">
-                        <h4 className="font-semibold text-blue-800 mb-2">Available Analysis</h4>
-                        <ul className="text-sm text-gray-700 space-y-1">
-                          <li>• Historical & Archaeological Context</li>
-                          <li>• Cultural Practices Reflected</li>
-                          <li>• Political Situation</li>
-                          <li>• Theological Themes</li>
-                          <li>• Connection to Broader Narrative</li>
-                        </ul>
+                        <h4 className="font-semibold text-blue-800 mb-2">Quick Actions</h4>
+                        <div className="space-y-2">
+                          <button
+                            onClick={() => {
+                              setVerseReference(`${selectedBook} 1:1`);
+                              setViewMode('verse-lookup');
+                            }}
+                            className="btn-secondary w-full text-sm"
+                          >
+                            Compare Translations
+                          </button>
+                          <button
+                            onClick={() => {
+                              setStudyReference(`${selectedBook} 1`);
+                              setStudyType('context');
+                              setViewMode('study');
+                              fetchStudyContent(`${selectedBook} 1`, 'context');
+                            }}
+                            className="btn-primary w-full text-sm"
+                          >
+                            AI Study Guide
+                          </button>
+                        </div>
                       </div>
-                      <button className="btn-primary w-full">
-                        View Full Analysis
-                      </button>
-                      <button className="btn-secondary w-full">
-                        Compare Versions
-                      </button>
                     </div>
                   </>
-                ) : selectedBook ? (
-                  <div className="text-center py-8">
-                    <p className="text-gray-500">Loading...</p>
-                  </div>
                 ) : (
                   <div className="text-center py-8">
                     <svg className="w-16 h-16 mx-auto text-gray-300 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -366,6 +740,7 @@ export default function BibleExplorerPage() {
           </div>
         )}
 
+        {/* Timeline View */}
         {viewMode === 'timeline' && (
           <div className="card">
             <h2 className="text-2xl font-bold text-biblical-deepblue mb-6">Historical Timeline</h2>
@@ -394,40 +769,7 @@ export default function BibleExplorerPage() {
           </div>
         )}
 
-        {viewMode === 'themes' && (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {[
-              { name: 'Covenant', icon: '📜', count: 847, color: 'amber' },
-              { name: 'Redemption', icon: '✝️', count: 523, color: 'red' },
-              { name: 'Kingdom', icon: '👑', count: 412, color: 'purple' },
-              { name: 'Justice', icon: '⚖️', count: 389, color: 'blue' },
-              { name: 'Prophecy', icon: '🔮', count: 367, color: 'indigo' },
-              { name: 'Worship', icon: '🙏', count: 298, color: 'green' },
-              { name: 'Creation', icon: '🌍', count: 245, color: 'teal' },
-              { name: 'Wisdom', icon: '💡', count: 234, color: 'yellow' },
-              { name: 'Suffering', icon: '💔', count: 198, color: 'gray' },
-            ].map(theme => (
-              <div
-                key={theme.name}
-                className={`card hover:shadow-lg transition-shadow cursor-pointer border-l-4 border-${theme.color}-500`}
-              >
-                <div className="flex items-center justify-between">
-                  <div className="flex items-center gap-3">
-                    <span className="text-3xl">{theme.icon}</span>
-                    <div>
-                      <h3 className="font-semibold text-biblical-deepblue">{theme.name}</h3>
-                      <p className="text-sm text-gray-500">{theme.count} references</p>
-                    </div>
-                  </div>
-                  <svg className="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </div>
-              </div>
-            ))}
-          </div>
-        )}
-
+        {/* Search Results View */}
         {viewMode === 'search' && (
           <div className="card">
             <h2 className="text-2xl font-bold text-biblical-deepblue mb-6">
@@ -447,44 +789,8 @@ export default function BibleExplorerPage() {
               </div>
             ) : searchResults.length > 0 ? (
               <div className="space-y-4">
-                {searchResults.map((result, index) => (
-                  <div
-                    key={result.id}
-                    className="p-4 rounded-lg border border-gray-200 hover:border-biblical-gold hover:bg-amber-50 transition-all"
-                  >
-                    <div className="flex items-start justify-between gap-4">
-                      <div className="flex-grow">
-                        <div className="flex items-center gap-2 mb-2">
-                          <span className="text-lg font-semibold text-biblical-deepblue">
-                            {result.book} {result.chapter}:{result.verse_start}
-                            {result.verse_end !== result.verse_start && `-${result.verse_end}`}
-                          </span>
-                          <span className={`text-xs px-2 py-1 rounded ${
-                            result.testament === 'OT' ? 'bg-amber-100 text-amber-800' : 'bg-blue-100 text-blue-800'
-                          }`}>
-                            {result.testament}
-                          </span>
-                          <span className="text-xs text-gray-400">{result.translation}</span>
-                        </div>
-                        <p className="text-gray-700 leading-relaxed">{result.text}</p>
-                        {result.themes && result.themes.length > 0 && (
-                          <div className="mt-2 flex flex-wrap gap-1">
-                            {result.themes.map((theme) => (
-                              <span key={theme} className="text-xs px-2 py-0.5 bg-gray-100 text-gray-600 rounded">
-                                {theme}
-                              </span>
-                            ))}
-                          </div>
-                        )}
-                      </div>
-                      <div className="flex-shrink-0 text-right">
-                        <div className="text-2xl font-bold text-biblical-gold">
-                          {(result.similarity * 100).toFixed(0)}%
-                        </div>
-                        <div className="text-xs text-gray-400">match</div>
-                      </div>
-                    </div>
-                  </div>
+                {searchResults.map((result) => (
+                  <VerseCard key={result.id} result={result} />
                 ))}
               </div>
             ) : searchPerformed ? (
