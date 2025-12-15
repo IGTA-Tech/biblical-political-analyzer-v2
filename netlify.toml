@@ -12,17 +12,8 @@
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
-# Redirect rules for SPA routing
-[[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/:splat"
-  status = 200
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-  conditions = {Role = ["admin"]}
+# Next.js handles API routes automatically via @netlify/plugin-nextjs
+# No manual redirects needed for /api/*
 
 # Security headers
 [[headers]]
